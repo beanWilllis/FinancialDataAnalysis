@@ -1,0 +1,9 @@
+DROP TABLE "USCurrencyData";
+DROP TABLE "EUCurrencyData";
+DROP TABLE "CACUrrencyData";
+DROP VIEW "Forex";
+DROP TABLE "Transactions";
+DROP TABLE "Accounts";
+DROP TABLE "Stocks";
+DROP TABLE "People";
+DROP VIEW "CombinedTables";

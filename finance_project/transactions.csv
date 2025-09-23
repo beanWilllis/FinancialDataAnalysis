@@ -1,0 +1,1124 @@
+Name,Account ID,Transaction ID,Account Type,Asset,Ticker,Quantity,Trade Date,Settlement Date,Price Per Share,Currency,Status,Notes
+Kimberly Williams,ACC-7272-94,1012ca69,Brokerage,berkshire hathaway,BRK.A,240,19-Apr-2023,20-Apr-2023,$3620.05,USD,Completed,short-term
+Christine HANSON,ACC-5932-72,f4275f69,Brokerage,META PLATFORMS,META,N/A,24-Jun-2024,25-Jun-2024,$1091.9,EUR,Completed,dividends reinvested
+John taylor,ACC-1996-88,bc8ad60d,Roth IRA,APPLE INC.,AAPL,107,3-Oct-2024,10/4/2024,4588.32,USD,Completed,dividends reinvested
+Jeffrey Ford,ACC-8897-53,ce385a4a,401(k),APPLE INC.,AAPL,788,5-Jun-2023,6-Jun-2023,$1247.4,CAD,Completed,short-term
+KIMBERLY williams,ACC-7272-94,a0132dc1,Brokerage, Nvidia Corporation ,NVDA,771,10/25/2023,,4939.86usd,CAD,Pending,pending
+,ACC-9187-98,6cc2b515,Joint,"AMAZON.COM, INC.",Amzn,ten,2/8/2024,2/9/2024,"3,885.48 USD",USD,Completed,dividends reinvested
+james MILLER,ACC-6934-80,db22166e,Trust,MICROSOFT CORP,MSFT,294,17-Jul-2025,18-Jul-2025,N/A,USD,Completed,dividends reinvested
+benjamin Wilson,ACC-5940-08,15f82e28,Trust,johnson & johnson,jnj,233,6/5/2023,6/6/2023,$3833.2,CAD,Completed,dividends reinvested
+Alejandra jimenez,ACC-7815-65,536380b9,Brokerage,TESLA INC.,tsla,223,22-Nov-2022,23-Nov-2022,3094.37,EUR,Completed,watchlist
+deborah Moody,ACC-4991-00,837cb1a5,Roth IRA,NVIDIA CORPORATION,NVDA,630,9-Jul-2025,10-Jul-2025,954.68usd,EUR,Completed,auto-invest
+gary LYNCH,ACC-6213-57,38642910,Custodial,apple inc.,Aapl,609,28-Nov-2023,11/29/2023,N/A,EUR,Completed,watchlist
+Jeremy martin,ACC-5752-39,8aca23dd,401(k),Netflix,nflx,318,6/17/2025,18-Jun-2025,2610.77usd,USD,Completed,
+amy JOHNSON,ACC-7992-71,d4b47b3f,401(k),Alphabet Inc.,Goog,636,11/22/2022,23-Nov-2022,3656.75usd,EUR,Completed,auto-invest
+AARON jones,ACC-2757-73,089bb1bd,Trust,JOHNSON & JOHNSON,JNJ,406,15-Oct-2024,10/16/2024,$520.90,USD,Completed,short-term
+KEVIN Wallace,ACC-1036-37,052539b3,Trust,"AMAZON.COM, INC.",amzn,240,7-Apr-2022,8-Apr-2022,3470.22,USD,Completed,short-term
+jamie GONZALES,ACC-1903-05,203f4d6b,Brokerage,NETFLIX,nflx,493,18-Jun-2024,20-Jun-2024,3327.94,CAD,Completed,watchlist
+leah Mendez,ACC-9233-51,9fa5856f,401(k),Apple Inc.,aapl,259,4-Apr-2025,4/7/2025,$25.6,USD,Completed,
+FRANCISCO miller,ACC-2320-61,56bfccbf,Trust,NVIDIA CORPORATION,NVDA,937,4/1/2025,2-Apr-2025,$2877.2,CAD,Completed,dividends reinvested
+Andrea DENNIS,ACC-8602-19,41c92c3e,401(k),NVIDIA CORPORATION,Nvda,504,4/12/2021,4/13/2021,109.35,USD,Completed,
+stephen CARTER,ACC-6359-95,c2df6868,Trust,meta platforms,META,44,7/10/2025,,161.71 USD,USD,Pending,pending
+theodore maldonado,,101345af,Joint,berkshire hathaway,brk.a,291,2/21/2025,24-Feb-2025,1040.08,USD,Completed,short-term
+FRANK Morgan,ACC-1723-94,8ee96527,401(k),"AMAZON.COM, INC.",AMZN,884,12/2/2024,,4668.65usd,CAD,Pending,pending
+frank Marshall,ACC-7953-52,e1509bf0,Roth IRA,MICROSOFT CORP,MSFT,396,28-Feb-2025,3/3/2025,"1,105.44 USD",EUR,Completed,auto-invest
+jennifer callahan,ACC-8248-29,bad78ec4,401(k),tesla inc.,TSLA,998,9/11/2024,9/12/2024,549.17usd,USD,Completed,
+Alejandra jimenez,ACC-7815-65,a1c60d80,Brokerage,NETFLIX,Nflx,876,23-Nov-2021,24-Nov-2021,$3341.68,CAD,Completed,dividends reinvested
+TINA JONES,ACC-5322-63,f0f32d63,Roth IRA,META PLATFORMS,Met,186,5/2/2025,5-May-2025,2108.51,EUR,Completed,short-term
+JONATHAN RAMOS,ACC-9586-98,a475d9fb,401(k), ALPHABET INC. ,Googl,99,10/3/2024,4-Oct-2024,$2963.02,CAD,Completed,dividends reinvested
+Mr. LOGAN johnson,ACC-9155-79,3a7f67eb,Brokerage,Microsoft Corp,msft,554,7/31/2024,1-Aug-2024,N/A,EUR,Completed,watchlist
+sean daniel,ACC-5096-80,4fd536b6,Custodial,Nvidia Corporation,Nvda,893,8/9/2023,8/10/2023,88.25,USD,Completed,watchlist
+JULIE hernandez,ACC-6546-74,63ec74a4,Joint,ALPHABET INC.,googl,176,2/25/2025,2/26/2025,$972.06,USD,Completed,dividends reinvested
+kenneth HARTMAN,ACC-6132-88,f5302695,Joint,MICROSOFT CORP,Msft,982,24-Mar-2025,,"4,989.10 USD",EUR,Pending,pending
+Terry Newton,ACC-7705-30,da62814c,401(k),BERKSHIRE HATHAWAY,Brk.,158,13-Jun-2025,6/16/2025,N/A,CAD,Completed,watchlist
+stephanie BENNETT,ACC-4251-57,12fc0d99,Brokerage,"AMAZON.COM, INC.",Amzn,676,9/9/2024,10-Sep-2024,N/A,CAD,Completed,
+stephen CARTER,ACC-6359-95,700b8291,Trust, Johnson & Johnson ,JNJ,ten,7/9/2025,10-Jul-2025,"$3,460.95",EUR,Completed,dividends reinvested
+TROY GUZMAN,ACC-1451-14,dc23d3fa,Joint,ALPHABET INC.,GOOGL,714,12-Aug-2022,,"$4,156.31",EUR,Pending,pending
+,ACC-3802-06,313d2415,Roth IRA, johnson & johnson ,jnj,769,9-Apr-2024,10-Apr-2024,948.58usd,USD,Completed,
+,ACC-2320-61,91225f59,Trust," AMAZON.COM, INC. ",Amzn,650,7-Jan-2021,8-Jan-2021,"2,424.29 USD",USD,Completed,
+JOSEPH Crawford,ACC-1761-45,1c9963f2,Roth IRA,Nvidia Corporation,Nvda,N/A,10/27/2023,30-Oct-2023,2237.36usd,CAD,Completed,watchlist
+FRANK MARSHALL,ACC-7953-52,616c60d4,Roth IRA,TESLA INC.,Tsla,369,10/21/2024,10/22/2024,"1,458.14 USD",USD,Completed,
+mitchell Ferguson,ACC-8216-22,030c52fd,Brokerage,alphabet inc.,GOOGL,580,12/20/2024,12/23/2024,N/A,CAD,Completed,
+Sharon Ruiz,ACC-6066-04,ef7012c8,Roth IRA,"Amazon.Com, Inc.",AMZN,23,12/18/2024,19-Dec-2024,405.04,USD,Completed,
+MICHAEL Bentley,ACC-6420-70,b726963d,Brokerage,JOHNSON & JOHNSON,Jnj,N/A,1-Sep-2023,9/5/2023,$2080.9,CAD,Completed,
+mr. Michael Haynes,ACC-0390-03,9958d612,Custodial,johnson & johnson,JNJ,N/A,8/12/2024,13-Aug-2024,1705.91,CAD,Completed,watchlist
+leslie montoya,ACC-1613-88,8b287852,Roth IRA,johnson & johnson,JNJ,153,10/4/2022,5-Oct-2022,$2951.58,USD,Completed,dividends reinvested
+edward medina,,bb29c677,401(k),microsoft corp,MSFT,982,23-May-2025,27-May-2025,2985.23usd,USD,Completed,
+Timothy CHAPMAN,ACC-0700-77,fe196474,401(k),TESLA INC.,Tsla,509,1/2/2024,,N/A,USD,Pending,pending
+drew salazar,ACC-1788-81,d0f5caa0,Joint,Netflix,NFLX,787,5/8/2023,,"$1,627.51",CAD,Pending,pending
+stephen Carter,ACC-6359-95,f5dbd6c9,Trust,Alphabet Inc.,Googl,808,7/11/2025,14-Jul-2025,$419.69,CAD,Completed,watchlist
+tammy ALLISON,ACC-6243-77,8631afda,Roth IRA,Netflix,nflx,461,6/23/2025,6/24/2025,4454.30usd,CAD,Completed,auto-invest
+CASEY middleton,ACC-1246-49,25a9d88b,401(k),"AMAZON.COM, INC.",amzn,493,23-Oct-2023,24-Oct-2023,N/A,CAD,Completed,dividends reinvested
+walter Guzman,ACC-4148-02,8bd9c548,401(k),meta platforms,Meta,119,17-Apr-2023,18-Apr-2023,N/A,EUR,Completed,
+Deborah ATKINSON,ACC-9187-98,5116849e,Joint,meta platforms,Meta,N/A,3-Jul-2023,5-Jul-2023,1743.01usd,EUR,Completed,dividends reinvested
+ROBERT HODGES,ACC-2514-34,d248478a,Joint,meta platforms,meta,50,26-Jun-2025,6/27/2025,$2142.3,CAD,Completed,short-term
+jessica ARELLANO,ACC-5569-10,2815524f,Roth IRA,tesla inc.,TSLA,294,19-Apr-2024,22-Apr-2024,N/A,USD,Completed,short-term
+BRIAN GARCIA,ACC-3988-43,0ffddf0a,Trust,Tesla Inc.,tsla,886,26-Jul-2023,7/27/2023,"$2,150.61",EUR,Completed,dividends reinvested
+Terry Newton,,b344080f,401(k),META PLATFORMS,META,183,5/21/2024,,"$3,525.80",EUR,Pending,pending
+FRANK Galloway,ACC-3250-12,4a0dc49d,Joint,johnson & johnson,Jnj,679,10/12/2023,,$3897.1,CAD,Pending,pending
+,,43c59167,401(k),NVIDIA CORPORATION,NVDA,617,7-Jul-2025,8-Jul-2025,"$3,969.27",CAD,Completed,watchlist
+Aaron JONES,ACC-2757-73,4f0c4351,Trust,microsoft corp,msft,877,1-Jul-2024,7/2/2024,"$3,228.72",CAD,Completed,dividends reinvested
+BENJAMIN WILSON,ACC-5940-08,6ff1ce60,Trust,NVIDIA CORPORATION,Nvda,759,13-Aug-2024,14-Aug-2024,$4065.60,USD,Completed,watchlist
+anthony FLYNN,ACC-2193-22,6fc5bf6b,401(k),microsoft corp,msft,132,5-Sep-2024,6-Sep-2024,1772.94usd,CAD,Completed,
+Edward medina,ACC-9962-17,3b23b8dd,401(k),Microsoft Corp,msft,ten,7-May-2025,8-May-2025,697.61 USD,USD,Completed,short-term
+jennifer CLARKE,ACC-4466-77,6faa85d9,Brokerage,microsoft corp,msft,N/A,18-Jan-2024,1/19/2024,988.67,CAD,Completed,watchlist
+Spencer clark,ACC-2289-36,6e28bb4b,Joint,Meta Platforms,META,424,6/30/2025,7/1/2025,$1996.4,USD,Completed,dividends reinvested
+patrick Hernandez,ACC-5412-61,9dccfc5d,Brokerage,alphabet inc.,GOOGL,390,24-Oct-2022,,1769.20usd,CAD,Pending,pending
+BRENDAN hale,ACC-1952-06,7cc80a15,Trust,MICROSOFT CORP,msft,535,8/18/2023,21-Aug-2023,238.91usd,EUR,Completed,
+frank Galloway,ACC-3250-12,77efbe06,Joint, APPLE INC. ,aapl,476,29-Sep-2023,2-Oct-2023,"$3,943.40",CAD,Completed,auto-invest
+christopher ESPARZA,ACC-9384-53,0823abb8,Trust,"AMAZON.COM, INC.",Amz,169,10/22/2024,23-Oct-2024,"1,442.55 USD",USD,Completed,
+JORGE lane,ACC-5906-61,14129fff,Roth IRA,"AMAZON.COM, INC.",AMZN,774,10/18/2024,21-Oct-2024,$970.0,EUR,Completed,watchlist
+Christine Hanson,ACC-5932-72,502ec588,Brokerage,alphabet inc.,googl,23,14-Mar-2025,17-Mar-2025,"$4,908.13",EUR,Completed,watchlist
+SAMUEL newton,ACC-7806-33,9c5452d6,Roth IRA,NETFLIX,NFLX,ten,2/5/2025,6-Feb-2025,63.88usd,EUR,Completed,dividends reinvested
+Leah Larsen,ACC-0586-00,5aa1bf05,Brokerage,Berkshire Hathaway,BRK.A,81,15-Sep-2023,,$1225.8,CAD,Pending,pending
+BRENDAN hale,ACC-1952-06,9a5109ab,Trust, johnson & johnson ,JNJ,57,22-Jun-2022,6/23/2022,"$4,047.42",CAD,Completed,watchlist
+brian GARCIA,ACC-3988-43,5bc0b490,Trust,apple inc.,AAPL,335,12/12/2023,12/13/2023,N/A,USD,Completed,auto-invest
+james FERGUSON,ACC-3605-66,9beef200,Roth IRA,Meta Platforms,META,781,4/18/2025,4/21/2025,1848.14usd,CAD,Completed,
+Terry Newton,ACC-7705-30,cbb69ead,401(k),Berkshire Hathaway,Brk.A,227,3/28/2024,29-Mar-2024,$2748.39,CAD,Completed,short-term
+terry Newton,ACC-7705-30,297fb96a,401(k), BERKSHIRE HATHAWAY ,BRK.,154,17-May-2024,5/20/2024,"$4,202.21",EUR,Completed,watchlist
+edward medina,ACC-9962-17,992b1a8f,401(k),netflix,NFLX,ten,23-May-2025,5/27/2025,N/A,USD,Completed,watchlist
+benjamin wilson,ACC-5940-08,fe131dec,Trust,alphabet inc.,Googl,706,6/14/2023,15-Jun-2023,$2378.9,EUR,Completed,auto-invest
+JAMES POOLE,ACC-6303-65,c7c150fc,Joint,"amazon.com, inc.",AMZN,ten,10/24/2024,10/25/2024,"1,271.10 USD",USD,Completed,watchlist
+,ACC-4627-83,dc71e400,401(k),"AMAZON.COM, INC.",Amzn,925,12-Nov-2024,13-Nov-2024,4371.26usd,USD,Completed,
+jessica JONES,ACC-7394-49,8d1eaa67,Brokerage, Microsoft Corp ,msft,N/A,15-Jul-2025,7/16/2025,"4,409.98 USD",USD,Completed,short-term
+,ACC-8897-53,3b5b5ec3,401(k),NVIDIA CORPORATION,NVDA,664,16-May-2023,17-May-2023,"$1,857.18",CAD,Completed,
+FRANK MORGAN,ACC-1723-94,86fdf31b,401(k),Nvidia Corporation,Nvda,827,11/14/2022,11/15/2022,2693.63usd,EUR,Completed,auto-invest
+CHRISTOPHER LOWERY,ACC-4393-46,91327bc3,Roth IRA,"AMAZON.COM, INC.",amzn,554,12/6/2023,12/7/2023,"3,718.93 USD",USD,Completed,auto-invest
+DAVID Beasley,ACC-7869-96,b187997c,Roth IRA, APPLE INC. ,aapl,85,9-Oct-2024,10-Oct-2024,$3882.21,EUR,Completed,dividends reinvested
+DONNA smith,ACC-3879-16,7e3a62a9,Trust,BERKSHIRE HATHAWAY,brk.a,81,7-Dec-2022,,"$1,762.54",EUR,Pending,pending
+STEPHANIE perry,ACC-0606-25,bd1098db,Brokerage,META PLATFORMS,met,807,7/17/2025,7/18/2025,"$4,803.77",USD,Completed,watchlist
+timothy Chapman,,a629f4cd,401(k),Netflix,Nflx,596,16-Nov-2021,11/17/2021,"$3,372.83",USD,Completed,watchlist
+TROY guzman,ACC-1451-14,f298765c,Joint,"AMAZON.COM, INC.",AMZN,107,4/8/2022,11-Apr-2022,2868.18,USD,Completed,
+LAUREN MIRANDA,ACC-6696-75,c3039f4d,Roth IRA,TESLA INC.,tsla,144,24-May-2022,,451.91 USD,CAD,Pending,pending
+deborah MOODY,ACC-4991-00,3752c21b,Roth IRA,Johnson & Johnson,JNJ,220,6/23/2025,24-Jun-2025,"$3,291.27",USD,Completed,auto-invest
+PAMELA JACKSON,ACC-5892-09,7ece1b94,401(k),Tesla Inc.,Tsla,167,5-Jul-2024,8-Jul-2024,N/A,CAD,Completed,short-term
+JEFFREY Ford,ACC-8897-53,8a4b0c71,401(k),JOHNSON & JOHNSON,jn,730,5-Sep-2023,6-Sep-2023,$4088.9,EUR,Completed,auto-invest
+kenneth Hartman,ACC-6132-88,f60fb705,Joint,tesla inc.,tsla,374,3/26/2025,3/27/2025,N/A,EUR,Completed,short-term
+sabrina Bowen,ACC-8707-29,13093fa8,401(k),APPLE INC.,aapl,ten,11-Apr-2025,4/14/2025,4751.31usd,CAD,Completed,watchlist
+JORGE Lane,ACC-5906-61,e17e5109,Roth IRA,apple inc.,AAPL,184,3/25/2025,26-Mar-2025,"2,455.40 USD",CAD,Completed,auto-invest
+,,a44f6554,Joint, nvidia corporation ,NVDA,633,5-Jul-2023,6-Jul-2023,1829.19,CAD,Completed,short-term
+MACKENZIE barrett,ACC-9031-08,0e454e66,Joint,Netflix,nflx,665,6/10/2025,,428.72,USD,Pending,pending
+Mrs. MELISSA Martinez MD,ACC-9435-86,5ce430b5,Roth IRA,JOHNSON & JOHNSON,jnj,952,24-Apr-2024,,N/A,USD,Pending,pending
+gary LYNCH,ACC-6213-57,c631f458,Custodial,ALPHABET INC.,Googl,754,6/10/2025,11-Jun-2025,3508.81usd,CAD,Completed,auto-invest
+brian garcia,ACC-3988-43,233a75b7,Trust,Berkshire Hathaway,brk.a,247,4-May-2023,,$4933.6,EUR,Pending,pending
+ROBERT MORRISON,ACC-9277-26,34f4e393,Trust,Microsoft Corp,MSFT,54,3/21/2025,24-Mar-2025,"4,283.19 USD",CAD,Completed,watchlist
+SHAWN DRAKE,ACC-9933-80,47f95afc,Brokerage,NETFLIX,nflx,ten,19-Aug-2022,22-Aug-2022,"$3,812.01",CAD,Completed,dividends reinvested
+,ACC-0390-03,bab4f98c,Custodial,"amazon.com, inc.",AMZN,156,4/2/2024,,868.51,CAD,Pending,pending
+pamela jackson,ACC-5892-09,20b58ed7,401(k),"AMAZON.COM, INC.",amzn,482,4/21/2025,22-Apr-2025,3977.00usd,EUR,Completed,watchlist
+KENNETH hartman,ACC-6132-88,676346a9,Joint,"amazon.com, inc.",amz,208,3-Jun-2025,6/4/2025,N/A,CAD,Completed,auto-invest
+EDWARD MEDINA,ACC-9962-17,29a5dacd,401(k),Nvidia Corporation,NVDA,59,6/9/2025,10-Jun-2025,718.00,EUR,Completed,short-term
+thomas Jackson,ACC-3087-81,844ade9f,Custodial,"amazon.com, inc.",AMZN,374,26-Aug-2024,27-Aug-2024,$164.0,CAD,Completed,dividends reinvested
+Robert morrison,ACC-9277-26,6da85aee,Trust,"AMAZON.COM, INC.",Amzn,909,20-Sep-2024,9/23/2024,$3419.3,EUR,Completed,dividends reinvested
+CARLOS Alexander,ACC-6263-52,68c38cf6,Roth IRA, Apple Inc. ,AAPL,904,29-Aug-2023,8/30/2023,835.90,USD,Completed,auto-invest
+RACHEL richmond,ACC-3802-06,8c096b70,Roth IRA,ALPHABET INC.,googl,435,2/10/2023,13-Feb-2023,"3,033.17 USD",EUR,Completed,watchlist
+Richard Miller,ACC-7408-26,17183a28,401(k),ALPHABET INC.,googl,412,7/11/2025,7/14/2025,4194.73,CAD,Completed,dividends reinvested
+BRITTANY smith,ACC-0280-08,43117e5a,Joint,TESLA INC.,tsla,778,1/14/2025,15-Jan-2025,"$4,902.74",USD,Completed,watchlist
+heidi Cox,ACC-2714-27,4aa65be0,Roth IRA," amazon.com, inc. ",amzn,837,7-Nov-2024,8-Nov-2024,N/A,EUR,Completed,auto-invest
+JASMINE richard,ACC-1551-74,b949066e,Joint,JOHNSON & JOHNSON,jnj,88,10/2/2024,3-Oct-2024,1751.04,CAD,Completed,
+LEAH Larsen,ACC-0586-00,44663c7b,Brokerage, Nvidia Corporation ,Nvda,205,27-May-2025,28-May-2025,$419.63,USD,Completed,auto-invest
+TROY guzman,ACC-1451-14,e342c9be,Joint,NETFLIX,NFLX,763,24-Oct-2022,10/25/2022,$4217.9,USD,Completed,
+JORGE LANE,ACC-5906-61,731a1132,Roth IRA,johnson & johnson,jnj,214,6/7/2024,6/10/2024,1637.61,CAD,Completed,auto-invest
+TARA MCCOY,ACC-9847-12,7f9e6072,Roth IRA,NVIDIA CORPORATION,Nvda,916,1/6/2025,,1220.84usd,EUR,Pending,pending
+,ACC-3087-81,f59e8b40,Custodial,berkshire hathaway,BRK.A,ten,5-Jul-2024,7/8/2024,N/A,CAD,Completed,dividends reinvested
+Kenneth Schultz,ACC-2070-05,deb78e0a,Brokerage,Meta Platforms,Meta,192,28-Feb-2022,,2885.45usd,CAD,Pending,pending
+tammy campbell,ACC-1374-21,e0c6abc1,401(k),NETFLIX,NFLX,70,17-Aug-2021,8/18/2021,$2088.5,CAD,Completed,auto-invest
+CHRISTOPHER LOWERY,ACC-4393-46,ae591b47,Roth IRA,Meta Platforms,META,495,12/10/2024,11-Dec-2024,N/A,CAD,Completed,watchlist
+sean DANIEL,ACC-5096-80,8b2b8f3f,Custodial,microsoft corp,msft,279,7/1/2025,7/2/2025,$4002.3,CAD,Completed,auto-invest
+Cynthia MILLS,ACC-8689-39,82ab1d8c,Custodial,Microsoft Corp,MSFT,182,6/30/2022,,"$1,173.43",USD,Pending,pending
+KEVIN Wallace,ACC-1036-37,5f98575c,Trust, NETFLIX ,nflx,835,12/28/2023,12/29/2023,945.01usd,CAD,Completed,short-term
+Brittany SMITH,ACC-0280-08,16d8d437,Joint,ALPHABET INC.,GOOGL,961,18-Jul-2025,18-Jul-2025,925.75usd,USD,Completed,auto-invest
+benjamin WILSON,ACC-5940-08,380040a6,Trust,netflix,Nflx,ten,2-Jun-2023,6/5/2023,N/A,EUR,Completed,dividends reinvested
+BRANDON Mills,ACC-3659-34,58e8a5b9,401(k),Johnson & Johnson,Jnj,29,9-Apr-2025,4/10/2025,"$3,500.03",USD,Completed,
+kayla STEWART,,9028285e,Roth IRA,JOHNSON & JOHNSON,Jnj,N/A,3-Jul-2025,7-Jul-2025,"$2,565.58",USD,Completed,dividends reinvested
+THOMAS Dougherty,ACC-7947-92,5d6f512f,401(k),META PLATFORMS,Meta,593,11/13/2024,14-Nov-2024,"3,852.06 USD",USD,Completed,watchlist
+kevin Wallace,ACC-1036-37,bfcaba08,Trust,alphabet inc.,GOOGL,95,29-Aug-2023,30-Aug-2023,981.79 USD,EUR,Completed,
+robert morrison,ACC-9277-26,badc75cb,Trust,NVIDIA CORPORATION,Nvda,ten,4-Sep-2024,5-Sep-2024,$3358.1,CAD,Completed,auto-invest
+sabrina Bowen,ACC-8707-29,d2046df3,401(k), META PLATFORMS ,META,174,10/11/2024,10/15/2024,"$2,912.42",EUR,Completed,watchlist
+Wendy GILMORE,ACC-8976-23,365e3f10,Brokerage,"AMAZON.COM, INC.",amzn,356,24-Jun-2025,6/25/2025,$902.3,USD,Completed,auto-invest
+DANIELLE Pearson,ACC-0110-33,605473e0,Brokerage,ALPHABET INC.,Googl,705,4/19/2023,20-Apr-2023,2194.17,EUR,Completed,short-term
+,ACC-8976-23,21f45880,Brokerage,Apple Inc.,aapl,277,10-Jan-2024,11-Jan-2024,"4,033.51 USD",USD,Completed,auto-invest
+Leah Mendez,ACC-9233-51,2ac84111,401(k),"AMAZON.COM, INC.",Amzn,35,5/7/2025,8-May-2025,"$4,732.32",CAD,Completed,
+amanda carpenter,ACC-1469-19,230c02e7,Custodial,NVIDIA CORPORATION,Nvda,740,10/26/2022,10/27/2022,"$3,093.04",CAD,Completed,
+michael collins,ACC-9950-12,b407769c,401(k),apple inc.,aapl,689,11/18/2024,19-Nov-2024,3939.43,USD,Completed,short-term
+dana bradley,ACC-7465-53,d8cba5f7,Brokerage,MICROSOFT CORP,msft,303,31-Jul-2023,1-Aug-2023,N/A,EUR,Completed,
+TAMMY Campbell,ACC-1374-21,94a28d12,401(k),MICROSOFT CORP,MSFT,232,22-Oct-2021,10/25/2021,$1234.59,EUR,Completed,
+JENNIFER king,ACC-5048-12,955c115c,Roth IRA,johnson & johnson,Jnj,170,24-Jan-2023,,1056.84usd,CAD,Pending,pending
+BRITTANY roberts,ACC-0268-85,e07ce7a3,Joint, META PLATFORMS ,meta,153,29-May-2024,5/30/2024,"1,933.22 USD",USD,Completed,watchlist
+TERRY newton,ACC-7705-30,01957e65,401(k),META PLATFORMS,META,446,2-Aug-2024,5-Aug-2024,$2333.7,EUR,Completed,short-term
+COURTNEY DEAN,,c5c1ada9,Brokerage,Tesla Inc.,TSL,710,2/7/2025,10-Feb-2025,4735.11,EUR,Completed,short-term
+John Johnson,ACC-9078-56,f9f02223,Trust, ALPHABET INC. ,googl,114,12/31/2024,1/2/2025,"1,084.07 USD",USD,Completed,
+kathryn Mccann,ACC-0455-31,ad7afb1f,Joint,"Amazon.Com, Inc.",AMZN,152,22-Dec-2023,12/26/2023,$4893.8,USD,Completed,short-term
+BRENDAN HALE,ACC-1952-06,66eaf662,Trust,johnson & johnson,jnj,984,25-Jan-2022,1/26/2022,757.82 USD,CAD,Completed,
+KATHRYN Mccann,ACC-0455-31,96b47c9b,Joint, NVIDIA CORPORATION ,NVDA,909,6-Mar-2024,,$1383.42,USD,Pending,pending
+Sharon RUIZ,ACC-6066-04,c9a18a0d,Roth IRA,ALPHABET INC.,googl,N/A,17-Jul-2023,,"3,408.26 USD",EUR,Pending,pending
+MARTHA STUART,ACC-8191-06,af7a1694,Custodial, Tesla Inc. ,TSLA,483,29-Jun-2023,30-Jun-2023,N/A,CAD,Completed,watchlist
+Ashley Gallegos,ACC-5934-64,3028f3be,401(k),NETFLIX,Nflx,53,22-Aug-2022,,N/A,USD,Pending,pending
+MR. John sullivan,ACC-0938-29,0bab202c,Roth IRA,meta platforms,Meta,685,27-Jan-2025,,"$4,945.62",USD,Pending,pending
+Thomas DOUGHERTY,ACC-7947-92,ee336a6c,401(k),ALPHABET INC.,googl,851,25-Jul-2024,26-Jul-2024,$1353.77,EUR,Completed,
+benjamin CARRILLO,ACC-6858-35,d89cfc06,Brokerage,meta platforms,meta,949,3-Oct-2024,10/4/2024,"$1,450.70",EUR,Completed,watchlist
+benjamin wilson,ACC-5940-08,e21885e1,Trust,johnson & johnson,jnj,689,22-Jan-2024,23-Jan-2024,N/A,EUR,Completed,short-term
+JAMIE gonzales,ACC-1903-05,d71931bf,Brokerage,"amazon.com, inc.",AMZN,576,19-Jan-2024,22-Jan-2024,160.98,USD,Completed,short-term
+Carlos ALEXANDER,ACC-6263-52,65bb6d3e,Roth IRA,netflix,Nflx,393,22-Mar-2023,3/23/2023,N/A,EUR,Completed,short-term
+JORGE LANE,ACC-5906-61,c7d89c02,Roth IRA,APPLE INC.,AAPL,273,7/7/2025,8-Jul-2025,2928.33usd,USD,Completed,auto-invest
+MARTHA stuart,ACC-8191-06,615be49f,Custodial,Alphabet Inc.,GOOGL,489,2-Jul-2025,,1941.85usd,EUR,Pending,pending
+Christopher Esparza,ACC-9384-53,635a1d1e,Trust,NVIDIA CORPORATION,NVDA,ten,9/17/2024,,$581.76,CAD,Pending,pending
+JESSICA jones,ACC-7394-49,e6db0f51,Brokerage,apple inc.,AAPL,30,7/18/2025,7/18/2025,1742.82usd,EUR,Completed,dividends reinvested
+JEFF MORROW,ACC-0934-49,4115651e,Joint,APPLE INC.,AAPL,289,19-Jan-2023,20-Jan-2023,N/A,EUR,Completed,watchlist
+Julie Hernandez,ACC-6546-74,202b9e1e,Joint,Netflix,nflx,12,14-Feb-2025,18-Feb-2025,N/A,EUR,Completed,
+mark Dean,ACC-6166-41,bee0412e,Brokerage,Alphabet Inc.,Googl,522,17-Mar-2025,18-Mar-2025,$1348.2,EUR,Completed,auto-invest
+samuel NEWTON,ACC-7806-33,64654db4,Roth IRA,APPLE INC.,aapl,ten,18-Jul-2025,18-Jul-2025,$426.8,CAD,Completed,watchlist
+Kimberly MARTIN,ACC-4336-74,fbe24837,401(k),META PLATFORMS,meta,79,14-Jul-2023,,$3793.14,EUR,Pending,pending
+JAMES Poole,ACC-6303-65,b17dacca,Joint,JOHNSON & JOHNSON,jnj,820,1/2/2024,1/3/2024,"3,149.39 USD",EUR,Completed,
+Mrs. MELISSA martinez MD,ACC-9435-86,ab92cd49,Roth IRA,Johnson & Johnson,Jnj,801,3-Apr-2023,4/4/2023,4297.26usd,USD,Completed,auto-invest
+GLORIA WILLIAMS,ACC-9041-81,a76ca42b,Brokerage,TESLA INC.,Tsla,N/A,8-Jul-2021,9-Jul-2021,"1,938.37 USD",EUR,Completed,
+STEPHANIE Perry,ACC-0606-25,f4a6b620,Brokerage,berkshire hathaway,BRK.,599,7/18/2025,18-Jul-2025,4016.62,EUR,Completed,watchlist
+JUAN MADDOX,ACC-5352-08,3e659561,Trust,Tesla Inc.,Tsla,66,2/14/2023,2/15/2023,4118.72,EUR,Completed,
+deborah Atkinson,ACC-9187-98,5b32ad0e,Joint,tesla inc.,Tsla,864,8/2/2021,8/3/2021,1160.79,USD,Completed,auto-invest
+,ACC-6634-62,37f10077,Brokerage,Microsoft Corp,Msft,543,6-Jul-2022,7-Jul-2022,$295.87,USD,Completed,
+joseph Crawford,ACC-1761-45,be49d8d8,Roth IRA,TESLA INC.,tsla,906,6/27/2025,6/30/2025,4924.25usd,USD,Completed,auto-invest
+Deborah ATKINSON,ACC-9187-98,92c60c80,Joint,Netflix,nflx,293,11/15/2021,11/16/2021,918.36usd,CAD,Completed,watchlist
+theodore MALDONADO,ACC-5034-80,5c8b69e3,Joint,Netflix,Nflx,329,3/3/2025,3/4/2025,$199.4,CAD,Completed,
+michael BENTLEY,ACC-6420-70,df6602af,Brokerage,Netflix,NFLX,ten,26-Jun-2025,27-Jun-2025,"4,662.80 USD",EUR,Completed,dividends reinvested
+KATIE KIM,,08699d7c,Joint,BERKSHIRE HATHAWAY,BRK.A,747,11/5/2024,,"1,052.92 USD",EUR,Pending,pending
+mr. michael HAYNES,ACC-0390-03,207d0a1a,Custodial,BERKSHIRE HATHAWAY,brk.a,N/A,8/7/2023,8-Aug-2023,N/A,USD,Completed,watchlist
+rachel Richmond,ACC-3802-06,e24e1124,Roth IRA,NVIDIA CORPORATION,NVDA,885,4/12/2024,15-Apr-2024,$3652.9,EUR,Completed,watchlist
+JEFFREY Ford,ACC-8897-53,22bc2842,401(k),Alphabet Inc.,googl,827,25-Jan-2024,26-Jan-2024,1458.56usd,USD,Completed,short-term
+Gary Lynch,ACC-6213-57,369ca0bc,Custodial, MICROSOFT CORP ,Msft,511,1/4/2024,5-Jan-2024,$223.34,USD,Completed,dividends reinvested
+john taylor,ACC-1996-88,b468410d,Roth IRA,APPLE INC.,AAPL,383,14-Nov-2024,,280.81,EUR,Pending,pending
+rachel RICHMOND,ACC-3802-06,873a60de,Roth IRA, Tesla Inc. ,tsla,250,10/5/2022,,1767.75,EUR,Pending,pending
+Hannah cantrell,ACC-4231-83,d1493683,Brokerage,"amazon.com, inc.",AMZN,137,10/3/2023,4-Oct-2023,"$3,244.21",CAD,Completed,short-term
+ANTHONY flynn,ACC-2193-22,b1016cab,401(k),Alphabet Inc.,Googl,196,8-Jul-2025,9-Jul-2025,3057.22usd,CAD,Completed,watchlist
+Jasmine RICHARD,ACC-1551-74,d4aa32dd,Joint,MICROSOFT CORP,Msft,674,5/8/2025,,"4,503.27 USD",CAD,Pending,pending
+Frank galloway,ACC-3250-12,c1e2d207,Joint,TESLA INC.,tsla,176,17-Apr-2025,18-Apr-2025,N/A,EUR,Completed,short-term
+Stephanie Chang,ACC-9574-77,18845004,Custodial,APPLE INC.,Aapl,957,2-Nov-2023,,3936.33,CAD,Pending,pending
+Emily Hart,ACC-7633-25,9d2f247b,Roth IRA,Alphabet Inc.,googl,187,28-Jul-2022,29-Jul-2022,$3626.89,USD,Completed,auto-invest
+FRANK marshall,ACC-7953-52,ce9184cd,Roth IRA,Meta Platforms,meta,257,7-Jun-2024,10-Jun-2024,N/A,USD,Completed,short-term
+Emily hart,ACC-7633-25,d7cb87c1,Roth IRA,Meta Platforms,META,ten,20-Dec-2022,21-Dec-2022,4205.85,EUR,Completed,dividends reinvested
+DANA BRADLEY,ACC-7465-53,5460beec,Brokerage,johnson & johnson,JNJ,5,8/17/2021,,"2,042.05 USD",USD,Pending,pending
+leah larsen,ACC-0586-00,9c687f0b,Brokerage,MICROSOFT CORP,Msft,695,29-Mar-2024,4/1/2024,"$2,430.39",EUR,Completed,auto-invest
+SAMUEL newton,ACC-7806-33,ca3eb19c,Roth IRA,Meta Platforms,meta,488,7/2/2024,3-Jul-2024,$4629.6,EUR,Completed,short-term
+Brandon MILLS,ACC-3659-34,12fd19d4,401(k),alphabet inc.,googl,443,8-Sep-2023,9/11/2023,$441.04,USD,Completed,watchlist
+Mrs. melissa Martinez Md,ACC-9435-86,1061b7e3,Roth IRA,Berkshire Hathaway,brk.a,750,4/4/2022,4/5/2022,$914.39,CAD,Completed,
+RACHEL RICHMOND,ACC-3802-06,3419152b,Roth IRA,nvidia corporation,nvda,801,5/7/2024,8-May-2024,$4892.80,CAD,Completed,dividends reinvested
+James POOLE,ACC-6303-65,be0763c5,Joint,Microsoft Corp,MSFT,222,24-Jul-2024,25-Jul-2024,N/A,USD,Completed,short-term
+STEPHANIE BENNETT,ACC-4251-57,07b780b2,Brokerage,apple inc.,AAPL,488,9/12/2024,,N/A,USD,Pending,pending
+FRANCISCO Miller,ACC-2320-61,1423f63c,Trust,johnson & johnson,Jnj,236,14-Jul-2025,15-Jul-2025,2108.58usd,EUR,Completed,
+,ACC-6299-73,3b32187e,Joint,NVIDIA CORPORATION,Nvda,881,4-Feb-2025,2/5/2025,N/A,CAD,Completed,
+Kathryn mccann,ACC-0455-31,6b444a0e,Joint,"amazon.com, inc.",amzn,871,13-Jan-2025,14-Jan-2025,N/A,CAD,Completed,dividends reinvested
+Kyle miller,ACC-5203-81,5d5d83db,Roth IRA,apple inc.,AAPL,215,2/27/2025,28-Feb-2025,397.40usd,CAD,Completed,short-term
+David beasley,ACC-7869-96,88fbe88f,Roth IRA,Netflix,nflx,ten,17-Dec-2024,18-Dec-2024,"1,339.36 USD",USD,Completed,watchlist
+Brittany ROBERTS,,920a4072,Joint,NVIDIA CORPORATION,Nvda,85,22-Aug-2024,23-Aug-2024,3481.63usd,CAD,Completed,
+CARLOS ALEXANDER,ACC-6263-52,b5aa964d,Roth IRA,nvidia corporation,NVDA,951,23-Mar-2021,24-Mar-2021,"$3,176.37",EUR,Completed,dividends reinvested
+MRS. Melissa martinez Md,ACC-9435-86,7f7635be,Roth IRA,alphabet inc.,Googl,92,10/5/2022,6-Oct-2022,$177.5,CAD,Completed,
+AMY johnson,ACC-7992-71,825abcf7,401(k),NETFLIX,nflx,ten,1/2/2024,1/3/2024,$2391.1,USD,Completed,dividends reinvested
+EMILY Hart,ACC-7633-25,2a558344,Roth IRA,ALPHABET INC.,googl,635,21-Feb-2024,2/22/2024,$3753.7,USD,Completed,dividends reinvested
+DEBORAH ATKINSON,ACC-9187-98,27076cad,Joint,microsoft corp,Msft,ten,10/14/2022,17-Oct-2022,329.24 USD,EUR,Completed,dividends reinvested
+JENNIFER Clarke,ACC-4466-77,ce6c9991,Brokerage,NVIDIA CORPORATION,NVDA,675,20-Sep-2023,21-Sep-2023,"$2,702.09",EUR,Completed,dividends reinvested
+gloria WILLIAMS,ACC-9041-81,4fc1c918,Brokerage,ALPHABET INC.,Googl,157,6/8/2022,9-Jun-2022,$1129.1,CAD,Completed,watchlist
+frank MORGAN,ACC-1723-94,1117302c,401(k), MICROSOFT CORP ,msft,541,10/10/2024,10/11/2024,"4,443.37 USD",EUR,Completed,auto-invest
+KIMBERLY MARTIN,ACC-4336-74,9b15b97b,401(k),Johnson & Johnson,Jnj,47,25-May-2023,,$1212.07,USD,Pending,pending
+KAYLA stewart,ACC-0721-36,fee3548d,Roth IRA,microsoft corp,Msft,300,17-Jul-2025,18-Jul-2025,"$1,619.92",USD,Completed,watchlist
+JESSICA arellano,ACC-5569-10,89e59553,Roth IRA,"AMAZON.COM, INC.",AMZN,4,11/25/2022,11/28/2022,"$1,271.24",USD,Completed,
+dana bradley,ACC-7465-53,c2e329f5,Brokerage,meta platforms,META,325,5-Jun-2025,6/6/2025,2302.88,CAD,Completed,watchlist
+jorge lane,ACC-5906-61,d84cc0bd,Roth IRA,microsoft corp,Msft,550,27-Sep-2023,28-Sep-2023,N/A,CAD,Completed,
+HANNAH cantrell,ACC-4231-83,ed494e25,Brokerage,Berkshire Hathaway,Brk.A,N/A,4/1/2024,2-Apr-2024,$3053.2,CAD,Completed,
+Stacy lee,ACC-1001-75,711187bf,Custodial,"AMAZON.COM, INC.",AMZN,589,4-Jun-2025,6/5/2025,"$2,511.03",USD,Completed,short-term
+William winters,ACC-1317-26,6d698e43,Roth IRA,Tesla Inc.,Tsla,785,4/1/2025,2-Apr-2025,$639.5,EUR,Completed,dividends reinvested
+JEFF MORROW,ACC-0934-49,c2f23cc8,Joint,META PLATFORMS,META,36,4/26/2023,4/27/2023,N/A,EUR,Completed,
+Glen thomas,ACC-0608-88,f86bb1e2,Brokerage,ALPHABET INC.,GOOGL,666,19-Dec-2024,,3785.24,USD,Pending,pending
+Sharon STEWART,ACC-4126-43,31bc8b63,Trust,Berkshire Hathaway,brk.a,749,3/17/2022,,3169.54usd,CAD,Pending,pending
+Alejandra JIMENEZ,ACC-7815-65,74e4fb70,Brokerage,alphabet inc.,GOOGL,523,2/5/2025,6-Feb-2025,"3,220.32 USD",USD,Completed,
+ashley Gallegos,ACC-5934-64,8f4dcc4a,401(k),"AMAZON.COM, INC.",AMZN,110,3-May-2023,5/4/2023,"$4,172.53",EUR,Completed,auto-invest
+SYLVIA MCCOY,ACC-2107-50,e74235ad,401(k), Microsoft Corp ,msft,791,15-Jul-2025,7/16/2025,1328.71,EUR,Completed,watchlist
+LAUREN miranda,ACC-6696-75,d019fcc8,Roth IRA,JOHNSON & JOHNSON,JNJ,304,8/1/2022,8/2/2022,$2668.8,USD,Completed,short-term
+Jose THOMAS,ACC-8643-19,1c363504,Roth IRA,APPLE INC.,AAPL,590,9/11/2024,9/12/2024,$2247.4,CAD,Completed,watchlist
+TARA mccoy,ACC-9847-12,4471e35b,Roth IRA,NVIDIA CORPORATION,NVDA,639,8-Sep-2023,11-Sep-2023,$3911.1,CAD,Completed,watchlist
+yvette WHITE,ACC-5871-08,3de4c6f0,Custodial,APPLE INC.,AAPL,917,2-Jan-2025,,3035.37,EUR,Pending,pending
+TINA Jones,ACC-5322-63,ec9b9bce,Roth IRA,Apple Inc.,aapl,181,29-Jan-2024,,$863.7,EUR,Pending,pending
+donna SMITH,ACC-7622-09,98f44966,Joint,ALPHABET INC.,GOOGL,43,11/1/2024,4-Nov-2024,2765.95,EUR,Completed,watchlist
+james Poole,ACC-6303-65,4d2761ee,Joint,ALPHABET INC.,Googl,375,21-Mar-2024,22-Mar-2024,1306.29usd,USD,Completed,short-term
+amanda CARPENTER,ACC-1469-19,08aa771e,Custodial, JOHNSON & JOHNSON ,jnj,673,28-Jan-2025,29-Jan-2025,N/A,EUR,Completed,watchlist
+donna Smith,ACC-7622-09,e48c7f55,Joint,Berkshire Hathaway,brk.,230,23-Apr-2024,4/24/2024,2745.57usd,EUR,Completed,auto-invest
+thomas DOUGHERTY,ACC-7947-92,79bae703,401(k),tesla inc.,Tsla,344,20-May-2022,,$96.61,CAD,Pending,pending
+Mr. LOGAN Johnson,ACC-9155-79,175ee61d,Brokerage,Berkshire Hathaway,BRK.A,777,9/30/2024,1-Oct-2024,4927.39,EUR,Completed,dividends reinvested
+BRANDON MILLS,,ed8134f3,401(k),BERKSHIRE HATHAWAY,Brk.A,861,19-Jan-2024,22-Jan-2024,$4679.56,CAD,Completed,
+jessica Arellano,ACC-5569-10,910d0ff7,Roth IRA,"amazon.com, inc.",amzn,997,5-Feb-2024,2/6/2024,4720.01,CAD,Completed,dividends reinvested
+Matthew LEWIS,ACC-7883-59,6d8b64d4,Trust,Apple Inc.,AAPL,268,2-Dec-2024,,$163.70,USD,Pending,pending
+Brian Garcia,ACC-3988-43,974f1e66,Trust,netflix,nflx,946,25-Sep-2024,26-Sep-2024,2593.22,USD,Completed,short-term
+drew SALAZAR,ACC-1788-81,20a31ede,Joint,NVIDIA CORPORATION,nvda,773,6-Jul-2023,7/7/2023,"$3,318.06",EUR,Completed,watchlist
+karen SHAFFER,ACC-4827-00,9cb19e2b,Brokerage,NETFLIX,Nflx,52,5/3/2024,6-May-2024,$368.8,USD,Completed,
+JENNIFER King,ACC-5048-12,a16685cf,Roth IRA,ALPHABET INC.,GOOGL,128,13-Jul-2023,14-Jul-2023,112.96,USD,Completed,dividends reinvested
+WALTER GUZMAN,ACC-4148-02,d152cb6a,401(k), Berkshire Hathaway ,Brk.A,515,11/25/2024,11/26/2024,N/A,USD,Completed,
+Emily Ross,ACC-6299-73,357280d2,Joint,apple inc.,AAPL,555,4/15/2025,4/16/2025,$4890.9,USD,Completed,auto-invest
+michael COLLINS,ACC-9950-12,4c7074d6,401(k), berkshire hathaway ,BRK.A,244,5/27/2025,,830.50 USD,USD,Pending,pending
+CYNTHIA mills,ACC-8689-39,8b40a31f,Custodial,tesla inc.,TSLA,511,5-Feb-2024,6-Feb-2024,N/A,USD,Completed,short-term
+DONNA Smith,ACC-3879-16,5552bd4e,Trust,"Amazon.Com, Inc.",Amzn,994,8-Oct-2024,10/9/2024,$4990.77,USD,Completed,watchlist
+troy Guzman,ACC-1451-14,ab1cd720,Joint, Tesla Inc. ,Tsla,83,9/2/2021,9/3/2021,"$1,015.65",USD,Completed,short-term
+ASHLEY GALLEGOS,ACC-5934-64,d5f7c630,401(k),ALPHABET INC.,GOOGL,526,12-Mar-2025,13-Mar-2025,"4,753.75 USD",EUR,Completed,dividends reinvested
+JENNIFER Clarke,ACC-4466-77,46d465e8,Brokerage,tesla inc.,TSLA,470,6-Nov-2024,11/7/2024,$3160.46,CAD,Completed,auto-invest
+DREW salazar,ACC-1788-81,6bfcc151,Joint,NETFLIX,NFLX,580,7/14/2022,15-Jul-2022,$1669.1,EUR,Completed,watchlist
+William WINTERS,ACC-1317-26,333ba7c5,Roth IRA,Nvidia Corporation,Nvda,183,6/12/2025,6/13/2025,N/A,EUR,Completed,short-term
+WENDY gilmore,ACC-8976-23,65d613f8,Brokerage,netflix,NFLX,783,27-Nov-2023,28-Nov-2023,439.26 USD,USD,Completed,auto-invest
+JOHN taylor,ACC-1996-88,7867aaab,Roth IRA, meta platforms ,meta,196,2/18/2025,,2220.72,USD,Pending,pending
+Sharon STEWART,ACC-4126-43,f1202175,Trust,nvidia corporation,nvda,753,15-Jul-2025,16-Jul-2025,3196.22,CAD,Completed,dividends reinvested
+Jose THOMAS,ACC-8643-19,3886549b,Roth IRA,JOHNSON & JOHNSON,Jnj,961,7/17/2025,7/18/2025,$53.65,EUR,Completed,dividends reinvested
+anthony Flynn,ACC-2193-22,64c9fe49,401(k),johnson & johnson,jnj,934,6/28/2024,,4259.76,EUR,Pending,pending
+DANIELLE PEARSON,ACC-0110-33,96511519,Brokerage,microsoft corp,Msft,210,8/12/2024,13-Aug-2024,$2123.7,EUR,Completed,auto-invest
+Michael collins,ACC-9950-12,854ea283,401(k),Microsoft Corp,msft,ten,4-Mar-2025,5-Mar-2025,3531.98,EUR,Completed,auto-invest
+LATASHA SMITH,ACC-6745-42,2956c989,401(k),Alphabet Inc.,Googl,833,17-Nov-2023,,N/A,EUR,Pending,pending
+mrs. melissa Martinez MD,ACC-9435-86,4ef43845,Roth IRA,Meta Platforms,meta,314,1-Sep-2022,,$805.91,CAD,Pending,pending
+APRIL Terry,ACC-0599-67,a4d82e80,Brokerage,TESLA INC.,tsla,58,7/17/2025,18-Jul-2025,$3507.6,CAD,Completed,
+Kimberly williams,ACC-7272-94,d779569c,Brokerage,META PLATFORMS,Meta,826,6-May-2024,5/7/2024,"3,811.53 USD",CAD,Completed,
+,ACC-0721-36,417f1622,Roth IRA,Netflix,nflx,607,7/18/2025,7/18/2025,N/A,EUR,Completed,dividends reinvested
+Tom PATTERSON,ACC-9529-50,1f8067b7,Joint,alphabet inc.,GOOGL,560,9/12/2024,13-Sep-2024,"4,017.00 USD",CAD,Completed,watchlist
+latasha Smith,ACC-6745-42,07738aa5,401(k),"AMAZON.COM, INC.",AMZN,789,7/9/2025,,$2899.4,USD,Pending,pending
+TINA Jones,ACC-5322-63,8b24f467,Roth IRA,Meta Platforms,meta,N/A,1/4/2024,1/5/2024,1952.09usd,CAD,Completed,dividends reinvested
+frank galloway,ACC-3250-12,c528a192,Joint, NETFLIX ,nflx,926,9/28/2022,9/29/2022,$1940.1,EUR,Completed,watchlist
+michael BENTLEY,ACC-6420-70,f11e22d8,Brokerage,"Amazon.Com, Inc.",Amzn,971,2/14/2024,15-Feb-2024,$3480.73,USD,Completed,short-term
+Frank Galloway,ACC-3250-12,b3629491,Joint,Johnson & Johnson,Jnj,321,14-Jan-2022,18-Jan-2022,2853.62,EUR,Completed,
+Beth KING,ACC-1594-91,0d3ba027,Trust,nvidia corporation,NVD,718,8/15/2024,16-Aug-2024,"$2,597.35",USD,Completed,
+DONNA smith,ACC-3879-16,78583501,Trust,JOHNSON & JOHNSON,Jnj,N/A,4/21/2023,4/24/2023,2182.40,USD,Completed,watchlist
+Lauren miranda,ACC-6696-75,17a6d641,Roth IRA,ALPHABET INC.,GOOGL,ten,31-Aug-2023,1-Sep-2023,N/A,CAD,Completed,
+MARIA reynolds,ACC-9656-56,71f34ba5,Joint,meta platforms,META,123,6/20/2025,23-Jun-2025,N/A,USD,Completed,auto-invest
+LAUREN MIRANDA,ACC-6696-75,55fae185,Roth IRA,tesla inc.,TSLA,676,12/13/2022,14-Dec-2022,$1474.4,EUR,Completed,auto-invest
+ANNE martin,ACC-5831-13,3e6129a8,Brokerage,apple inc.,AAPL,298,17-Jul-2023,18-Jul-2023,"4,704.87 USD",USD,Completed,short-term
+Sharon Stewart,ACC-4126-43,13567cdc,Trust,Johnson & Johnson,jnj,740,2/28/2022,3/1/2022,"2,172.05 USD",CAD,Completed,short-term
+carolyn POWELL,ACC-7024-51,ce77607f,Trust,Tesla Inc.,TSLA,N/A,6/10/2025,6/11/2025,"$3,167.04",CAD,Completed,short-term
+Christopher Esparza,ACC-9384-53,3e0d9768,Trust,"amazon.com, inc.",AMZN,845,9-Jul-2025,10-Jul-2025,$323.99,CAD,Completed,dividends reinvested
+Juan MADDOX,ACC-5352-08,f022deb9,Trust, tesla inc. ,TSLA,39,6/23/2023,26-Jun-2023,$410.9,USD,Completed,dividends reinvested
+WENDY gilmore,ACC-8976-23,88ffc4bd,Brokerage,TESLA INC.,TSLA,175,3/8/2024,3/11/2024,$808.41,CAD,Completed,auto-invest
+EMILY Hart,ACC-7633-25,4a66cedd,Roth IRA,Apple Inc.,AAPL,971,26-Apr-2023,27-Apr-2023,$1132.12,EUR,Completed,dividends reinvested
+Walter Guzman,ACC-4148-02,ab6aace8,401(k),TESLA INC.,TSLA,853,24-Feb-2025,25-Feb-2025,"$2,334.54",EUR,Completed,dividends reinvested
+jennifer CALLAHAN,ACC-8248-29,a359c021,401(k),"amazon.com, inc.",amzn,168,7-Feb-2025,2/10/2025,N/A,CAD,Completed,
+sylvia Mccoy,ACC-2107-50,76801452,401(k),Tesla Inc.,TSLA,746,7/11/2025,7/14/2025,2309.09usd,USD,Completed,short-term
+EMILY Ross,ACC-6299-73,bdd2c2dd,Joint,ALPHABET INC.,Googl,216,14-May-2025,15-May-2025,2300.99,CAD,Completed,watchlist
+,ACC-4677-40,e71c7344,Trust,META PLATFORMS,Meta,696,3/10/2025,11-Mar-2025,118.83usd,CAD,Completed,short-term
+Benjamin CARRILLO,ACC-6858-35,60e262b9,Brokerage,META PLATFORMS,meta,212,6-May-2024,5/7/2024,3386.99usd,EUR,Completed,dividends reinvested
+benjamin Wilson,ACC-5940-08,9ad488a3,Trust,Apple Inc.,aapl,283,29-Aug-2023,8/30/2023,"3,699.74 USD",USD,Completed,watchlist
+sharon RUIZ,ACC-6066-04,426af15b,Roth IRA,netflix,NFL,647,17-Oct-2022,18-Oct-2022,"$3,779.56",CAD,Completed,auto-invest
+STEVEN ORTEGA,ACC-6762-48,b81b37e3,Custodial,BERKSHIRE HATHAWAY,brk.a,N/A,15-Nov-2022,16-Nov-2022,"$4,659.76",EUR,Completed,short-term
+mackenzie barrett,ACC-9031-08,f88b7ca9,Joint,JOHNSON & JOHNSON,Jnj,842,2-May-2025,5/5/2025,"4,166.79 USD",USD,Completed,watchlist
+CARLOS ALEXANDER,ACC-6263-52,157ef61f,Roth IRA,"amazon.com, inc.",Amzn,285,5/5/2023,5/8/2023,"$2,862.24",EUR,Completed,
+Rebecca ward DVM,ACC-6634-62,78b69138,Brokerage,Tesla Inc.,TSLA,958,8-Feb-2023,2/9/2023,"1,915.36 USD",USD,Completed,watchlist
+Gloria Williams,ACC-9041-81,3a4041dd,Brokerage,nvidia corporation,Nvda,925,9/16/2022,9/19/2022,N/A,CAD,Completed,auto-invest
+Stephanie Bennett,ACC-4251-57,c79000e3,Brokerage,TESLA INC.,TSLA,54,26-Apr-2024,4/29/2024,$2283.19,USD,Completed,
+lauren Miranda,ACC-6696-75,3a1550f9,Roth IRA,apple inc.,Aapl,914,6-Sep-2024,,4773.24usd,EUR,Pending,pending
+MICHAEL Collins,ACC-9950-12,6d6d47e9,401(k),ALPHABET INC.,googl,569,22-Nov-2024,11/25/2024,4634.11usd,CAD,Completed,auto-invest
+STEPHANIE Bennett,ACC-4251-57,8077a358,Brokerage,alphabet inc.,googl,181,11/18/2024,19-Nov-2024,3141.01,USD,Completed,short-term
+mark brown,ACC-1558-54,a9ccbd59,Brokerage,microsoft corp,MSFT,941,18-Feb-2025,2/19/2025,1776.82,CAD,Completed,
+MARK brown,ACC-1558-54,3233c7c5,Brokerage,APPLE INC.,AAPL,931,23-Aug-2023,8/24/2023,$4716.47,EUR,Completed,short-term
+JORGE LANE,ACC-5906-61,802d0a60,Roth IRA,johnson & johnson,JNJ,356,3/21/2024,,$2257.92,EUR,Pending,pending
+Tina jones,ACC-5322-63,96f275e7,Roth IRA,TESLA INC.,tsla,876,4-Mar-2025,3/5/2025,2671.21,CAD,Completed,short-term
+Juan Maddox,ACC-5352-08,f295a995,Trust,ALPHABET INC.,GOOGL,951,4/18/2023,19-Apr-2023,N/A,CAD,Completed,auto-invest
+SEAN DANIEL,ACC-8266-21,ece522ab,Custodial,"AMAZON.COM, INC.",Amzn,244,6/10/2025,6/11/2025,$1767.1,USD,Completed,watchlist
+SHANNON costa,ACC-1513-23,07c116a6,Custodial,Apple Inc.,Aapl,367,6/11/2025,,1222.04,CAD,Pending,pending
+DANIELLE Pearson,ACC-0110-33,6c0c3626,Brokerage,microsoft corp,msf,169,6/13/2023,6/14/2023,$3256.59,EUR,Completed,dividends reinvested
+Terry newton,ACC-7705-30,98f2cfb4,401(k),apple inc.,aapl,904,21-Nov-2024,22-Nov-2024,2404.59usd,CAD,Completed,
+francisco MILLER,ACC-2320-61,3bdf4b1d,Trust,alphabet inc.,Googl,103,16-Feb-2022,17-Feb-2022,4708.39,USD,Completed,auto-invest
+DREW salazar,ACC-1788-81,1a73545f,Joint,TESLA INC.,tsla,ten,29-Dec-2023,2-Jan-2024,3646.96usd,USD,Completed,
+Donna Smith,ACC-3879-16,ee54209e,Trust,ALPHABET INC.,GOOGL,2,5/17/2024,5/20/2024,$1670.2,EUR,Completed,dividends reinvested
+Jonathan Ramos,ACC-9586-98,efcb53a4,401(k),johnson & johnson,Jnj,484,5/1/2025,5/2/2025,380.01usd,USD,Completed,short-term
+latasha smith,ACC-6745-42,9a669f57,401(k),ALPHABET INC.,goog,ten,5-Dec-2024,12/6/2024,N/A,CAD,Completed,short-term
+SYLVIA MCCOY,ACC-2107-50,da9edde9,401(k),meta platforms,Meta,22,30-Jun-2025,1-Jul-2025,"$1,524.68",USD,Completed,watchlist
+TINA JONES,ACC-5322-63,2d82cd56,Roth IRA,APPLE INC.,AAPL,ten,7/16/2024,7/17/2024,$1788.57,USD,Completed,watchlist
+christine HANSON,ACC-5932-72,ff3f6f2f,Brokerage,APPLE INC.,Aapl,933,28-Feb-2025,3-Mar-2025,N/A,USD,Completed,dividends reinvested
+,ACC-7024-51,e4ba00ac,Trust," amazon.com, inc. ",Amzn,136,5-Jul-2024,,$2656.45,USD,Pending,pending
+BENJAMIN Carrillo,,cf4250e2,Brokerage,BERKSHIRE HATHAWAY,BRK.A,520,3-Nov-2023,11/6/2023,558.58,EUR,Completed,dividends reinvested
+patrick HERNANDEZ,ACC-5412-61,e645d1da,Brokerage,APPLE INC.,aapl,320,6-Feb-2023,2/7/2023,693.27,USD,Completed,dividends reinvested
+Jeremy Martin,ACC-5752-39,e1f48fc3,401(k),Microsoft Corp,msft,168,4/1/2025,2-Apr-2025,$4538.94,EUR,Completed,
+REBECCA Ward DVM,ACC-6634-62,b34efc85,Brokerage,netflix,NFLX,684,3/18/2022,3/21/2022,$4619.7,USD,Completed,watchlist
+JORGE Lane,ACC-5906-61,188b0676,Roth IRA,BERKSHIRE HATHAWAY,brk.a,357,5/12/2025,5/13/2025,2527.01usd,EUR,Completed,
+,ACC-9277-26,cb9a0c13,Trust,meta platforms,META,499,4-Mar-2025,5-Mar-2025,1547.32usd,USD,Completed,dividends reinvested
+leon DANIELS,ACC-0416-72,7164a5fe,Custodial,Microsoft Corp,Msft,749,12-Feb-2025,13-Feb-2025,$2759.1,EUR,Completed,short-term
+ROBERT MORRISON,ACC-9277-26,788feafe,Trust,Netflix,Nflx,603,1/10/2024,1/11/2024,1624.39usd,USD,Completed,short-term
+,ACC-6166-41,a0105929,Brokerage,Netflix,nflx,940,8-Oct-2024,9-Oct-2024,$3290.12,CAD,Completed,
+SYLVIA mccoy,ACC-2107-50,1407a6b4,401(k),Netflix,NFLX,65,10-Jul-2025,11-Jul-2025,$4333.1,CAD,Completed,
+TROY GUZMAN,ACC-1451-14,8bbbb76d,Joint,apple inc.,Aapl,830,11-Jan-2024,1/12/2024,4795.89,CAD,Completed,watchlist
+DAVID BEASLEY,ACC-7869-96,39b8da91,Roth IRA,meta platforms,META,285,7/22/2024,23-Jul-2024,"$2,395.85",USD,Completed,
+STACY lee,ACC-1001-75,2e55acb5,Custodial, Apple Inc. ,Aapl,540,23-Sep-2024,24-Sep-2024,1773.82usd,EUR,Completed,dividends reinvested
+Lauren miranda,ACC-6696-75,0b75f0b5,Roth IRA,microsoft corp,MSFT,ten,1/4/2022,5-Jan-2022,$4284.4,USD,Completed,short-term
+LATASHA smith,ACC-6745-42,f9070156,401(k),Microsoft Corp,msft,N/A,1/26/2024,,2284.28usd,USD,Pending,pending
+Jeffrey ford,ACC-8897-53,e84bf368,401(k), johnson & johnson ,jnj,770,11/16/2022,,3036.19usd,USD,Pending,pending
+ASHLEE BELL,ACC-8139-72,dd5d8fd5,Brokerage, microsoft corp ,MSFT,ten,8/22/2022,8/23/2022,$109.32,USD,Completed,auto-invest
+brian Garcia,ACC-3988-43,bcb1f705,Trust,Meta Platforms,META,825,27-Jan-2025,,$3688.42,USD,Pending,pending
+,ACC-4256-01,453ad16b,Trust,Netflix,Nflx,807,11-Feb-2025,,N/A,CAD,Pending,pending
+ALEJANDRA jimenez,ACC-7815-65,786474b3,Brokerage,Meta Platforms,Meta,401,10-Jun-2022,6/13/2022,$1227.11,EUR,Completed,dividends reinvested
+ROBERT HODGES,ACC-2514-34,250c57fc,Joint,MICROSOFT CORP,MSFT,583,16-May-2025,19-May-2025,$1834.89,CAD,Completed,auto-invest
+LEON DANIELS,ACC-0416-72,7b4320f3,Custodial,NVIDIA CORPORATION,NVDA,91,26-Jun-2023,,$2971.2,EUR,Pending,pending
+Kenneth HARTMAN,ACC-0980-93,ed8b0539,401(k),NVIDIA CORPORATION,NVDA,474,27-Nov-2023,,"4,664.83 USD",CAD,Pending,pending
+SEAN Daniel,ACC-8266-21,49f13a26,Custodial, meta platforms ,meta,500,30-Jun-2025,1-Jul-2025,4016.29,CAD,Completed,short-term
+STEPHANIE bennett,ACC-4251-57,ca475487,Brokerage,berkshire hathaway,BRK.A,169,4/10/2024,11-Apr-2024,$4306.7,CAD,Completed,
+AMANDA CARPENTER,ACC-1469-19,85dcb010,Custodial,NVIDIA CORPORATION,NVDA,361,3/7/2023,3/8/2023,N/A,USD,Completed,watchlist
+kenneth hartman,ACC-0980-93,344e9049,401(k)," Amazon.Com, Inc. ",AMZN,981,3/7/2025,3/10/2025,2837.85,USD,Completed,
+SAMUEL Newton,ACC-7806-33,9e28ae72,Roth IRA,berkshire hathaway,BRK.A,580,23-Jul-2024,,"1,796.82 USD",CAD,Pending,pending
+Beth King,ACC-1594-91,80ca1445,Trust,Johnson & Johnson,JNJ,579,11-Jun-2024,12-Jun-2024,628.37,USD,Completed,dividends reinvested
+leon Daniels,ACC-0416-72,2cd0a6e9,Custodial,apple inc.,AAPL,763,7-Jul-2023,10-Jul-2023,4077.88,CAD,Completed,short-term
+sharon ruiz,ACC-6066-04,d670e4b5,Roth IRA,NVIDIA CORPORATION,Nvda,77,10-Mar-2022,11-Mar-2022,"$1,269.77",USD,Completed,dividends reinvested
+mackenzie BARRETT,ACC-9031-08,46e59c28,Joint, microsoft corp ,MSFT,114,7/3/2025,,$4718.3,CAD,Pending,pending
+jamie gonzales,ACC-1903-05,84e53ffa,Brokerage,"Amazon.Com, Inc.",Amzn,505,4/15/2021,4/16/2021,57.29,USD,Completed,dividends reinvested
+Christopher esparza,ACC-9384-53,c03af18d,Trust,APPLE INC.,AAPL,806,4/24/2025,4/25/2025,N/A,EUR,Completed,watchlist
+john JOHNSON,ACC-9078-56,48500586,Trust,netflix,NFL,43,7/7/2025,8-Jul-2025,3413.75usd,EUR,Completed,dividends reinvested
+robert MORRISON,ACC-9277-26,635f810e,Trust, Netflix ,nflx,67,29-Oct-2024,10/30/2024,"$1,409.22",EUR,Completed,watchlist
+jay NELSON,ACC-5360-87,8599c9dd,Custodial,meta platforms,META,285,9/16/2024,,$4111.5,EUR,Pending,pending
+,ACC-9847-12,89631f1a,Roth IRA,NVIDIA CORPORATION,Nvd,671,25-Oct-2022,,1177.24usd,CAD,Pending,pending
+Frank GALLOWAY,ACC-3250-12,1f228cdb,Joint,APPLE INC.,aapl,214,2/19/2025,2/20/2025,3060.82usd,USD,Completed,watchlist
+MATTHEW lewis,ACC-7883-59,d48631f7,Trust,tesla inc.,TSLA,832,6-Feb-2025,2/7/2025,"$2,100.20",CAD,Completed,dividends reinvested
+RONALD sparks,ACC-8952-72,350ad8f1,Trust,Nvidia Corporation,nvda,46,2/27/2024,,N/A,EUR,Pending,pending
+stephanie BENNETT,ACC-4251-57,a2c8abb8,Brokerage, Nvidia Corporation ,Nvd,365,31-Oct-2024,11/1/2024,4750.87usd,USD,Completed,dividends reinvested
+AARON jones,ACC-2757-73,eadfcff2,Trust,Tesla Inc.,Tsla,989,12-Dec-2024,13-Dec-2024,"2,489.35 USD",CAD,Completed,watchlist
+Jay nelson,ACC-5360-87,6f34c494,Custodial,apple inc.,AAPL,534,26-Jun-2025,,$1073.8,USD,Pending,pending
+MRS. MELISSA Martinez MD,ACC-9435-86,5358d5bf,Roth IRA, Alphabet Inc. ,Googl,355,4/2/2025,3-Apr-2025,904.01usd,EUR,Completed,dividends reinvested
+joseph CRAWFORD,ACC-1761-45,ff82c54c,Roth IRA,MICROSOFT CORP,MSFT,361,11-Jul-2023,7/12/2023,N/A,USD,Completed,dividends reinvested
+Anne MARTIN,ACC-5831-13,e04cf8ad,Brokerage,META PLATFORMS,meta,646,17-Mar-2023,20-Mar-2023,N/A,CAD,Completed,dividends reinvested
+Francisco MILLER,ACC-2320-61,798b2ac7,Trust,BERKSHIRE HATHAWAY,Brk.A,865,5-May-2022,5/6/2022,$723.9,USD,Completed,dividends reinvested
+CARLOS ALEXANDER,ACC-6263-52,09f7f30b,Roth IRA,Berkshire Hathaway,Brk.A,420,22-Oct-2020,23-Oct-2020,3687.77usd,CAD,Completed,dividends reinvested
+robert hodges,ACC-2514-34,b70dc346,Joint,NVIDIA CORPORATION,Nvda,827,27-Mar-2025,3/28/2025,$4396.8,USD,Completed,watchlist
+william Winters,ACC-1317-26,26736802,Roth IRA, MICROSOFT CORP ,Msft,375,30-Dec-2024,,2303.08usd,USD,Pending,pending
+jeff MORROW,ACC-0934-49,2875d717,Joint,BERKSHIRE HATHAWAY,BRK.,95,5/14/2025,,N/A,EUR,Pending,pending
+JENNIFER KING,ACC-5048-12,6a595eca,Roth IRA,NVIDIA CORPORATION,nvda,125,1/13/2023,17-Jan-2023,N/A,EUR,Completed,dividends reinvested
+TERRY Newton,ACC-7705-30,acc99a1a,401(k),meta platforms,Meta,22,26-Mar-2024,27-Mar-2024,$669.4,EUR,Completed,
+FRANK MORGAN,ACC-1723-94,ce28e324,401(k),"amazon.com, inc.",Amzn,512,2-Oct-2020,,N/A,CAD,Pending,pending
+julie HERNANDEZ,ACC-6546-74,592ea7e3,Joint,Tesla Inc.,TSLA,658,3/20/2025,3/21/2025,"3,285.17 USD",EUR,Completed,short-term
+WALTER GUZMAN,ACC-4148-02,bedba340,401(k),apple inc.,Aapl,265,6/12/2024,,322.53 USD,EUR,Pending,pending
+MICHAEL BENTLEY,ACC-6420-70,1bb45568,Brokerage,berkshire hathaway,brk.a,188,23-Apr-2024,24-Apr-2024,N/A,EUR,Completed,auto-invest
+MICHAEL bentley,,68da3d9a,Brokerage,microsoft corp,msft,978,2/20/2025,,$2456.9,CAD,Pending,pending
+STEPHANIE BENNETT,ACC-4251-57,f879d58c,Brokerage,ALPHABET INC.,GOOGL,885,4/25/2024,4/26/2024,1930.17,EUR,Completed,short-term
+Maria gonzalez,ACC-4256-01,a0acb6fc,Trust,apple inc.,Aapl,959,13-Mar-2025,3/14/2025,"$1,444.36",USD,Completed,watchlist
+AMY Johnson,ACC-7992-71,3c146af3,401(k),Netflix,NFLX,327,11/18/2022,21-Nov-2022,N/A,EUR,Completed,dividends reinvested
+kenneth HARTMAN,,01d6d625,401(k), NETFLIX ,NFLX,8,25-Jun-2024,,2189.81usd,EUR,Pending,pending
+Anthony FLYNN,ACC-2193-22,0ebcf048,401(k),"amazon.com, inc.",AMZN,636,30-Oct-2024,10/31/2024,$929.04,CAD,Completed,auto-invest
+Timothy chapman,ACC-0700-77,7339aa83,401(k),Tesla Inc.,TSLA,488,2-Sep-2022,,$2541.04,CAD,Pending,pending
+maria REYNOLDS,,97164125,Joint,JOHNSON & JOHNSON,Jnj,504,25-Mar-2025,3/26/2025,$4294.6,CAD,Completed,dividends reinvested
+Amanda Carpenter,ACC-1469-19,02582831,Custodial,Johnson & Johnson,jnj,980,1-Nov-2021,2-Nov-2021,$2984.98,CAD,Completed,dividends reinvested
+,ACC-0455-31,2e00c402,Joint,nvidia corporation,nvda,807,6-Jun-2022,6/7/2022,$4014.8,EUR,Completed,short-term
+joseph CRAWFORD,,6d3eb160,Roth IRA,meta platforms,meta,901,20-Dec-2021,,4646.71usd,USD,Pending,pending
+KIMBERLY Williams,,4d2e6a1b,Brokerage,Johnson & Johnson,Jnj,ten,28-Jul-2023,7/31/2023,1834.68usd,USD,Completed,dividends reinvested
+isaac Wood,ACC-4708-40,e7e22894,Trust,NVIDIA CORPORATION,NVDA,451,2/15/2022,16-Feb-2022,165.68,USD,Completed,dividends reinvested
+deborah atkinson,ACC-9187-98,5a2307dc,Joint, tesla inc. ,Tsla,395,6/14/2023,15-Jun-2023,491.65usd,USD,Completed,watchlist
+Brandon Mills,ACC-3659-34,75f37cee,401(k),NVIDIA CORPORATION,Nvda,372,5/30/2023,31-May-2023,228.49 USD,USD,Completed,dividends reinvested
+FELICIA SCOTT,ACC-4677-40,df835ee7,Trust,johnson & johnson,jnj,317,12/23/2024,24-Dec-2024,"$3,577.82",CAD,Completed,watchlist
+shannon costa,ACC-1513-23,b657690a,Custodial, NETFLIX ,Nflx,346,6/17/2025,18-Jun-2025,$1679.7,EUR,Completed,short-term
+Amanda carpenter,ACC-1469-19,effd3da3,Custodial, alphabet inc. ,googl,269,3-Aug-2023,4-Aug-2023,2672.57usd,EUR,Completed,watchlist
+glen THOMAS,ACC-0608-88,06ede6b9,Brokerage,Apple Inc.,AAP,ten,12-Dec-2024,,N/A,EUR,Pending,pending
+,ACC-8952-72,cf9ffa64,Trust,Microsoft Corp,msft,576,26-Jun-2025,,"3,537.38 USD",CAD,Pending,pending
+JOSE THOMAS,,c9989c42,Roth IRA,Meta Platforms,Meta,965,30-Oct-2024,,$4811.49,USD,Pending,pending
+SHARON Ruiz,ACC-6066-04,cda32b66,Roth IRA,APPLE INC.,Aapl,813,5-Jul-2024,7/8/2024,3621.12,CAD,Completed,
+Stephen carter,ACC-6359-95,76cdc445,Trust,microsoft corp,MSFT,221,10-Jul-2025,7/11/2025,"1,135.86 USD",EUR,Completed,auto-invest
+maria Reynolds,ACC-9656-56,0fa1609c,Joint, Nvidia Corporation ,Nvda,412,6/9/2025,10-Jun-2025,$1601.20,CAD,Completed,short-term
+carlos ALEXANDER,ACC-6263-52,243bb71f,Roth IRA, Microsoft Corp ,msft,373,11/25/2024,11/26/2024,$1643.61,CAD,Completed,auto-invest
+ronald SPARKS,ACC-8952-72,60e863f9,Trust," Amazon.Com, Inc. ",Amzn,824,6/2/2025,3-Jun-2025,"1,261.48 USD",USD,Completed,short-term
+MICHAEL Collins,ACC-9950-12,2e66d9b2,401(k),MICROSOFT CORP,MSFT,233,2/11/2025,2/12/2025,$309.76,USD,Completed,watchlist
+mackenzie BARRETT,ACC-9031-08,0652a4df,Joint,"amazon.com, inc.",Amzn,N/A,5/12/2025,5/13/2025,$2312.2,CAD,Completed,short-term
+,ACC-4126-43,3f4daee2,Trust,NETFLIX,nflx,N/A,4/5/2024,4/8/2024,1200.18usd,CAD,Completed,watchlist
+Leslie MONTOYA,ACC-1613-88,74384908,Roth IRA,Johnson & Johnson,JNJ,856,11/21/2023,22-Nov-2023,"$2,756.02",CAD,Completed,watchlist
+ashley GALLEGOS,ACC-5934-64,bcf999ad,401(k),MICROSOFT CORP,msf,346,1/3/2024,1/4/2024,"3,617.36 USD",USD,Completed,dividends reinvested
+LEAH Larsen,ACC-0586-00,4d0104b2,Brokerage,Nvidia Corporation,NVDA,266,8/14/2024,8/15/2024,"$3,128.65",CAD,Completed,dividends reinvested
+SPENCER CLARK,ACC-2289-36,a751f3a9,Joint,alphabet inc.,GOOGL,153,1-Mar-2024,,$3554.33,EUR,Pending,pending
+Tina jones,ACC-5322-63,24a711f0,Roth IRA,"AMAZON.COM, INC.",Amzn,166,10/1/2024,,N/A,CAD,Pending,pending
+Gary LYNCH,ACC-6213-57,4d1bf1ca,Custodial,Berkshire Hathaway,brk.a,589,5-Aug-2024,8/6/2024,$2633.75,CAD,Completed,auto-invest
+April terry,ACC-0599-67,7e2615a7,Brokerage,"amazon.com, inc.",amzn,424,5/28/2025,5/29/2025,$2340.9,EUR,Completed,auto-invest
+Martha STUART,ACC-8191-06,d742cbb5,Custodial,TESLA INC.,TSLA,625,13-Jun-2023,6/14/2023,"$2,230.21",CAD,Completed,
+,ACC-2320-61,474211d5,Trust, netflix ,nflx,645,1/8/2021,1/11/2021,2097.27usd,EUR,Completed,short-term
+rachel richmond,ACC-3802-06,4b89f71d,Roth IRA,berkshire hathaway,brk.a,518,11-Mar-2024,3/12/2024,464.22 USD,CAD,Completed,auto-invest
+LAUREN Miranda,ACC-6696-75,abcdf318,Roth IRA,NETFLIX,Nflx,997,19-Oct-2022,10/20/2022,4167.53,USD,Completed,watchlist
+drew Salazar,ACC-1788-81,ee7280f9,Joint,johnson & johnson,jnj,944,7/11/2025,14-Jul-2025,3533.36usd,EUR,Completed,dividends reinvested
+EDWARD Washington,ACC-8660-68,b4bdca9f,Custodial,META PLATFORMS,Meta,230,18-Jun-2025,6/20/2025,$2036.2,EUR,Completed,dividends reinvested
+Robert MORRISON,ACC-9277-26,763404ee,Trust,APPLE INC.,Aapl,888,1/30/2025,1/31/2025,2577.72usd,CAD,Completed,dividends reinvested
+KAYLA stewart,ACC-0721-36,fda19c10,Roth IRA,"amazon.com, inc.",AMZN,587,18-Jul-2025,18-Jul-2025,$12.4,EUR,Completed,dividends reinvested
+Timothy Chapman,ACC-0700-77,08d66952,401(k),TESLA INC.,Tsla,929,9/8/2021,9/9/2021,"1,898.49 USD",CAD,Completed,
+Jonathan Ramos,ACC-9586-98,aa284b65,401(k),alphabet inc.,Goog,413,5-Jun-2025,6/6/2025,336.12,EUR,Completed,short-term
+JAY NELSON,ACC-5360-87,c1da5b0f,Custodial, NETFLIX ,nflx,806,3/16/2023,17-Mar-2023,$2516.5,EUR,Completed,
+RACHEL Richmond,ACC-3802-06,6f090397,Roth IRA,Berkshire Hathaway,Brk.A,434,4/12/2024,4/15/2024,$2840.20,CAD,Completed,watchlist
+James poole,ACC-6303-65,26e5f9b5,Joint,johnson & johnson,Jnj,73,15-Jan-2025,1/16/2025,$2378.15,EUR,Completed,
+ASHLEE Bell,ACC-8139-72,5f8e0ed5,Brokerage, APPLE INC. ,Aapl,317,23-Sep-2021,24-Sep-2021,$3617.0,EUR,Completed,dividends reinvested
+christopher Lowery,ACC-4393-46,fa4a9ced,Roth IRA, JOHNSON & JOHNSON ,JNJ,ten,9/19/2022,20-Sep-2022,"$1,818.77",EUR,Completed,auto-invest
+Tammy Allison,,0cf7652d,Roth IRA,BERKSHIRE HATHAWAY,Brk.A,408,26-Jun-2025,27-Jun-2025,"4,410.35 USD",USD,Completed,watchlist
+SHARON ruiz,ACC-6066-04,7c71ebff,Roth IRA,tesla inc.,Tsla,775,8/22/2022,23-Aug-2022,"4,991.22 USD",EUR,Completed,short-term
+thomas Jackson,ACC-3087-81,cf330ba6,Custodial,JOHNSON & JOHNSON,Jnj,695,5/23/2024,24-May-2024,3003.62usd,USD,Completed,
+jay nelson,ACC-5360-87,e88dd683,Custodial,Alphabet Inc.,googl,N/A,12/18/2023,12/19/2023,$1828.86,CAD,Completed,watchlist
+walter GUZMAN,ACC-4148-02,d9bfe0dd,401(k),APPLE INC.,Aapl,ten,24-Apr-2024,4/25/2024,3938.92,CAD,Completed,auto-invest
+benjamin Wilson,ACC-5940-08,c8cafb8b,Trust,Berkshire Hathaway,Brk.,ten,4/14/2025,15-Apr-2025,1825.81usd,CAD,Completed,dividends reinvested
+edward washington,ACC-8660-68,f2c21f80,Custodial,"AMAZON.COM, INC.",Amzn,842,7/9/2025,7/10/2025,1764.17usd,CAD,Completed,auto-invest
+Ashlee BELL,ACC-8139-72,3245ad54,Brokerage,Berkshire Hathaway,BRK.A,534,1/5/2023,1/6/2023,1084.88usd,EUR,Completed,
+JESSICA JONES,ACC-7394-49,a8a4a29c,Brokerage,Tesla Inc.,Tsla,604,7/17/2025,7/18/2025,742.02usd,EUR,Completed,short-term
+Patrick HERNANDEZ,ACC-5412-61,8e467f61,Brokerage, apple inc. ,AAPL,895,6-Oct-2023,,"$2,199.73",EUR,Pending,pending
+Spencer clark,ACC-2289-36,5e9263c2,Joint,Johnson & Johnson,Jnj,N/A,9/28/2023,,"4,824.98 USD",CAD,Pending,pending
+EDWARD washington,ACC-8660-68,036a7c67,Custodial,JOHNSON & JOHNSON,Jnj,870,12/4/2024,5-Dec-2024,N/A,CAD,Completed,
+SABRINA bowen,ACC-8707-29,9f357319,401(k),META PLATFORMS,meta,296,2/14/2025,2/18/2025,"1,902.48 USD",USD,Completed,short-term
+glen Thomas,ACC-0608-88,85763c08,Brokerage, microsoft corp ,Msft,115,3/26/2025,3/27/2025,$2588.1,CAD,Completed,
+MR. JOHN sullivan,ACC-0938-29,6c8136e7,Roth IRA,apple inc.,Aapl,243,12/3/2024,12/4/2024,$2764.68,CAD,Completed,
+SHARON ruiz,ACC-6066-04,fdb332b4,Roth IRA,NETFLIX,nflx,32,11/15/2024,18-Nov-2024,N/A,USD,Completed,short-term
+DANIELLE BELL,ACC-5550-88,bb4647ee,Trust,apple inc.,AAPL,419,7/10/2024,7/11/2024,"$4,856.86",USD,Completed,short-term
+Maria Gonzalez,ACC-4256-01,99d1c6de,Trust,meta platforms,META,166,4-Dec-2024,5-Dec-2024,N/A,CAD,Completed,dividends reinvested
+BENJAMIN WILSON,ACC-5940-08,6dd715ef,Trust,BERKSHIRE HATHAWAY,brk.a,93,4/1/2025,,2097.53usd,CAD,Pending,pending
+jennifer KING,ACC-5048-12,131f8c43,Roth IRA,Apple Inc.,AAPL,320,28-Feb-2024,2/29/2024,$69.25,USD,Completed,short-term
+BRANDON Mills,ACC-3659-34,f79c8fa4,401(k),berkshire hathaway,brk.a,936,28-Nov-2023,,1787.16usd,EUR,Pending,pending
+stephanie perry,,1f91f761,Brokerage,META PLATFORMS,META,511,7/16/2025,7/17/2025,N/A,EUR,Completed,dividends reinvested
+pamela jackson,ACC-5892-09,3d994209,401(k),Johnson & Johnson,JNJ,139,22-Jan-2024,1/23/2024,$1067.78,EUR,Completed,dividends reinvested
+mr. John SULLIVAN,ACC-0938-29,3ecef4bc,Roth IRA,MICROSOFT CORP,msft,79,6/11/2025,6/12/2025,$3553.4,CAD,Completed,
+Jennifer king,ACC-5048-12,eac7e6af,Roth IRA, TESLA INC. ,tsla,834,3/7/2023,8-Mar-2023,1184.13,USD,Completed,dividends reinvested
+MARK dean,ACC-6166-41,b9c046bc,Brokerage,nvidia corporation,Nvda,342,1/2/2025,1/3/2025,$4330.7,CAD,Completed,
+,ACC-5831-13,54c3a95a,Brokerage,"amazon.com, inc.",AMZN,67,19-Apr-2021,4/20/2021,$4322.5,USD,Completed,
+JOHN johnson,ACC-9078-56,75534b03,Trust,alphabet inc.,Googl,710,1/3/2025,6-Jan-2025,$711.37,USD,Completed,short-term
+emily HART,ACC-7633-25,f56f9c19,Roth IRA,JOHNSON & JOHNSON,jnj,727,12-Jul-2023,7/13/2023,"2,263.68 USD",EUR,Completed,dividends reinvested
+michael bentley,ACC-6420-70,abd3b15a,Brokerage,APPLE INC.,AAPL,534,3/18/2025,,1770.50,EUR,Pending,pending
+JEFF MORROW,ACC-0934-49,6e4ebd5c,Joint,"AMAZON.COM, INC.",AMZN,542,1/27/2021,28-Jan-2021,N/A,EUR,Completed,short-term
+Jonathan RAMOS,ACC-9586-98,65dde228,401(k),Apple Inc.,aapl,416,4/22/2025,4/23/2025,N/A,EUR,Completed,dividends reinvested
+GARY Lynch,ACC-6213-57,a4874407,Custodial,microsoft corp,Msft,777,11/13/2023,11/14/2023,1449.25usd,EUR,Completed,auto-invest
+FRANCISCO MILLER,ACC-2320-61,04ff6f22,Trust,TESLA INC.,TSLA,76,12/31/2020,1/4/2021,824.65,USD,Completed,auto-invest
+walter Guzman,ACC-4148-02,7dcaa558,401(k),ALPHABET INC.,GOOGL,724,11-Apr-2023,4/12/2023,"2,210.00 USD",USD,Completed,watchlist
+,ACC-4336-74,4b7a779d,401(k),Netflix,NFLX,274,17-Jul-2025,7/18/2025,1354.96,USD,Completed,auto-invest
+Kenneth HARTMAN,ACC-6132-88,dc1b0347,Joint,NVIDIA CORPORATION,Nvda,301,6/25/2025,26-Jun-2025,2360.41,USD,Completed,dividends reinvested
+aaron JONES,,880c2ee8,Trust,BERKSHIRE HATHAWAY,brk.a,929,3/14/2025,,$806.55,USD,Pending,pending
+STEPHANIE Perry,ACC-0606-25,b23697a1,Brokerage,MICROSOFT CORP,msft,946,7/16/2025,17-Jul-2025,"$2,494.86",USD,Completed,dividends reinvested
+tammy Allison,ACC-6243-77,8f7b8a8c,Roth IRA,"Amazon.Com, Inc.",AMZN,47,3-Jun-2025,6/4/2025,$4489.8,EUR,Completed,
+BRITTANY smith,ACC-0280-08,4621a7ea,Joint,Nvidia Corporation,NVD,3,1/10/2025,1/13/2025,1150.14usd,CAD,Completed,dividends reinvested
+RICHARD Miller,ACC-7408-26,e9af61cf,401(k),tesla inc.,tsla,ten,29-May-2025,5/30/2025,4648.10,USD,Completed,auto-invest
+leah Larsen,ACC-0586-00,c4526105,Brokerage,TESLA INC.,tsla,83,18-Nov-2024,11/19/2024,"$3,274.77",CAD,Completed,auto-invest
+,ACC-6696-75,c952ae28,Roth IRA,Netflix,NFLX,287,1/30/2023,1/31/2023,2341.36usd,EUR,Completed,watchlist
+Jennifer Clarke,ACC-4466-77,373d910a,Brokerage,MICROSOFT CORP,MSFT,894,26-May-2023,30-May-2023,$645.38,CAD,Completed,
+Katie kim,ACC-6719-85,f532ca86,Joint,apple inc.,Aapl,ten,24-Jan-2024,,"2,138.62 USD",EUR,Pending,pending
+Jonathan ramos,ACC-9586-98,4bf7f474,401(k),BERKSHIRE HATHAWAY,brk.a,364,1-May-2025,2-May-2025,3580.32usd,EUR,Completed,short-term
+Theodore MALDONADO,ACC-5034-80,ff962123,Joint,META PLATFORMS,META,908,3/4/2025,5-Mar-2025,2723.40usd,USD,Completed,auto-invest
+BRITTANY ROBERTS,ACC-0268-85,e97d9265,Joint,nvidia corporation,nvda,325,12-Jun-2025,,$3568.00,EUR,Pending,pending
+DEBORAH moody,ACC-4991-00,a855644d,Roth IRA,Alphabet Inc.,GOOGL,115,13-Jun-2025,6/16/2025,$2665.28,CAD,Completed,auto-invest
+deborah Moody,ACC-4991-00,59599f93,Roth IRA,"AMAZON.COM, INC.",AMZN,741,6/10/2025,11-Jun-2025,2219.80usd,CAD,Completed,short-term
+,ACC-0455-31,8cdd1029,Joint, johnson & johnson ,JNJ,6,11/7/2022,11/8/2022,$2085.98,CAD,Completed,dividends reinvested
+Edward MEDINA,ACC-9962-17,f3e42d81,401(k),Tesla Inc.,TSLA,788,5/27/2025,,$2112.52,USD,Pending,pending
+FRANCISCO miller,ACC-2320-61,cea8e8dc,Trust,Alphabet Inc.,GOOGL,464,24-Jun-2021,6/25/2021,"1,149.57 USD",USD,Completed,watchlist
+EDWARD washington,ACC-8660-68,f5f1484c,Custodial,alphabet inc.,Googl,697,4/10/2025,11-Apr-2025,$4286.3,USD,Completed,watchlist
+jamie GONZALES,ACC-1903-05,d83d149c,Brokerage,JOHNSON & JOHNSON,Jnj,875,9/6/2022,,N/A,USD,Pending,pending
+heidi cox,ACC-2714-27,7abe29c1,Roth IRA,Johnson & Johnson,jnj,279,4/17/2024,18-Apr-2024,771.32 USD,CAD,Completed,
+ISAAC WOOD,ACC-4708-40,5efe640e,Trust, MICROSOFT CORP ,MSFT,339,16-Jul-2021,7/19/2021,3889.22usd,USD,Completed,short-term
+William winters,,2df902ef,Roth IRA,berkshire hathaway,brk.a,611,9/10/2024,11-Sep-2024,377.98 USD,USD,Completed,
+James Poole,ACC-6303-65,76209c84,Joint,JOHNSON & JOHNSON,JNJ,769,15-Aug-2024,16-Aug-2024,3298.21,CAD,Completed,watchlist
+MATTHEW lewis,ACC-7883-59,e2a31349,Trust,TESLA INC.,Tsla,202,12/13/2024,12/16/2024,"2,628.41 USD",CAD,Completed,auto-invest
+Carolyn powell,ACC-7024-51,67db4b0e,Trust,"AMAZON.COM, INC.",AMZN,362,8/10/2023,11-Aug-2023,474.61usd,USD,Completed,auto-invest
+mark BROWN,ACC-1558-54,6d04548d,Brokerage,ALPHABET INC.,GOOGL,111,8/9/2024,8/12/2024,"1,965.38 USD",EUR,Completed,auto-invest
+anthony FLYNN,ACC-2193-22,ceeae143,401(k),johnson & johnson,JNJ,61,4/24/2025,,$4074.9,CAD,Pending,pending
+Anthony FLYNN,,8b16b4f6,401(k),Tesla Inc.,Tsla,842,2/13/2025,,N/A,CAD,Pending,pending
+Amy Johnson,ACC-7992-71,ecc400cb,401(k),META PLATFORMS,Meta,992,2-Mar-2023,3-Mar-2023,1904.03,CAD,Completed,watchlist
+SABRINA bowen,ACC-8707-29,c91a80d5,401(k),"AMAZON.COM, INC.",AMZN,484,5-Nov-2024,11/6/2024,4334.33usd,CAD,Completed,
+terry Newton,ACC-7705-30,6a8d2d98,401(k),berkshire hathaway,BRK.A,984,9/5/2024,9/6/2024,$911.30,CAD,Completed,auto-invest
+KIMBERLY MARTIN,ACC-4336-74,7800aa62,401(k),apple inc.,AAPL,234,3/26/2025,3/27/2025,$3744.6,EUR,Completed,
+ANTHONY flynn,ACC-2193-22,1339a2bd,401(k),"AMAZON.COM, INC.",amzn,293,3-Apr-2025,4/4/2025,2257.24,EUR,Completed,watchlist
+leon Daniels,,fb6e163c,Custodial," Amazon.Com, Inc. ",AMZ,66,6/25/2025,26-Jun-2025,"$1,736.72",CAD,Completed,watchlist
+RICHARD miller,ACC-7408-26,cf215a3a,401(k),Meta Platforms,meta,290,6/17/2025,6/18/2025,3523.35usd,CAD,Completed,auto-invest
+ASHLEY GALLEGOS,,7d915a55,401(k),TESLA INC.,Tsla,985,9/12/2023,9/13/2023,4371.13usd,CAD,Completed,auto-invest
+sean Daniel,ACC-5096-80,6eb7a7c8,Custodial,APPLE INC.,Aapl,351,7-Aug-2024,8/8/2024,3399.44,EUR,Completed,short-term
+,ACC-9574-77,2d282ce4,Custodial,Johnson & Johnson,Jnj,472,4/4/2024,4/5/2024,N/A,EUR,Completed,dividends reinvested
+Robert MORRISON,ACC-9277-26,37dd7066,Trust,META PLATFORMS,Meta,479,27-Jan-2025,,1005.92usd,USD,Pending,pending
+LATASHA SMITH,ACC-6745-42,27058716,401(k),tesla inc.,TSLA,275,28-Mar-2024,3/29/2024,$3538.08,CAD,Completed,auto-invest
+david BEASLEY,ACC-7869-96,e13651b1,Roth IRA, NVIDIA CORPORATION ,nvda,N/A,30-Jun-2025,1-Jul-2025,2142.69,CAD,Completed,short-term
+hannah cantrell,ACC-4231-83,d1b8bfb2,Brokerage,BERKSHIRE HATHAWAY,BRK.A,903,4/3/2023,4/4/2023,4367.00usd,CAD,Completed,
+GLEN THOMAS,ACC-0608-88,c1f3fad1,Brokerage,Alphabet Inc.,GOOGL,496,20-Aug-2024,8/21/2024,527.31usd,EUR,Completed,auto-invest
+Tammy CAMPBELL,ACC-1374-21,ebc97764,401(k),berkshire hathaway,brk.a,251,1/11/2024,12-Jan-2024,$3468.8,CAD,Completed,auto-invest
+SHARON STEWART,ACC-4126-43,3aef8b23,Trust,Alphabet Inc.,googl,61,1-Feb-2024,,3346.38usd,CAD,Pending,pending
+Jennifer king,ACC-5048-12,4fccd0af,Roth IRA,Nvidia Corporation,nvda,980,26-Feb-2024,2/27/2024,"1,707.21 USD",USD,Completed,dividends reinvested
+EMILY ROSS,ACC-6299-73,79eb7871,Joint, Microsoft Corp ,msft,877,7/1/2025,2-Jul-2025,"1,141.51 USD",USD,Completed,dividends reinvested
+Brittany SMITH,ACC-0280-08,af68c08e,Joint,BERKSHIRE HATHAWAY,brk.a,118,6/18/2025,6/20/2025,534.09 USD,CAD,Completed,auto-invest
+Leslie montoya,ACC-1613-88,b3264a0e,Roth IRA,alphabet inc.,googl,727,5/7/2024,5/8/2024,N/A,EUR,Completed,
+brittany SMITH,ACC-0280-08,8e3df705,Joint,johnson & johnson,JNJ,928,29-Oct-2024,30-Oct-2024,$2081.4,EUR,Completed,watchlist
+walter guzman,ACC-4148-02,9b5e0bc6,401(k),BERKSHIRE HATHAWAY,BRK.A,845,1/29/2025,1/30/2025,$120.55,CAD,Completed,short-term
+mitchell massey,ACC-4961-01,819d749e,Joint,"amazon.com, inc.",AMZN,967,6/21/2024,24-Jun-2024,$1259.54,EUR,Completed,auto-invest
+SPENCER Clark,ACC-2289-36,48b41de5,Joint,meta platforms,Meta,34,6-Jul-2021,7/7/2021,$3267.6,EUR,Completed,short-term
+Sean Daniel,ACC-8266-21,d191942b,Custodial,NETFLIX,NFL,706,7/3/2025,7-Jul-2025,1500.83usd,EUR,Completed,short-term
+ANNE martin,ACC-5831-13,ed2ed842,Brokerage,alphabet inc.,GOOGL,115,9/20/2022,9/21/2022,$662.0,CAD,Completed,auto-invest
+april TERRY,ACC-0599-67,155fcc34,Brokerage,nvidia corporation,NVDA,876,2-Jul-2025,7/3/2025,N/A,CAD,Completed,watchlist
+RONALD Sparks,,77fce6dc,Trust,Meta Platforms,meta,743,12/10/2024,,585.89usd,USD,Pending,pending
+cynthia mills,ACC-8689-39,63ca3030,Custodial,"Amazon.Com, Inc.",Amzn,682,7-May-2024,8-May-2024,"2,237.02 USD",USD,Completed,dividends reinvested
+jay Nelson,ACC-5360-87,aedd14be,Custodial,JOHNSON & JOHNSON,JNJ,228,10-Oct-2023,10/11/2023,N/A,CAD,Completed,
+andrea dennis,,420453ad,401(k),tesla inc.,TSLA,984,1-Sep-2023,5-Sep-2023,"3,110.28 USD",CAD,Completed,short-term
+Frank GALLOWAY,ACC-3250-12,a6accf93,Joint,NETFLIX,NFLX,550,7/17/2025,18-Jul-2025,N/A,EUR,Completed,watchlist
+Sean Daniel,ACC-8266-21,8f5b2bc6,Custodial,Microsoft Corp,Msft,717,26-Jun-2025,27-Jun-2025,279.50 USD,USD,Completed,watchlist
+Martha Stuart,ACC-8191-06,310275c8,Custodial,Netflix,NFLX,619,8-Mar-2022,9-Mar-2022,2251.02usd,EUR,Completed,dividends reinvested
+,ACC-4827-00,e1b07427,Brokerage,Alphabet Inc.,Googl,427,4/3/2023,4-Apr-2023,N/A,CAD,Completed,dividends reinvested
+leslie montoya,ACC-1613-88,8ad7c2b2,Roth IRA,JOHNSON & JOHNSON,JNJ,814,20-Sep-2024,9/23/2024,"2,928.33 USD",CAD,Completed,watchlist
+tammy ALLISON,ACC-6243-77,104a18c1,Roth IRA,Berkshire Hathaway,brk.a,N/A,6/27/2025,30-Jun-2025,3735.61,USD,Completed,
+,ACC-1761-45,730a72e5,Roth IRA,META PLATFORMS,Meta,211,20-Sep-2024,9/23/2024,N/A,USD,Completed,watchlist
+Aaron Jones,ACC-2757-73,cfb0f6ec,Trust,BERKSHIRE HATHAWAY,Brk.A,61,4/18/2025,21-Apr-2025,3652.06,EUR,Completed,dividends reinvested
+robert Morrison,ACC-9277-26,e64ff6a8,Trust,Microsoft Corp,MSFT,59,27-Dec-2024,30-Dec-2024,2176.16,USD,Completed,auto-invest
+MARIA reynolds,ACC-9656-56,1da0dc0a,Joint,apple inc.,Aapl,651,3/27/2025,3/28/2025,N/A,CAD,Completed,dividends reinvested
+Walter Guzman,ACC-4148-02,c09b3745,401(k),Nvidia Corporation,nvda,170,5/15/2024,16-May-2024,$153.49,CAD,Completed,
+Rachel richmond,ACC-3802-06,cae65888,Roth IRA,APPLE INC.,AAPL,66,7-Dec-2023,12/8/2023,1131.22usd,CAD,Completed,auto-invest
+stephanie SMITH,ACC-6313-73,94588277,Trust, Nvidia Corporation ,NVDA,169,26-Sep-2024,9/27/2024,N/A,EUR,Completed,watchlist
+david Beasley,ACC-7869-96,6ba89e06,Roth IRA,ALPHABET INC.,Googl,844,6/23/2025,24-Jun-2025,N/A,CAD,Completed,
+EMILY HART,ACC-7633-25,6f7fd2de,Roth IRA,MICROSOFT CORP,Msft,413,7-Jan-2025,,"2,517.80 USD",EUR,Pending,pending
+katie kim,ACC-6719-85,11385356,Joint,Johnson & Johnson,jnj,909,14-Nov-2024,11/15/2024,$65.8,EUR,Completed,short-term
+anthony flynn,ACC-2193-22,401ec4ab,401(k),Alphabet Inc.,GOOGL,706,26-Dec-2024,12/27/2024,$96.95,EUR,Completed,
+,ACC-4708-40,36c9fe01,Trust,Netflix,nflx,276,7/1/2022,7/5/2022,N/A,EUR,Completed,
+,ACC-7272-94,63ee8eb1,Brokerage,"amazon.com, inc.",amzn,ten,6/21/2024,6/24/2024,"$3,289.93",EUR,Completed,short-term
+karen Shaffer,ACC-4827-00,ead91176,Brokerage,Berkshire Hathaway,Brk.A,292,4/17/2023,4/18/2023,1655.26,CAD,Completed,
+LARRY BERRY,ACC-5745-27,4e3dde96,Trust,"AMAZON.COM, INC.",AMZ,960,5/20/2025,5/21/2025,$3106.4,EUR,Completed,
+David BEASLEY,ACC-7869-96,aa413a9d,Roth IRA, BERKSHIRE HATHAWAY ,brk.a,437,1/23/2024,24-Jan-2024,"3,015.98 USD",EUR,Completed,watchlist
+mitchell oconnor,ACC-4481-93,11095122,401(k),TESLA INC.,Tsla,615,3-Apr-2024,,31.49usd,USD,Pending,pending
+ASHLEY Gallegos,ACC-5934-64,c79b3879,401(k),Johnson & Johnson,JNJ,422,24-Oct-2024,25-Oct-2024,$2364.10,USD,Completed,dividends reinvested
+DONNA Smith,ACC-3879-16,b2829749,Trust,Apple Inc.,AAP,204,8/7/2023,,746.23,USD,Pending,pending
+MR. john sullivan,ACC-0938-29,9064afe5,Roth IRA,Nvidia Corporation,nvda,59,6/18/2025,20-Jun-2025,$3056.2,USD,Completed,short-term
+RONALD SPARKS,ACC-8952-72,5e30584f,Trust,"AMAZON.COM, INC.",AMZN,67,4-Mar-2025,5-Mar-2025,883.00,EUR,Completed,auto-invest
+tammy Allison,ACC-6243-77,c9e5fe65,Roth IRA,"AMAZON.COM, INC.",amzn,ten,6/13/2025,6/16/2025,"3,782.00 USD",EUR,Completed,short-term
+donna smith,ACC-7622-09,c73a8ac3,Joint,alphabet inc.,googl,705,13-Jun-2024,14-Jun-2024,"$4,127.04",CAD,Completed,watchlist
+EDWARD Medina,ACC-9962-17,917a8018,401(k), Nvidia Corporation ,Nvda,657,27-Jun-2025,6/30/2025,"$1,631.19",CAD,Completed,watchlist
+andrea Dennis,ACC-8602-19,10255239,401(k),johnson & johnson,Jnj,726,5/6/2025,5/7/2025,4055.72,CAD,Completed,auto-invest
+DREW SALAZAR,ACC-1788-81,2c91f5da,Joint,BERKSHIRE HATHAWAY,Brk.A,N/A,4/17/2023,4/18/2023,585.23usd,USD,Completed,
+JEFFREY ford,ACC-8897-53,ffc6eeb3,401(k),TESLA INC.,TSLA,931,11/7/2022,11/8/2022,2539.25,EUR,Completed,auto-invest
+leah LARSEN,ACC-0586-00,00e65ac3,Brokerage,johnson & johnson,JNJ,966,11/1/2024,,4046.64usd,USD,Pending,pending
+aaron JONES,ACC-2757-73,debbf211,Trust, META PLATFORMS ,META,N/A,30-Oct-2024,,$2616.04,EUR,Pending,pending
+JENNIFER clarke,ACC-4466-77,9300956c,Brokerage,BERKSHIRE HATHAWAY,Brk.A,737,18-May-2023,19-May-2023,"1,198.27 USD",USD,Completed,auto-invest
+,ACC-1513-23,ccd1e570,Custodial,netflix,Nflx,571,20-Jan-2023,1/23/2023,"$2,292.30",EUR,Completed,
+SHANNON COSTA,,ac5b6b34,Custodial,microsoft corp,MSFT,421,15-Mar-2024,18-Mar-2024,$3523.97,CAD,Completed,auto-invest
+Gloria WILLIAMS,ACC-9041-81,730d58ab,Brokerage, microsoft corp ,Msft,78,2/13/2025,2/14/2025,"1,011.88 USD",CAD,Completed,dividends reinvested
+,ACC-5550-88,d796c90c,Trust,ALPHABET INC.,Googl,178,9/5/2024,9/6/2024,1850.91usd,EUR,Completed,dividends reinvested
+LEAH mendez,ACC-9233-51,2dd6dbae,401(k),johnson & johnson,JNJ,477,28-Jan-2025,1/29/2025,2804.96usd,CAD,Completed,
+christine hanson,ACC-5932-72,c6a39cf9,Brokerage,BERKSHIRE HATHAWAY,Brk.A,348,5-Feb-2024,2/6/2024,"3,651.53 USD",CAD,Completed,
+William Winters,ACC-1317-26,cb3477d6,Roth IRA,"AMAZON.COM, INC.",AMZN,235,9-May-2025,,3660.03,USD,Pending,pending
+,ACC-0110-33,e06cd2f8,Brokerage,Apple Inc.,aapl,158,2/7/2022,2/8/2022,$3170.07,CAD,Completed,short-term
+richard MILLER,ACC-7408-26,16e63a25,401(k),meta platforms,MET,490,7/10/2025,11-Jul-2025,$565.12,CAD,Completed,dividends reinvested
+Marcus Lin,ACC-5147-16,3280ae2e,Custodial, NETFLIX ,NFLX,246,5/5/2021,5/6/2021,832.00 USD,USD,Completed,dividends reinvested
+TOM PATTERSON,,13adc222,Joint,meta platforms,Meta,951,3/20/2024,3/21/2024,N/A,EUR,Completed,short-term
+john johnson,ACC-9078-56,effc64cc,Trust,TESLA INC.,Tsla,377,17-Jun-2025,6/18/2025,$1650.88,EUR,Completed,auto-invest
+CHRISTOPHER LOWERY,ACC-4393-46,32d93bac,Roth IRA,meta platforms,meta,153,4/15/2021,,3604.39,CAD,Pending,pending
+SAMUEL newton,ACC-7806-33,df380926,Roth IRA,Microsoft Corp,Msft,ten,8/19/2024,,$4288.93,EUR,Pending,pending
+RONALD sparks,ACC-8952-72,16d6f95b,Trust,apple inc.,Aapl,513,6/16/2023,6/20/2023,$2725.8,USD,Completed,dividends reinvested
+jeremy Martin,ACC-5752-39,73d6f448,401(k),"AMAZON.COM, INC.",AMZN,47,4/23/2025,4/24/2025,$4761.2,CAD,Completed,watchlist
+Frank Morgan,ACC-1723-94,f7eb5c3a,401(k),microsoft corp,Msft,84,2-Mar-2023,3/3/2023,$2606.68,CAD,Completed,watchlist
+Matthew lewis,ACC-7883-59,6e786a86,Trust,APPLE INC.,aapl,509,5/30/2025,2-Jun-2025,3140.30usd,EUR,Completed,auto-invest
+SPENCER CLARK,ACC-2289-36,faadf1e8,Joint,alphabet inc.,GOOGL,448,3/18/2025,19-Mar-2025,$3398.3,CAD,Completed,short-term
+,ACC-6066-04,fee2e952,Roth IRA,johnson & johnson,JNJ,963,7/11/2024,12-Jul-2024,516.86 USD,USD,Completed,short-term
+Richard Miller,ACC-7408-26,ac8dbbe6,401(k),nvidia corporation,Nvda,176,7/3/2025,7-Jul-2025,$260.2,CAD,Completed,short-term
+Michael Collins,ACC-9950-12,28e83581,401(k),Tesla Inc.,TSLA,398,1/3/2025,,598.36usd,CAD,Pending,pending
+JENNIFER KING,ACC-5048-12,726cefff,Roth IRA,tesla inc.,Tsla,505,3-Aug-2023,8/4/2023,2434.03,USD,Completed,dividends reinvested
+jennifer clarke,ACC-4466-77,d884e292,Brokerage,apple inc.,Aapl,ten,7/22/2024,7/23/2024,"2,729.32 USD",EUR,Completed,short-term
+FRANK morgan,ACC-1723-94,ae4066ea,401(k),Johnson & Johnson,Jnj,335,19-Jan-2023,1/20/2023,"1,458.96 USD",CAD,Completed,short-term
+ashley gallegos,ACC-5934-64,f27bc860,401(k),ALPHABET INC.,googl,808,12/24/2024,26-Dec-2024,1449.50usd,EUR,Completed,auto-invest
+joseph crawford,ACC-1761-45,f0272449,Roth IRA,NVIDIA CORPORATION,Nvda,997,2-Nov-2022,3-Nov-2022,N/A,CAD,Completed,short-term
+James MILLER,ACC-6934-80,4261775c,Trust,"amazon.com, inc.",amzn,173,1/24/2025,1/27/2025,2222.28,EUR,Completed,dividends reinvested
+casey Middleton,ACC-1246-49,408b9a01,401(k), nvidia corporation ,nvda,276,3-Nov-2023,11/6/2023,N/A,USD,Completed,dividends reinvested
+Mitchell oconnor,ACC-4481-93,04df3fae,401(k),NETFLIX,nflx,387,1/30/2023,31-Jan-2023,3311.31,USD,Completed,watchlist
+john Taylor,,0a27dcef,Roth IRA,Alphabet Inc.,Googl,527,5/20/2024,,487.63,USD,Pending,pending
+ANNE martin,ACC-5831-13,b6321219,Brokerage,NETFLIX,Nflx,739,13-Oct-2023,16-Oct-2023,3865.59,CAD,Completed,watchlist
+EDWARD medina,ACC-9962-17,e9ff65de,401(k),ALPHABET INC.,googl,ten,17-Apr-2025,4/18/2025,2504.85usd,CAD,Completed,watchlist
+MARTHA Stuart,ACC-8191-06,89dd43c8,Custodial, Meta Platforms ,Meta,929,18-Oct-2021,10/19/2021,14.08,CAD,Completed,watchlist
+christopher Lowery,ACC-4393-46,3941a3ae,Roth IRA,Nvidia Corporation,Nvda,263,12/29/2021,,4602.94usd,CAD,Pending,pending
+DANIELLE Pearson,ACC-0110-33,db13eac5,Brokerage,Meta Platforms,Meta,948,14-Jun-2023,15-Jun-2023,4566.08,EUR,Completed,watchlist
+Jeff MORROW,ACC-0934-49,5c9ca57e,Joint,apple inc.,AAP,74,6/24/2022,6/27/2022,$3917.95,CAD,Completed,short-term
+Marcus LIN,ACC-5147-16,45794b60,Custodial,nvidia corporation,NVDA,N/A,15-May-2023,,"$4,877.89",CAD,Pending,pending
+,ACC-6420-70,1d4826b1,Brokerage,Microsoft Corp,MSFT,371,7/12/2024,7/15/2024,$2585.4,USD,Completed,short-term
+Pamela jackson,ACC-5892-09,b1295018,401(k),johnson & johnson,JNJ,334,9/27/2022,28-Sep-2022,$1567.1,USD,Completed,auto-invest
+DANIELLE PEARSON,ACC-0110-33,f25b8a26,Brokerage,JOHNSON & JOHNSON,Jnj,133,9/9/2022,,N/A,CAD,Pending,pending
+sharon ruiz,ACC-6066-04,64b6a53c,Roth IRA,Nvidia Corporation,NVD,573,4/4/2023,,2965.86,CAD,Pending,pending
+martha stuart,ACC-8191-06,6e6aab15,Custodial,johnson & johnson,Jnj,855,6/6/2022,6/7/2022,N/A,CAD,Completed,auto-invest
+Larry berry,ACC-5745-27,6cb6a183,Trust,Tesla Inc.,tsla,236,9-Jan-2025,,"$2,515.64",EUR,Pending,pending
+Latasha SMITH,ACC-6745-42,062aba02,401(k),Berkshire Hathaway,Brk.A,275,24-Nov-2023,,"1,674.59 USD",CAD,Pending,pending
+FRANK Marshall,ACC-7953-52,7c3fbd43,Roth IRA,microsoft corp,msft,840,4-Apr-2025,4/7/2025,$951.95,CAD,Completed,watchlist
+sean daniel,ACC-5096-80,e27509ec,Custodial,alphabet inc.,googl,182,9/11/2023,9/12/2023,$1388.52,EUR,Completed,auto-invest
+tammy Allison,ACC-6243-77,fb685baf,Roth IRA,NVIDIA CORPORATION,nvda,802,18-Apr-2025,21-Apr-2025,"$3,167.30",USD,Completed,watchlist
+danielle PRICE,ACC-4627-83,dc5327ce,401(k), Meta Platforms ,META,908,10/17/2024,,$1668.62,CAD,Pending,pending
+Jonathan Ramos,ACC-9586-98,7c33884f,401(k),NVIDIA CORPORATION,nvda,729,6/16/2025,17-Jun-2025,"4,269.82 USD",CAD,Completed,short-term
+beth King,ACC-1594-91,31f4183a,Trust,johnson & johnson,JNJ,935,2/4/2025,5-Feb-2025,2420.91usd,USD,Completed,dividends reinvested
+samuel Newton,ACC-7806-33,5fc0a8cc,Roth IRA,Nvidia Corporation,Nvda,60,2-Oct-2024,10/3/2024,2032.10usd,EUR,Completed,short-term
+MR. JOHN Sullivan,ACC-0938-29,d8678c45,Roth IRA, APPLE INC. ,AAPL,810,2/19/2025,2/20/2025,4389.62usd,CAD,Completed,dividends reinvested
+carolyn powell,ACC-7024-51,787ddf69,Trust, Berkshire Hathaway ,Brk.A,48,1/15/2025,1/16/2025,"$1,284.27",USD,Completed,auto-invest
+sean DANIEL,ACC-8266-21,8f813cb4,Custodial,NETFLIX,Nflx,542,20-Jun-2025,,2607.99,CAD,Pending,pending
+Benjamin Carrillo,ACC-6858-35,df364004,Brokerage,Netflix,Nflx,140,2-May-2024,3-May-2024,N/A,EUR,Completed,
+Thomas DOUGHERTY,ACC-7947-92,1d47cde8,401(k),META PLATFORMS,Meta,538,26-Feb-2024,27-Feb-2024,"$1,293.20",CAD,Completed,
+Beth KING,ACC-1594-91,fc0bff88,Trust,microsoft corp,Msft,841,26-Jun-2024,27-Jun-2024,"$4,028.93",CAD,Completed,
+ANTHONY FLYNN,ACC-2193-22,00417843,401(k),NETFLIX,Nflx,874,9/20/2024,,924.51usd,CAD,Pending,pending
+Mr. LOGAN JOHNSON,ACC-9155-79,8e40022a,Brokerage,"AMAZON.COM, INC.",AMZN,785,11/7/2023,8-Nov-2023,N/A,USD,Completed,short-term
+LESLIE montoya,ACC-1613-88,b68a6b30,Roth IRA,berkshire hathaway,BRK.A,N/A,22-Aug-2024,8/23/2024,N/A,EUR,Completed,dividends reinvested
+TAMMY Allison,ACC-6243-77,dc2c260f,Roth IRA,microsoft corp,Msf,335,6-Jun-2025,9-Jun-2025,"$1,403.09",USD,Completed,short-term
+JULIE hernandez,ACC-6546-74,7eda8099,Joint,Netflix,NFLX,366,19-May-2025,,119.47 USD,CAD,Pending,pending
+KYLE Miller,ACC-5203-81,4eb5f3c5,Roth IRA,Apple Inc.,Aapl,234,12/28/2023,12/29/2023,4425.88,USD,Completed,dividends reinvested
+andrea DENNIS,ACC-8602-19,06a09888,401(k),tesla inc.,tsla,277,12/15/2023,,N/A,EUR,Pending,pending
+Gloria williams,ACC-9041-81,84d517c4,Brokerage, alphabet inc. ,Googl,432,4/12/2022,13-Apr-2022,3246.72usd,EUR,Completed,auto-invest
+Steven ORTEGA,ACC-6762-48,89c416b4,Custodial,nvidia corporation,Nvda,ten,2/16/2024,2/20/2024,2769.72,EUR,Completed,
+SYLVIA mccoy,ACC-2107-50,d9932192,401(k),microsoft corp,Msft,901,2-Jul-2025,3-Jul-2025,1874.54,EUR,Completed,dividends reinvested
+sean DANIEL,ACC-8266-21,980a945b,Custodial, Johnson & Johnson ,jnj,34,6/13/2025,6/16/2025,4065.28usd,USD,Completed,short-term
+Kimberly Martin,ACC-4336-74,d5816e4c,401(k),JOHNSON & JOHNSON,JNJ,523,5/7/2025,8-May-2025,4179.24,EUR,Completed,watchlist
+SHARON Ruiz,ACC-6066-04,0ad456eb,Roth IRA,berkshire hathaway,BRK.,971,19-Mar-2025,20-Mar-2025,"$3,181.48",USD,Completed,short-term
+kayla STEWART,ACC-0721-36,0a75dd75,Roth IRA,microsoft corp,MSFT,368,11-Jul-2025,7/14/2025,956.40,CAD,Completed,dividends reinvested
+FRANCISCO miller,ACC-2320-61,6d4c478e,Trust, microsoft corp ,msft,45,24-Mar-2021,,$789.98,CAD,Pending,pending
+,ACC-7394-49,067a1063,Brokerage,Nvidia Corporation,NVDA,350,7/15/2025,7/16/2025,"$2,611.48",USD,Completed,short-term
+shawn DRAKE,ACC-9933-80,b666f48a,Brokerage,microsoft corp,MSFT,903,6/18/2024,,$3122.6,USD,Pending,pending
+Mitchell oconnor,ACC-4481-93,537eaf06,401(k),microsoft corp,msft,456,2/6/2024,7-Feb-2024,4719.28usd,USD,Completed,watchlist
+,ACC-8660-68,e103d38e,Custodial,alphabet inc.,GOOGL,686,1/15/2025,1/16/2025,405.18,CAD,Completed,short-term
+isaac Wood,ACC-4708-40,c6960740,Trust,JOHNSON & JOHNSON,jnj,489,2/16/2021,2/17/2021,$1784.26,CAD,Completed,auto-invest
+BRENDAN Hale,ACC-1952-06,ed1a7619,Trust, alphabet inc. ,Googl,837,7/10/2025,7/11/2025,"3,913.48 USD",CAD,Completed,short-term
+Heidi cox,ACC-2714-27,d5fbfae5,Roth IRA,berkshire hathaway,BRK.A,605,5/3/2022,5/4/2022,N/A,USD,Completed,short-term
+Sean Daniel,ACC-5096-80,65dce0fd,Custodial,JOHNSON & JOHNSON,Jnj,ten,4/23/2025,24-Apr-2025,2192.44,USD,Completed,
+hannah Cantrell,ACC-4231-83,014662c0,Brokerage,MICROSOFT CORP,msft,904,4/21/2022,22-Apr-2022,2120.89usd,USD,Completed,watchlist
+danielle PEARSON,,d216613e,Brokerage,NETFLIX,NFLX,300,11/25/2024,26-Nov-2024,1805.49,CAD,Completed,
+pamela Jackson,ACC-5892-09,0af4f4cd,401(k),TESLA INC.,Tsla,828,7/2/2024,3-Jul-2024,"4,550.99 USD",EUR,Completed,watchlist
+ASHLEY GALLEGOS,ACC-5934-64,7655bf12,401(k),Microsoft Corp,msft,766,11-Sep-2024,,$3335.4,CAD,Pending,pending
+CASEY Middleton,ACC-1246-49,6457ebf5,401(k),"Amazon.Com, Inc.",amzn,46,1/19/2024,22-Jan-2024,2841.88,USD,Completed,dividends reinvested
+CASEY MIDDLETON,ACC-1246-49,3c345fda,401(k),netflix,Nflx,N/A,9/29/2023,2-Oct-2023,872.96,CAD,Completed,
+,ACC-1451-14,c1a2cff8,Joint,Tesla Inc.,tsla,967,2/7/2024,2/8/2024,"2,435.28 USD",CAD,Completed,dividends reinvested
+jose thomas,ACC-8643-19,5f5e6501,Roth IRA,BERKSHIRE HATHAWAY,Brk.A,590,9-Sep-2024,10-Sep-2024,"4,619.03 USD",USD,Completed,
+Jay nelson,ACC-5360-87,0e7bcc1c,Custodial,johnson & johnson,JNJ,129,12-Jul-2022,7/13/2022,N/A,CAD,Completed,
+JENNIFER King,ACC-5048-12,dbf84048,Roth IRA,meta platforms,META,462,3-Jul-2025,7/7/2025,$1140.6,USD,Completed,watchlist
+ROBERT morrison,ACC-9277-26,14280f4b,Trust, tesla inc. ,TSLA,161,2/12/2024,13-Feb-2024,N/A,USD,Completed,short-term
+TAMMY Allison,ACC-6243-77,e60099e7,Roth IRA,BERKSHIRE HATHAWAY,BRK.A,641,11-Jul-2025,7/14/2025,1267.89usd,CAD,Completed,dividends reinvested
+,ACC-7947-92,437b0598,401(k),Apple Inc.,AAPL,899,25-Mar-2024,26-Mar-2024,N/A,USD,Completed,
+latasha Smith,ACC-6745-42,34c3a974,401(k),netflix,NFLX,883,4/17/2025,18-Apr-2025,2146.41,USD,Completed,auto-invest
+aaron jones,,ae5ae895,Trust,TESLA INC.,tsla,107,10-Jul-2024,7/11/2024,$3401.8,USD,Completed,auto-invest
+STEPHEN Carter,ACC-6359-95,d4941253,Trust,META PLATFORMS,Meta,628,7/17/2025,18-Jul-2025,840.41,CAD,Completed,watchlist
+STEVEN ORTEGA,ACC-6762-48,3097696b,Custodial,apple inc.,AAPL,581,4/24/2023,25-Apr-2023,4420.65,EUR,Completed,auto-invest
+Mark BROWN,ACC-1558-54,379ffddc,Brokerage,JOHNSON & JOHNSON,JNJ,409,9/4/2024,5-Sep-2024,"$2,483.73",EUR,Completed,auto-invest
+samuel Newton,ACC-7806-33,77f4c074,Roth IRA,TESLA INC.,tsla,514,5/16/2024,5/17/2024,415.63,EUR,Completed,dividends reinvested
+shawn DRAKE,ACC-9933-80,33aa1425,Brokerage,"Amazon.Com, Inc.",AMZN,81,8-Sep-2023,11-Sep-2023,N/A,CAD,Completed,watchlist
+TOM patterson,ACC-9529-50,431df775,Joint,Netflix,NFLX,631,19-Jan-2024,,3043.36usd,CAD,Pending,pending
+kimberly martin,ACC-4336-74,5f988388,401(k),"AMAZON.COM, INC.",amzn,450,28-Feb-2025,3-Mar-2025,"3,594.43 USD",USD,Completed,short-term
+KAREN Shaffer,ACC-4827-00,805116ac,Brokerage,tesla inc.,TSLA,598,5/6/2022,5/9/2022,N/A,CAD,Completed,
+Stephanie Smith,ACC-6313-73,58983d13,Trust,Netflix,Nflx,684,12/4/2024,5-Dec-2024,4369.71usd,CAD,Completed,dividends reinvested
+JOSEPH CRAWFORD,ACC-1761-45,8015d50d,Roth IRA,ALPHABET INC.,GOOG,148,12/12/2023,12/13/2023,"$3,205.75",EUR,Completed,auto-invest
+MATTHEW LEWIS,ACC-7883-59,79404e76,Trust,apple inc.,aapl,816,12/13/2024,12/16/2024,4594.82,CAD,Completed,short-term
+SHAWN DRAKE,ACC-9933-80,656de171,Brokerage,ALPHABET INC.,GOOGL,N/A,1/31/2024,1-Feb-2024,"$3,126.48",USD,Completed,
+ronald Sparks,ACC-8952-72,4f9640ae,Trust,BERKSHIRE HATHAWAY,brk.,852,22-Jan-2025,1/23/2025,"1,935.24 USD",CAD,Completed,auto-invest
+SEAN Daniel,,6e55063e,Custodial,netflix,NFLX,852,2/4/2025,,$3947.3,USD,Pending,pending
+MACKENZIE BARRETT,ACC-9031-08,580f7a33,Joint,johnson & johnson,jnj,N/A,4/30/2025,5/1/2025,3285.28,USD,Completed,auto-invest
+mr. JOHN Sullivan,ACC-0938-29,f579c7e1,Roth IRA,Microsoft Corp,msf,892,14-Feb-2025,2/18/2025,"$1,454.83",EUR,Completed,short-term
+BRENDAN HALE,ACC-1952-06,4a134225,Trust,Nvidia Corporation,NVDA,N/A,3/17/2021,18-Mar-2021,$298.44,EUR,Completed,watchlist
+TARA mccoy,ACC-9847-12,ecadc183,Roth IRA,Alphabet Inc.,GOOGL,543,11/4/2022,7-Nov-2022,135.92usd,EUR,Completed,watchlist
+karen SHAFFER,ACC-4827-00,0528fa8b,Brokerage,johnson & johnson,JNJ,814,6/6/2022,6/7/2022,"2,520.34 USD",USD,Completed,short-term
+christine Hanson,ACC-5932-72,d3c189d3,Brokerage,Alphabet Inc.,Googl,990,4/14/2025,4/15/2025,3572.20usd,EUR,Completed,
+Jamie GONZALES,ACC-1903-05,2f925f40,Brokerage,Johnson & Johnson,jnj,N/A,5/30/2025,2-Jun-2025,1794.27,USD,Completed,auto-invest
+STEVEN Ortega,ACC-6762-48,5151f5d2,Custodial,META PLATFORMS,meta,872,12-Sep-2024,,N/A,USD,Pending,pending
+MR. Michael HAYNES,ACC-0390-03,437a7e1d,Custodial,NETFLIX,Nflx,500,11/4/2024,11/5/2024,N/A,EUR,Completed,watchlist
+Stephanie SMITH,ACC-6313-73,23594295,Trust,Johnson & Johnson,Jnj,997,11/27/2024,11/29/2024,$3516.61,USD,Completed,watchlist
+LARRY BERRY,ACC-5745-27,da83982a,Trust,NVIDIA CORPORATION,NVDA,469,31-Dec-2024,2-Jan-2025,"$4,533.33",EUR,Completed,dividends reinvested
+frank GALLOWAY,ACC-3250-12,29e79e6a,Joint,Tesla Inc.,Tsla,331,8-Jan-2025,1/9/2025,4894.69,CAD,Completed,auto-invest
+rachel Richmond,ACC-3802-06,73d2635a,Roth IRA, META PLATFORMS ,Meta,825,30-Jun-2022,,N/A,EUR,Pending,pending
+GARY Lynch,ACC-6213-57,7cd76111,Custodial, Netflix ,NFLX,700,14-May-2024,15-May-2024,$4507.7,CAD,Completed,
+kyle MILLER,ACC-5203-81,4ceedba6,Roth IRA,tesla inc.,Tsla,218,8/16/2024,19-Aug-2024,"$3,747.89",USD,Completed,watchlist
+jessica Jones,ACC-7394-49,37e9a5d6,Brokerage,"AMAZON.COM, INC.",Amzn,765,16-Jul-2025,,319.01 USD,CAD,Pending,pending
+Walter Guzman,ACC-4148-02,2cd5ff71,401(k),microsoft corp,msft,N/A,7/9/2024,7/10/2024,"$3,596.99",EUR,Completed,auto-invest
+sabrina bowen,ACC-8707-29,62260030,401(k),Tesla Inc.,TSLA,428,3/5/2025,3/6/2025,$1472.8,CAD,Completed,
+DONNA SMITH,ACC-3879-16,ba64ccb1,Trust,apple inc.,Aap,893,10/4/2022,5-Oct-2022,$522.6,USD,Completed,
+JAMES ferguson,ACC-3605-66,ba5a4493,Roth IRA, netflix ,Nflx,785,5/19/2025,5/20/2025,"2,783.04 USD",CAD,Completed,auto-invest
+jennifer CLARKE,ACC-4466-77,b9b98b26,Brokerage, JOHNSON & JOHNSON ,JNJ,358,26-Mar-2024,27-Mar-2024,N/A,CAD,Completed,
+amanda CARPENTER,ACC-1469-19,6c232baf,Custodial,johnson & johnson,JNJ,238,30-Sep-2021,10/1/2021,4087.74usd,CAD,Completed,watchlist
+frank Morgan,ACC-1723-94,01eb6062,401(k),Netflix,NFLX,560,8/10/2022,11-Aug-2022,$4650.9,EUR,Completed,short-term
+stephanie smith,ACC-6313-73,5ec4dfa7,Trust,TESLA INC.,Tsla,587,11/7/2024,8-Nov-2024,$1329.94,EUR,Completed,watchlist
+CHRISTOPHER miller,,23f8d9c1,Trust,Netflix,Nflx,284,2/13/2025,2/14/2025,N/A,EUR,Completed,watchlist
+James FERGUSON,ACC-3605-66,69dd818e,Roth IRA,berkshire hathaway,brk.,908,5/23/2025,5/27/2025,"$4,197.44",CAD,Completed,
+Marcus lin,ACC-5147-16,d2a4454a,Custodial,META PLATFORMS,META,894,2-Oct-2024,3-Oct-2024,303.25,CAD,Completed,short-term
+Kenneth SCHULTZ,ACC-2070-05,d36a8811,Brokerage, NETFLIX ,nflx,N/A,31-Oct-2022,1-Nov-2022,677.39 USD,USD,Completed,
+troy GUZMAN,ACC-1451-14,0ad66529,Joint,ALPHABET INC.,GOOGL,762,12-May-2025,5/13/2025,$2965.8,CAD,Completed,watchlist
+FRANK morgan,ACC-1723-94,bc5d66ab,401(k),Nvidia Corporation,NVDA,N/A,12-May-2025,5/13/2025,$4316.75,USD,Completed,
+Jamie gonzales,ACC-1903-05,0f9ced16,Brokerage,Tesla Inc.,TSLA,120,5/16/2024,5/17/2024,2109.43,USD,Completed,
+Gary Lynch,ACC-6213-57,c7388c21,Custodial,alphabet inc.,Googl,812,6/26/2023,,$1673.9,USD,Pending,pending
+sharon RUIZ,ACC-6066-04,67075cfb,Roth IRA, ALPHABET INC. ,googl,573,7/22/2022,7/25/2022,3867.26,EUR,Completed,
+thomas jackson,ACC-3087-81,37f0d55e,Custodial,Alphabet Inc.,Googl,972,25-Sep-2024,,4385.25usd,EUR,Pending,pending
+brittany roberts,ACC-0268-85,f0fd7f50,Joint,NETFLIX,nflx,ten,8/28/2024,29-Aug-2024,4810.54,CAD,Completed,
+Robert morrison,,6b2568bd,Trust,MICROSOFT CORP,msft,394,1-Nov-2024,,"$1,828.29",CAD,Pending,pending
+Marcus LIN,ACC-5147-16,cb6955f6,Custodial,NVIDIA CORPORATION,NVDA,756,17-Nov-2022,,"$4,076.84",USD,Pending,pending
+SHAWN Drake,,c8959ad7,Brokerage, meta platforms ,Meta,486,12/26/2024,12/27/2024,N/A,CAD,Completed,dividends reinvested
+ashley GALLEGOS,ACC-5934-64,5d4e635a,401(k),alphabet inc.,GOOGL,535,16-Mar-2023,17-Mar-2023,N/A,CAD,Completed,auto-invest
+AMY JOHNSON,ACC-7992-71,523c9304,401(k),Berkshire Hathaway,Brk.A,N/A,8/17/2023,,N/A,USD,Pending,pending
+kenneth Hartman,ACC-0980-93,fce7661c,401(k),NVIDIA CORPORATION,NVDA,223,15-Apr-2025,16-Apr-2025,N/A,CAD,Completed,
+sharon STEWART,ACC-4126-43,4148d5fd,Trust,Nvidia Corporation,NVDA,124,12/17/2020,18-Dec-2020,207.78 USD,CAD,Completed,watchlist
+CHRISTOPHER ESPARZA,ACC-9384-53,5e4d0392,Trust, Nvidia Corporation ,NVDA,836,3-Mar-2025,4-Mar-2025,3063.73,CAD,Completed,watchlist
+Brittany Roberts,ACC-0268-85,2052c7c9,Joint,Berkshire Hathaway,brk.a,580,6/12/2025,6/13/2025,4057.21,EUR,Completed,dividends reinvested
+Tammy Allison,ACC-6243-77,90c2af84,Roth IRA,Meta Platforms,meta,413,7/9/2025,7/10/2025,N/A,CAD,Completed,auto-invest
+Christopher lowery,,d89d3877,Roth IRA," Amazon.Com, Inc. ",Amzn,ten,25-Jun-2025,26-Jun-2025,"1,894.25 USD",CAD,Completed,watchlist
+JASMINE Richard,ACC-1551-74,3671b501,Joint,BERKSHIRE HATHAWAY,brk.a,321,18-Aug-2022,19-Aug-2022,4365.33usd,EUR,Completed,watchlist
+JOHN TAYLOR,ACC-1996-88,c3de30ae,Roth IRA,Johnson & Johnson,jnj,963,25-Jul-2024,,3153.92usd,USD,Pending,pending
+APRIL Terry,ACC-0599-67,6c749d43,Brokerage,MICROSOFT CORP,MSFT,600,1/24/2025,27-Jan-2025,4015.92usd,USD,Completed,short-term
+Carolyn mann,ACC-3614-35,366e65b6,401(k),meta platforms,META,93,2/10/2025,11-Feb-2025,"1,672.27 USD",EUR,Completed,auto-invest
+john Johnson,ACC-9078-56,dd1a6ff3,Trust,"amazon.com, inc.",amzn,403,7/18/2025,18-Jul-2025,4953.35,EUR,Completed,dividends reinvested
+leah MENDEZ,,2364befe,401(k),tesla inc.,Tsla,944,1-Apr-2025,4/2/2025,$3909.07,USD,Completed,watchlist
+Sean DANIEL,ACC-5096-80,0e795aea,Custodial,Johnson & Johnson,JNJ,936,12/23/2024,12/24/2024,3173.35,USD,Completed,
+JUAN Maddox,ACC-5352-08,ef540829,Trust,apple inc.,aap,184,8/29/2023,8/30/2023,"2,580.36 USD",USD,Completed,short-term
+SHARON Ruiz,ACC-6066-04,0291f799,Roth IRA,johnson & johnson,JNJ,639,14-Feb-2023,15-Feb-2023,3721.75,EUR,Completed,dividends reinvested
+FRANK morgan,ACC-1723-94,4eb3af2a,401(k),netflix,NFLX,117,25-Mar-2021,26-Mar-2021,"3,379.53 USD",EUR,Completed,auto-invest
+courtney DEAN,ACC-4954-88,f14c103c,Brokerage,NVIDIA CORPORATION,Nvda,237,4/16/2025,4/17/2025,N/A,USD,Completed,short-term
+april Terry,ACC-0599-67,99c76fce,Brokerage,"AMAZON.COM, INC.",amzn,ten,26-Feb-2025,27-Feb-2025,N/A,EUR,Completed,short-term
+mr. michael haynes,ACC-0390-03,43b067c7,Custodial,Nvidia Corporation,NVD,956,9-Nov-2023,11/13/2023,3927.40,USD,Completed,short-term
+anne MARTIN,,98bef48d,Brokerage, tesla inc. ,tsla,255,6/2/2022,,"$3,994.12",USD,Pending,pending
+Edward WASHINGTON,,febc3303,Custodial,Berkshire Hathaway,BRK.A,906,5-Jun-2025,6/6/2025,N/A,CAD,Completed,watchlist
+Kyle Miller,ACC-5203-81,4bd61278,Roth IRA,ALPHABET INC.,Googl,563,4/11/2024,12-Apr-2024,4918.00,EUR,Completed,short-term
+marcus lin,ACC-5147-16,b8e17d58,Custodial,ALPHABET INC.,GOOGL,639,14-May-2021,17-May-2021,2982.26,USD,Completed,
+jennifer clarke,ACC-4466-77,27519970,Brokerage,Netflix,Nflx,341,26-Dec-2024,12/27/2024,"3,281.44 USD",CAD,Completed,auto-invest
+Edward MEDINA,ACC-9962-17,389217eb,401(k)," AMAZON.COM, INC. ",AMZN,560,5/23/2025,27-May-2025,646.62usd,EUR,Completed,
+mr. MICHAEL haynes,ACC-0390-03,b30e6f6d,Custodial,Berkshire Hathaway,BRK.A,481,8/30/2024,3-Sep-2024,N/A,USD,Completed,short-term
+Jamie gonzales,ACC-1903-05,3bf9a3e7,Brokerage,Nvidia Corporation,nvda,529,4/29/2022,,3432.17,EUR,Pending,pending
+tina jones,ACC-5322-63,8bc51c7b,Roth IRA,MICROSOFT CORP,msft,718,3/13/2024,,"$1,092.53",CAD,Pending,pending
+LESLIE Montoya,ACC-1613-88,c9b1ba9e,Roth IRA,JOHNSON & JOHNSON,Jnj,925,26-Jul-2024,7/29/2024,"$4,269.83",CAD,Completed,short-term
+CAROLYN MANN,ACC-3614-35,2658c0a7,401(k),TESLA INC.,Tsla,ten,5-Dec-2024,12/6/2024,"$4,360.68",EUR,Completed,auto-invest
+,ACC-8602-19,c85691a3,401(k),NETFLIX,NFLX,968,6/7/2024,,$4660.07,EUR,Pending,pending
+Kimberly williams,ACC-7272-94,d570cc5c,Brokerage,JOHNSON & JOHNSON,Jnj,79,5/18/2023,19-May-2023,"3,516.33 USD",EUR,Completed,
+CHRISTOPHER ESPARZA,ACC-9384-53,19dc2c21,Trust,JOHNSON & JOHNSON,jnj,N/A,9/23/2024,9/24/2024,"$2,913.74",EUR,Completed,
+Isaac WOOD,ACC-4708-40,5bfaef0d,Trust,"amazon.com, inc.",Amzn,27,7/13/2022,7/14/2022,2949.56usd,EUR,Completed,watchlist
+Joseph CRAWFORD,ACC-1761-45,4cd74237,Roth IRA,Apple Inc.,Aapl,824,3-Jul-2023,7/5/2023,"$3,086.07",EUR,Completed,dividends reinvested
+tammy CAMPBELL,ACC-1374-21,468acd85,401(k),Microsoft Corp,Msft,986,2/9/2024,2/12/2024,$616.74,USD,Completed,auto-invest
+donna Smith,ACC-3879-16,fde17fe0,Trust,meta platforms,Meta,202,2/15/2023,16-Feb-2023,3556.85usd,EUR,Completed,watchlist
+leah LARSEN,ACC-0586-00,d15e3a93,Brokerage,"Amazon.Com, Inc.",AMZN,78,29-Mar-2024,4/1/2024,$888.24,CAD,Completed,
+Jennifer callahan,ACC-8248-29,e411f5f1,401(k),meta platforms,META,843,4/2/2024,4/3/2024,$1981.3,CAD,Completed,
+julie HERNANDEZ,ACC-6546-74,683ca10f,Joint,JOHNSON & JOHNSON,jnj,718,6/12/2025,6/13/2025,753.33,USD,Completed,
+christopher miller,ACC-7393-87,1d6a78c5,Trust,Alphabet Inc.,googl,185,8/8/2024,8/9/2024,N/A,CAD,Completed,dividends reinvested
+mitchell MASSEY,ACC-4961-01,3e643d7d,Joint,Microsoft Corp,Msft,604,15-May-2025,5/16/2025,N/A,EUR,Completed,short-term
+James POOLE,ACC-6303-65,8943616f,Joint, netflix ,NFLX,ten,27-Mar-2024,28-Mar-2024,N/A,USD,Completed,
+deborah Atkinson,ACC-9187-98,059948b0,Joint,netflix,Nfl,831,4/2/2025,4/3/2025,2360.07usd,CAD,Completed,short-term
+steven ortega,ACC-6762-48,b123e514,Custodial,alphabet inc.,Googl,236,4/16/2024,,"2,961.37 USD",EUR,Pending,pending
+emily hart,ACC-7633-25,4bbda8f7,Roth IRA,MICROSOFT CORP,MSFT,343,5/2/2024,3-May-2024,N/A,EUR,Completed,short-term
+MR. LOGAN Johnson,ACC-9155-79,69cb4e37,Brokerage,johnson & johnson,Jnj,738,15-Dec-2023,12/18/2023,"1,280.03 USD",USD,Completed,dividends reinvested
+tammy Campbell,ACC-1374-21,345964ab,401(k),BERKSHIRE HATHAWAY,brk.a,992,16-May-2025,19-May-2025,3062.11usd,CAD,Completed,short-term
+MATTHEW LEWIS,ACC-7883-59,6f8b39ab,Trust,TESLA INC.,TSLA,806,16-Jan-2025,1/17/2025,"$1,795.01",USD,Completed,short-term
+Danielle Pearson,ACC-0110-33,2dad0607,Brokerage,"amazon.com, inc.",Amzn,704,23-Oct-2023,24-Oct-2023,"$3,786.65",CAD,Completed,auto-invest
+mitchell MASSEY,ACC-4961-01,86cb2c91,Joint,ALPHABET INC.,GOOGL,521,1/26/2024,29-Jan-2024,"1,638.28 USD",CAD,Completed,auto-invest
+,ACC-0586-00,a94532d9,Brokerage,JOHNSON & JOHNSON,JNJ,642,6-Mar-2023,7-Mar-2023,"2,614.17 USD",EUR,Completed,dividends reinvested
+sylvia MCCOY,ACC-2107-50,d55e45e0,401(k),meta platforms,META,264,7/2/2025,7/3/2025,$3086.1,CAD,Completed,short-term
+James MILLER,ACC-6934-80,7a5f2d5e,Trust,Alphabet Inc.,GOOGL,769,19-Feb-2025,2/20/2025,$4140.07,CAD,Completed,dividends reinvested
+Jasmine RICHARD,ACC-1551-74,a1cf390b,Joint," Amazon.Com, Inc. ",Amz,336,3-Jun-2022,6/6/2022,$3498.0,EUR,Completed,
+John Johnson,ACC-9078-56,60be90b4,Trust,MICROSOFT CORP,MSFT,726,4-Feb-2025,5-Feb-2025,1100.17usd,CAD,Completed,dividends reinvested
+kimberly williams,ACC-7272-94,8fb980e4,Brokerage,apple inc.,aapl,598,6/12/2023,13-Jun-2023,1456.29usd,CAD,Completed,
+Emily ross,ACC-6299-73,6c8c47e1,Joint,ALPHABET INC.,Googl,795,4-Jun-2025,6/5/2025,$492.7,CAD,Completed,watchlist
+TARA MCCOY,ACC-9847-12,a8f44aff,Roth IRA,"AMAZON.COM, INC.",amzn,N/A,31-Dec-2024,1/2/2025,"$3,051.68",CAD,Completed,auto-invest
+TROY GUZMAN,ACC-1451-14,64c91a9e,Joint,Apple Inc.,aapl,903,12/2/2024,12/3/2024,"$3,394.47",CAD,Completed,
+frank MORGAN,ACC-1723-94,ee4105d4,401(k),JOHNSON & JOHNSON,Jnj,795,30-Jan-2024,,1788.49usd,CAD,Pending,pending
+Christopher LOWERY,ACC-4393-46,47f0de22,Roth IRA,tesla inc.,TSLA,768,5-Oct-2021,10/6/2021,4634.36usd,CAD,Completed,watchlist
+KATHRYN mccann,ACC-0455-31,b0fb6c94,Joint,Microsoft Corp,MSFT,560,8/12/2024,,$382.2,USD,Pending,pending
+danielle Price,ACC-4627-83,3ee248df,401(k),Tesla Inc.,tsla,577,23-Jan-2025,1/24/2025,"$2,968.81",USD,Completed,auto-invest
+brittany Roberts,ACC-0268-85,88080987,Joint,Johnson & Johnson,Jnj,948,12-Jun-2024,6/13/2024,2426.74usd,CAD,Completed,watchlist
+Mark DEAN,ACC-6166-41,0d6e58cd,Brokerage,Nvidia Corporation,Nvda,578,28-Oct-2024,29-Oct-2024,730.55usd,USD,Completed,dividends reinvested
+Cynthia MILLS,ACC-8689-39,f1bacdfa,Custodial,APPLE INC.,AAPL,757,5/8/2023,9-May-2023,N/A,EUR,Completed,short-term
+BRANDON MILLS,ACC-3659-34,202657a1,401(k),Meta Platforms,meta,101,22-Nov-2024,25-Nov-2024,N/A,CAD,Completed,dividends reinvested
+LEAH mendez,ACC-9233-51,922a6160,401(k),NVIDIA CORPORATION,NVD,567,11-Feb-2025,12-Feb-2025,$4068.9,CAD,Completed,dividends reinvested
+BRITTANY Smith,,e45b0e91,Joint,berkshire hathaway,Brk.A,25,4/10/2025,4/11/2025,"$2,580.92",EUR,Completed,short-term
+CHRISTOPHER LOWERY,ACC-4393-46,f53bd428,Roth IRA,Meta Platforms,Meta,866,8-Nov-2022,11/9/2022,3003.51,USD,Completed,watchlist
+Deborah Moody,ACC-4991-00,ec3704fd,Roth IRA,META PLATFORMS,meta,40,14-Jul-2025,7/15/2025,$2788.50,USD,Completed,auto-invest
+James POOLE,ACC-6303-65,55fe499f,Joint,Tesla Inc.,tsla,N/A,9-Apr-2025,4/10/2025,"3,751.45 USD",EUR,Completed,watchlist
+mitchell Massey,ACC-4961-01,24466cd1,Joint,tesla inc.,tsla,702,2/29/2024,3/1/2024,N/A,CAD,Completed,
+sharon Ruiz,ACC-6066-04,f9ae0731,Roth IRA,Microsoft Corp,Msft,358,1/19/2023,,"4,737.72 USD",USD,Pending,pending
+jennifer CLARKE,ACC-4466-77,80f7dcdb,Brokerage,APPLE INC.,AAPL,349,2/21/2025,2/24/2025,$2351.57,EUR,Completed,
+BRENDAN HALE,ACC-1952-06,fef9bbd5,Trust,Nvidia Corporation,Nvda,195,7/5/2022,7/6/2022,2741.64,USD,Completed,auto-invest
+dana bradley,ACC-7465-53,92b0536c,Brokerage, Meta Platforms ,Meta,354,8/3/2022,8/4/2022,"$4,365.20",CAD,Completed,short-term
+FRANK Morgan,ACC-1723-94,b7082e90,401(k),TESLA INC.,TSLA,743,2-Jun-2022,,N/A,USD,Pending,pending
+Brendan hale,ACC-1952-06,e56f45cb,Trust,Johnson & Johnson,Jnj,235,3-Jun-2025,6/4/2025,4472.75,USD,Completed,watchlist
+KENNETH Hartman,ACC-6132-88,f144c2f8,Joint,"Amazon.Com, Inc.",amzn,265,6/9/2025,6/10/2025,"2,366.39 USD",CAD,Completed,short-term
+Ashlee bell,ACC-8139-72,25070eb0,Brokerage, Tesla Inc. ,tsla,219,6/24/2022,27-Jun-2022,$1138.04,USD,Completed,
+Stephanie Smith,ACC-6313-73,91192df5,Trust,netflix,Nflx,755,3-Jul-2025,7-Jul-2025,3541.65,EUR,Completed,auto-invest
+COURTNEY DEAN,ACC-4954-88,956bd128,Brokerage,meta platforms,meta,359,24-Feb-2025,2/25/2025,"4,615.72 USD",CAD,Completed,auto-invest
+martha stuart,ACC-8191-06,b4f7b61e,Custodial," amazon.com, inc. ",Amzn,617,10/12/2021,,4600.68usd,USD,Pending,pending
+MICHAEL collins,ACC-9950-12,9076e303,401(k),Microsoft Corp,msft,764,5-Feb-2025,2/6/2025,$4296.58,USD,Completed,watchlist
+FELICIA scott,ACC-4677-40,f9e61166,Trust, META PLATFORMS ,META,401,12/27/2024,12/30/2024,"1,093.43 USD",CAD,Completed,auto-invest
+TARA mccoy,ACC-9847-12,160ce378,Roth IRA,Tesla Inc.,Tsla,344,5/8/2024,9-May-2024,4020.55usd,CAD,Completed,dividends reinvested
+patrick Hernandez,ACC-5412-61,ddf402a2,Brokerage,JOHNSON & JOHNSON,JNJ,967,11/16/2023,11/17/2023,3532.30usd,CAD,Completed,dividends reinvested
+ANTHONY Flynn,ACC-2193-22,db26e93f,401(k),MICROSOFT CORP,MSFT,105,3/3/2025,3/4/2025,$3614.4,USD,Completed,dividends reinvested
+casey MIDDLETON,ACC-1246-49,ef737bff,401(k),meta platforms,meta,513,4/25/2023,,$2897.39,EUR,Pending,pending
+EMILY ROSS,ACC-6299-73,67c44e3d,Joint,Netflix,Nflx,157,1/30/2025,,N/A,EUR,Pending,pending
+Leah Mendez,ACC-9233-51,88ca1a5f,401(k), NETFLIX ,Nflx,123,11-Jul-2025,,$3797.3,CAD,Pending,pending
+Tammy CAMPBELL,ACC-1374-21,6b8eb124,401(k),tesla inc.,TSLA,198,16-Nov-2022,11/17/2022,3938.76usd,EUR,Completed,short-term
+Larry berry,ACC-5745-27,e65f58e1,Trust,netflix,nflx,465,6/17/2025,18-Jun-2025,N/A,USD,Completed,short-term
+Samuel NEWTON,ACC-7806-33,fa2f6923,Roth IRA,tesla inc.,TSLA,877,18-Jun-2025,,"2,810.70 USD",EUR,Pending,pending
+STACY Lee,ACC-1001-75,2dc70b05,Custodial,META PLATFORMS,meta,970,12/2/2024,3-Dec-2024,N/A,EUR,Completed,dividends reinvested
+Rebecca Ward Dvm,ACC-6634-62,8f34c518,Brokerage,JOHNSON & JOHNSON,Jnj,185,10/24/2023,10/25/2023,$2814.0,CAD,Completed,
+dana Bradley,ACC-7465-53,f8a30360,Brokerage, NVIDIA CORPORATION ,NVDA,437,5-Oct-2023,6-Oct-2023,73.07,USD,Completed,
+April Terry,ACC-0599-67,1d24da33,Brokerage,Netflix,NFLX,555,16-Apr-2025,4/17/2025,$18.39,USD,Completed,
+mackenzie Barrett,,a1522612,Joint,Netflix,NFLX,612,4/2/2025,3-Apr-2025,"4,456.12 USD",CAD,Completed,dividends reinvested
+jose thomas,ACC-8643-19,67b5fe3c,Roth IRA,Apple Inc.,Aapl,688,3-Dec-2024,4-Dec-2024,"1,339.59 USD",USD,Completed,watchlist
+heidi Cox,,292e1028,Roth IRA,ALPHABET INC.,Goog,972,3/28/2022,3/29/2022,4630.64usd,EUR,Completed,dividends reinvested
+WALTER Guzman,ACC-4148-02,282feb1f,401(k),Netflix,NFLX,626,28-Apr-2023,1-May-2023,"4,196.04 USD",CAD,Completed,watchlist
+Alejandra Jimenez,ACC-7815-65,ef473667,Brokerage,NVIDIA CORPORATION,NVDA,290,12-Jul-2021,7/13/2021,"2,721.82 USD",CAD,Completed,dividends reinvested
+BRIAN Garcia,ACC-3988-43,4849f6f2,Trust,berkshire hathaway,BRK.A,662,5/17/2023,5/18/2023,$3517.52,CAD,Completed,auto-invest
+,ACC-1469-19,ee9f0a4b,Custodial,"amazon.com, inc.",amzn,871,7-Sep-2023,9/8/2023,4026.65,EUR,Completed,
+gary lynch,ACC-6213-57,0d353dc1,Custodial,APPLE INC.,aapl,478,27-Jun-2024,6/28/2024,$4671.8,USD,Completed,short-term
+LESLIE MONTOYA,ACC-1613-88,b1315d12,Roth IRA,Nvidia Corporation,NVDA,535,9/26/2024,9/27/2024,741.96 USD,EUR,Completed,watchlist
+JENNIFER callahan,ACC-8248-29,c67a4dd6,401(k),META PLATFORMS,META,128,11/7/2024,,"$2,380.34",CAD,Pending,pending
+,ACC-1551-74,ac22a056,Joint,microsoft corp,Msft,536,4-Mar-2024,,708.53usd,CAD,Pending,pending
+beth KING,,dfd6cc59,Trust,tesla inc.,tsla,728,2/6/2025,2/7/2025,556.39 USD,USD,Completed,short-term
+MITCHELL massey,ACC-4961-01,547676d6,Joint,meta platforms,META,376,2/5/2025,,"1,502.29 USD",EUR,Pending,pending
+STEPHANIE Smith,ACC-6313-73,719e7364,Trust,ALPHABET INC.,googl,286,4/29/2025,,$570.31,CAD,Pending,pending
+mark brown,ACC-1558-54,2e09a9d6,Brokerage,ALPHABET INC.,Googl,86,9/5/2023,,$1080.5,EUR,Pending,pending
+julie hernandez,,dc33cf7d,Joint,BERKSHIRE HATHAWAY,brk.a,114,4/2/2025,4/3/2025,657.68usd,EUR,Completed,
+DREW SALAZAR,ACC-1788-81,90986931,Joint,Nvidia Corporation,NVDA,691,30-Jan-2024,31-Jan-2024,4629.48,CAD,Completed,dividends reinvested
+kenneth SCHULTZ,ACC-2070-05,2dc8dea7,Brokerage,Berkshire Hathaway,BRK.A,N/A,15-Dec-2023,,153.45 USD,CAD,Pending,pending
+MITCHELL FERGUSON,ACC-8216-22,390e10b3,Brokerage,tesla inc.,tsla,278,3-Jun-2025,6/4/2025,325.18usd,EUR,Completed,short-term
+KENNETH Hartman,ACC-6132-88,fe156ec0,Joint,ALPHABET INC.,googl,651,3/18/2025,3/19/2025,2357.93,EUR,Completed,dividends reinvested
+Leon daniels,ACC-0416-72,8c505321,Custodial, berkshire hathaway ,brk.a,ten,8/8/2023,9-Aug-2023,571.70,EUR,Completed,watchlist
+Jessica JONES,ACC-7394-49,82366f73,Brokerage,nvidia corporation,nvda,86,16-Jul-2025,17-Jul-2025,3793.28,USD,Completed,dividends reinvested
+Isaac Wood,ACC-4708-40,b4f33dc3,Trust,netflix,Nflx,983,12/5/2024,12/6/2024,"1,370.46 USD",USD,Completed,short-term
+donna Smith,ACC-7622-09,ab9c23b7,Joint,apple inc.,Aapl,510,15-Jan-2025,16-Jan-2025,"2,568.33 USD",USD,Completed,auto-invest
+jennifer KING,ACC-5048-12,cf986e88,Roth IRA,MICROSOFT CORP,Msft,15,19-Feb-2025,2/20/2025,"2,337.94 USD",CAD,Completed,dividends reinvested
+Christopher miller,ACC-7393-87,b244cde9,Trust,meta platforms,Met,624,30-Jan-2025,1/31/2025,$3872.26,USD,Completed,auto-invest
+JORGE Lane,ACC-5906-61,67cb3773,Roth IRA,"Amazon.Com, Inc.",Amzn,209,14-Nov-2024,,N/A,CAD,Pending,pending
+April Terry,ACC-0599-67,b8da9f34,Brokerage,"AMAZON.COM, INC.",AMZN,538,13-Mar-2025,3/14/2025,$3455.87,USD,Completed,dividends reinvested
+GLEN Thomas,ACC-0608-88,c32c4f6b,Brokerage,Johnson & Johnson,JNJ,879,21-Jun-2024,24-Jun-2024,"4,596.81 USD",USD,Completed,
+Stephanie chang,ACC-9574-77,b89be5cc,Custodial,Microsoft Corp,MSF,766,4/18/2023,4/19/2023,N/A,USD,Completed,auto-invest
+DAVID BEASLEY,ACC-7869-96,8488eda1,Roth IRA, TESLA INC. ,Tsla,679,5/2/2025,5/5/2025,"3,389.12 USD",EUR,Completed,
+KIMBERLY Martin,ACC-4336-74,a1fdf456,401(k),meta platforms,Meta,772,30-Apr-2025,,$3921.92,CAD,Pending,pending
+TAMMY ALLISON,ACC-6243-77,e567925a,Roth IRA,Netflix,nflx,N/A,29-Apr-2025,30-Apr-2025,"3,283.52 USD",USD,Completed,auto-invest
+benjamin Wilson,ACC-5940-08,b59acb62,Trust,MICROSOFT CORP,MSF,875,8-May-2023,5/9/2023,4384.60usd,USD,Completed,auto-invest
+THOMAS jackson,ACC-3087-81,87f94964,Custodial,NVIDIA CORPORATION,nvd,280,24-Oct-2024,10/25/2024,"4,366.86 USD",EUR,Completed,
+aaron Jones,ACC-2757-73,e2b63244,Trust,apple inc.,Aapl,544,16-Jun-2025,6/17/2025,4376.29,USD,Completed,auto-invest
+KENNETH SCHULTZ,ACC-2070-05,e955b4e5,Brokerage,Meta Platforms,Meta,889,2/15/2022,16-Feb-2022,2351.71,USD,Completed,dividends reinvested
+ISAAC wood,ACC-4708-40,4cf97ade,Trust,Nvidia Corporation,nvda,183,3-Jul-2025,,"4,663.77 USD",CAD,Pending,pending
+JENNIFER KING,ACC-5048-12,42e0548f,Roth IRA,BERKSHIRE HATHAWAY,BRK.A,964,29-Jul-2024,30-Jul-2024,$247.66,EUR,Completed,dividends reinvested
+Jennifer KING,ACC-5048-12,ad0fb4f4,Roth IRA,MICROSOFT CORP,Msft,ten,24-Oct-2024,10/25/2024,$3413.8,CAD,Completed,short-term
+Courtney Dean,ACC-4954-88,d73368a8,Brokerage,meta platforms,META,781,19-May-2025,20-May-2025,"$1,887.32",CAD,Completed,auto-invest
+Sabrina bowen,ACC-8707-29,562dcfd6,401(k),meta platforms,META,598,11/19/2024,,$1694.9,EUR,Pending,pending
+Beth King,ACC-1594-91,5b0acbb6,Trust,netflix,NFLX,N/A,3-Oct-2024,10/4/2024,267.22 USD,CAD,Completed,
+Stephen CARTER,ACC-6359-95,613ac4eb,Trust,Netflix,Nflx,1,14-Jul-2025,15-Jul-2025,$951.6,USD,Completed,short-term
+kimberly WILLIAMS,ACC-7272-94,73e2e6d3,Brokerage,Johnson & Johnson,JNJ,196,17-Feb-2023,21-Feb-2023,N/A,USD,Completed,
+Deborah Atkinson,ACC-9187-98,782d3aa1,Joint, ALPHABET INC. ,Googl,557,3-Mar-2021,3/4/2021,905.46 USD,EUR,Completed,auto-invest
+benjamin Carrillo,ACC-6858-35,88f23fec,Brokerage,apple inc.,Aapl,211,6-Jun-2023,,"$4,767.54",USD,Pending,pending
+mr. MICHAEL Haynes,ACC-0390-03,e8ef287f,Custodial,tesla inc.,tsla,529,24-Oct-2023,25-Oct-2023,"$3,646.99",CAD,Completed,
+Deborah moody,ACC-4991-00,77ca7e66,Roth IRA,MICROSOFT CORP,MSFT,516,6/4/2025,,"$2,718.79",USD,Pending,pending
+leslie MONTOYA,ACC-1613-88,65fb6cc6,Roth IRA,berkshire hathaway,Brk.A,105,3-Jan-2025,1/6/2025,"$4,369.02",CAD,Completed,auto-invest
+andrea dennis,ACC-8602-19,da4dce91,401(k),berkshire hathaway,BRK.A,139,8/2/2024,5-Aug-2024,N/A,CAD,Completed,watchlist
+EDWARD washington,ACC-8660-68,3b39fa59,Custodial,Johnson & Johnson,jnj,288,12-Feb-2025,2/13/2025,120.75 USD,USD,Completed,watchlist
+JUAN Maddox,ACC-5352-08,648bcb37,Trust,Alphabet Inc.,Googl,847,9/11/2023,12-Sep-2023,"4,845.55 USD",EUR,Completed,auto-invest
+MARIA reynolds,ACC-9656-56,47d37a3e,Joint,MICROSOFT CORP,MSFT,871,21-May-2025,22-May-2025,3113.68usd,EUR,Completed,
+patrick HERNANDEZ,ACC-5412-61,474c166a,Brokerage, NVIDIA CORPORATION ,NVDA,79,28-Nov-2022,29-Nov-2022,3787.32,CAD,Completed,
+,ACC-9933-80,b839e44e,Brokerage,APPLE INC.,AAPL,652,13-Jan-2025,14-Jan-2025,N/A,CAD,Completed,
+john JOHNSON,ACC-9078-56,b3037801,Trust,JOHNSON & JOHNSON,JNJ,226,3/20/2025,3/21/2025,"4,234.38 USD",EUR,Completed,watchlist
+JEFFREY Ford,ACC-8897-53,f99dd8d7,401(k),Apple Inc.,Aapl,3,3/13/2023,14-Mar-2023,"$4,929.46",CAD,Completed,short-term
+Edward MEDINA,ACC-9962-17,c41407a8,401(k),MICROSOFT CORP,MSFT,20,6/18/2025,6/20/2025,4472.29,CAD,Completed,short-term
+JENNIFER Clarke,ACC-4466-77,1cc0f599,Brokerage,META PLATFORMS,META,722,14-Nov-2024,15-Nov-2024,3643.74usd,CAD,Completed,auto-invest
+STEVEN Ortega,ACC-6762-48,161d6dc4,Custodial,TESLA INC.,tsla,449,9-Nov-2022,10-Nov-2022,"$2,677.42",EUR,Completed,watchlist
+Jeremy Martin,ACC-5752-39,f72c2438,401(k),JOHNSON & JOHNSON,jnj,693,2/12/2025,,1956.29,USD,Pending,pending
+TROY guzman,ACC-1451-14,62cfccd0,Joint,Apple Inc.,aapl,878,8-Nov-2023,11/9/2023,N/A,EUR,Completed,short-term
+katie KIM,ACC-6719-85,240e769d,Joint,tesla inc.,tsla,52,24-Feb-2025,25-Feb-2025,$176.42,EUR,Completed,auto-invest
+AARON JONES,ACC-2757-73,ffdc90e0,Trust,NETFLIX,NFLX,ten,10-Apr-2025,11-Apr-2025,1479.52usd,CAD,Completed,watchlist
+JEFFREY ford,ACC-8897-53,02334deb,401(k),"Amazon.Com, Inc.",Amzn,87,3/13/2024,3/14/2024,560.53usd,USD,Completed,auto-invest
+TOM PATTERSON,ACC-9529-50,85fc1a4f,Joint,Johnson & Johnson,jnj,637,5/16/2025,19-May-2025,N/A,CAD,Completed,watchlist
+FRANK MARSHALL,ACC-7953-52,1c2a65e1,Roth IRA,NETFLIX,nflx,871,19-Aug-2024,,4179.45usd,USD,Pending,pending
+Matthew Lewis,ACC-7883-59,53a59ae1,Trust,Netflix,NFLX,ten,5/7/2025,5/8/2025,"4,629.34 USD",CAD,Completed,watchlist
+carlos Alexander,ACC-6263-52,2ef84afb,Roth IRA,APPLE INC.,AAPL,319,10/20/2020,21-Oct-2020,$408.49,USD,Completed,dividends reinvested
+April Terry,ACC-0599-67,19e95e83,Brokerage, Nvidia Corporation ,NVD,ten,15-May-2025,16-May-2025,3492.30,EUR,Completed,auto-invest
+kimberly martin,ACC-4336-74,2285fc75,401(k),MICROSOFT CORP,MSF,825,21-Mar-2025,,2169.65,USD,Pending,pending
+david BEASLEY,ACC-7869-96,8e45ee5d,Roth IRA,Apple Inc.,Aapl,412,19-Apr-2024,22-Apr-2024,$3181.05,USD,Completed,auto-invest
+CASEY MIDDLETON,ACC-1246-49,e3b6e534,401(k),Microsoft Corp,Msft,541,7/18/2025,7/18/2025,"2,930.23 USD",CAD,Completed,watchlist
+Leah Larsen,ACC-0586-00,0f74def8,Brokerage,NVIDIA CORPORATION,nvda,"1,000",3/13/2024,14-Mar-2024,N/A,USD,Completed,
+troy GUZMAN,ACC-1451-14,8bcfbcbe,Joint,JOHNSON & JOHNSON,jnj,685,12-Oct-2021,13-Oct-2021,$3944.57,EUR,Completed,auto-invest
+Kathryn MCCANN,ACC-0455-31,b907aa9a,Joint,"AMAZON.COM, INC.",amzn,448,11-Jun-2025,12-Jun-2025,$359.5,USD,Completed,auto-invest
+MR. Logan JOHNSON,ACC-9155-79,63a6e7db,Brokerage,BERKSHIRE HATHAWAY,brk.,68,4/21/2025,22-Apr-2025,$1070.38,USD,Completed,
+CAROLYN Mann,,6c098f9f,401(k),berkshire hathaway,BRK.A,387,2/5/2025,2/6/2025,$952.15,CAD,Completed,watchlist
+LATASHA Smith,ACC-6745-42,962652b7,401(k),ALPHABET INC.,Googl,778,21-Feb-2025,2/24/2025,$4212.42,EUR,Completed,watchlist
+Joseph crawford,ACC-1761-45,4376237b,Roth IRA,APPLE INC.,Aapl,268,9/5/2023,,$1518.9,CAD,Pending,pending
+jasmine RICHARD,,777dced7,Joint,tesla inc.,tsla,557,7/18/2024,19-Jul-2024,$662.90,EUR,Completed,dividends reinvested
+Mitchell oconnor,ACC-4481-93,0084294e,401(k),Netflix,NFLX,645,11/14/2023,15-Nov-2023,N/A,CAD,Completed,
+Brendan HALE,ACC-1952-06,b26bf3c9,Trust,Netflix,NFLX,845,7/21/2023,7/24/2023,"1,676.37 USD",EUR,Completed,watchlist
+amy Johnson,ACC-7992-71,69be19f0,401(k),berkshire hathaway,Brk.A,416,18-Sep-2023,9/19/2023,"2,468.26 USD",CAD,Completed,short-term
+MARCUS LIN,ACC-5147-16,86009750,Custodial,Johnson & Johnson,jnj,205,19-Jan-2023,,$1337.0,USD,Pending,pending
+Martha STUART,ACC-8191-06,15f8f9c9,Custodial,"AMAZON.COM, INC.",amzn,544,1/30/2025,1/31/2025,$487.37,EUR,Completed,auto-invest
+Jamie GONZALES,ACC-1903-05,52d1f988,Brokerage,NVIDIA CORPORATION,NVDA,262,2/1/2021,2/2/2021,2504.70usd,EUR,Completed,
+Yvette White,ACC-5871-08,f4f7232a,Custodial, NETFLIX ,nfl,143,7/8/2024,9-Jul-2024,$852.3,USD,Completed,auto-invest
+alejandra JIMENEZ,ACC-7815-65,f1e31367,Brokerage,"Amazon.Com, Inc.",Amzn,811,16-Nov-2023,17-Nov-2023,"$2,918.83",EUR,Completed,watchlist
+michael Collins,ACC-9950-12,ebb5d47d,401(k),apple inc.,Aapl,610,26-Jun-2025,6/27/2025,N/A,CAD,Completed,short-term
+Amanda CARPENTER,ACC-1469-19,627f5029,Custodial,APPLE INC.,AAPL,915,1/5/2023,6-Jan-2023,"$3,609.13",CAD,Completed,
+Danielle price,ACC-4627-83,0d6ad8e2,401(k),nvidia corporation,NVDA,492,5/16/2025,,N/A,EUR,Pending,pending
+Tara MCCOY,ACC-9847-12,f17e232a,Roth IRA,NETFLIX,NFLX,756,4/30/2024,1-May-2024,1772.15usd,EUR,Completed,watchlist
+samuel newton,ACC-7806-33,7cf28a36,Roth IRA,"Amazon.Com, Inc.",Amzn,165,12-Feb-2025,,N/A,EUR,Pending,pending
+SHARON Stewart,ACC-4126-43,9ed162e1,Trust,META PLATFORMS,meta,255,14-Jan-2021,15-Jan-2021,$992.00,EUR,Completed,auto-invest
+,ACC-4251-57,f2569253,Brokerage,johnson & johnson,JNJ,346,9/17/2024,9/18/2024,$4408.20,EUR,Completed,watchlist
+RACHEL richmond,,d9ccb5de,Roth IRA,APPLE INC.,aapl,498,11/16/2021,17-Nov-2021,$2799.5,CAD,Completed,
+Jessica JONES,,0a291586,Brokerage, APPLE INC. ,AAPL,221,7/15/2025,16-Jul-2025,N/A,CAD,Completed,short-term
+,ACC-6263-52,91194008,Roth IRA, microsoft corp ,MSFT,252,3/12/2024,13-Mar-2024,4001.53,USD,Completed,dividends reinvested
+katie Kim,ACC-6719-85,eadc6c6e,Joint,alphabet inc.,googl,891,12/6/2023,7-Dec-2023,$4123.51,CAD,Completed,auto-invest
+Timothy CHAPMAN,ACC-0700-77,4e64f640,401(k), Nvidia Corporation ,NVDA,342,9/4/2024,5-Sep-2024,306.18 USD,USD,Completed,
+,ACC-5831-13,7facdd86,Brokerage,netflix,NFLX,580,3/1/2023,3/2/2023,$4006.0,USD,Completed,auto-invest
+,ACC-9435-86,3402a90d,Roth IRA, APPLE INC. ,aapl,136,3-Apr-2023,4/4/2023,4665.34usd,EUR,Completed,
+,ACC-3614-35,8e170a7a,401(k),Netflix,Nflx,301,4-Apr-2025,,"$3,075.28",EUR,Pending,pending
+BRENDAN Hale,ACC-1952-06,bd8e292b,Trust,"amazon.com, inc.",Amzn,23,10-Mar-2025,3/11/2025,4995.69usd,CAD,Completed,
+stephanie Chang,ACC-9574-77,ad1a7bf5,Custodial,netflix,NFLX,ten,10-Jun-2025,11-Jun-2025,$540.3,CAD,Completed,auto-invest
+MITCHELL MASSEY,,06c9eca3,Joint,Netflix,Nflx,236,8/29/2024,8/30/2024,585.52 USD,CAD,Completed,dividends reinvested
+Edward WASHINGTON,ACC-8660-68,ebe60a7b,Custodial,"amazon.com, inc.",amzn,499,3/19/2025,20-Mar-2025,$3357.90,EUR,Completed,watchlist
+REBECCA ward dvm,ACC-6634-62,816261b3,Brokerage,microsoft corp,MSFT,628,1/9/2023,10-Jan-2023,$2001.32,EUR,Completed,short-term
+AARON Jones,ACC-2757-73,8f7000ab,Trust,Apple Inc.,aapl,735,12/3/2024,12/4/2024,"4,721.17 USD",EUR,Completed,dividends reinvested
+kimberly MARTIN,ACC-4336-74,18c465fc,401(k),Berkshire Hathaway,BRK.A,40,7-Mar-2024,3/8/2024,"2,122.93 USD",EUR,Completed,watchlist
+mitchell FERGUSON,ACC-8216-22,d2744ea7,Brokerage,apple inc.,Aapl,654,21-Mar-2025,24-Mar-2025,$2497.42,EUR,Completed,short-term
+Mr. MICHAEL HAYNES,ACC-0390-03,d96f23d7,Custodial,berkshire hathaway,BRK.A,442,16-Oct-2023,10/17/2023,"1,294.87 USD",CAD,Completed,
+KENNETH HARTMAN,ACC-6132-88,85429df1,Joint,alphabet inc.,Goog,723,4/24/2025,4/25/2025,N/A,EUR,Completed,
+Lauren Miranda,,1b6a60a8,Roth IRA,BERKSHIRE HATHAWAY,brk.a,729,14-Jun-2023,,4266.58usd,EUR,Pending,pending
+Stephanie Bennett,ACC-4251-57,5b709996,Brokerage,Johnson & Johnson,jnj,ten,24-Jul-2024,,$1714.57,CAD,Pending,pending
+leslie MONTOYA,ACC-1613-88,99f6905f,Roth IRA,Netflix,nflx,969,5-Apr-2022,4/6/2022,$4187.65,CAD,Completed,watchlist
+lauren Miranda,ACC-6696-75,3b4a25a6,Roth IRA,NETFLIX,Nflx,178,9-Nov-2023,11/13/2023,$4489.83,CAD,Completed,
+Kevin Wallace,ACC-1036-37,7b767af9,Trust, Nvidia Corporation ,nvda,ten,8/10/2022,8/11/2022,1311.38,USD,Completed,auto-invest
+CHRISTINE Hanson,ACC-5932-72,d7f6d108,Brokerage,BERKSHIRE HATHAWAY,brk.a,N/A,29-Jan-2024,30-Jan-2024,"1,438.90 USD",CAD,Completed,watchlist
+JAMIE Gonzales,ACC-1903-05,ea5450a0,Brokerage,Tesla Inc.,tsla,971,4/1/2021,2-Apr-2021,589.09usd,USD,Completed,auto-invest
+Heidi Cox,ACC-2714-27,7b308eef,Roth IRA,Apple Inc.,AAPL,117,7/9/2025,10-Jul-2025,"4,637.15 USD",USD,Completed,
+JEFFREY ford,ACC-8897-53,8a25704a,401(k),BERKSHIRE HATHAWAY,BRK.A,935,21-May-2025,22-May-2025,$2251.9,EUR,Completed,short-term
+REBECCA Ward Dvm,ACC-6634-62,dfcd6840,Brokerage,microsoft corp,MSFT,765,8/16/2022,,$4040.17,CAD,Pending,pending
+Frank galloway,ACC-3250-12,a1ec97fa,Joint,Apple Inc.,Aapl,120,6/16/2022,6/17/2022,"$1,662.34",USD,Completed,watchlist
+marcus LIN,ACC-5147-16,fdc10813,Custodial, tesla inc. ,Tsla,833,21-Dec-2023,22-Dec-2023,$3678.9,EUR,Completed,watchlist
+Stephanie Smith,ACC-6313-73,b9fa9d36,Trust, tesla inc. ,TSLA,N/A,4/14/2025,4/15/2025,3726.45,USD,Completed,watchlist
+Sabrina bowen,ACC-8707-29,e8de5360,401(k),NVIDIA CORPORATION,NVDA,273,1/22/2025,1/23/2025,$1200.70,CAD,Completed,auto-invest
+drew salazar,ACC-1788-81,ba7b8b13,Joint,nvidia corporation,Nvda,698,4-Nov-2022,11/7/2022,$998.70,USD,Completed,
+ashley GALLEGOS,ACC-5934-64,ac3b1202,401(k), NETFLIX ,Nflx,579,12-Dec-2024,13-Dec-2024,N/A,EUR,Completed,auto-invest
+lauren miranda,ACC-6696-75,c51cf11d,Roth IRA,JOHNSON & JOHNSON,JNJ,608,1/11/2023,,$4631.99,EUR,Pending,pending
+GLEN thomas,ACC-0608-88,390faf2f,Brokerage,Meta Platforms,meta,86,7/12/2024,,$649.01,CAD,Pending,pending
+,ACC-7408-26,806a466e,401(k),NVIDIA CORPORATION,nvda,N/A,6/25/2025,6/26/2025,807.70usd,CAD,Completed,short-term
+Robert Morrison,ACC-9277-26,bda3e25f,Trust,netflix,Nflx,61,16-Dec-2024,17-Dec-2024,2772.15,EUR,Completed,auto-invest
+Mitchell OCONNOR,ACC-4481-93,8a040741,401(k),"Amazon.Com, Inc.",AMZN,341,10/4/2024,10/7/2024,$948.71,EUR,Completed,watchlist
+Danielle PRICE,ACC-4627-83,4b6706ee,401(k)," amazon.com, inc. ",Amzn,351,3/26/2025,27-Mar-2025,N/A,EUR,Completed,auto-invest
+Sean daniel,ACC-8266-21,939806e1,Custodial,"Amazon.Com, Inc.",amzn,156,5/29/2025,30-May-2025,893.81usd,USD,Completed,
+Christopher MILLER,ACC-7393-87,4e127d4f,Trust,ALPHABET INC.,GOOGL,293,7/3/2024,7/5/2024,$1588.29,CAD,Completed,watchlist
+thomas JACKSON,,cc037ab7,Custodial,johnson & johnson,JNJ,124,30-May-2024,,435.96,CAD,Pending,pending
+stacy LEE,ACC-1001-75,34d0aaf6,Custodial,nvidia corporation,Nvda,567,2-Jan-2025,,$4952.3,CAD,Pending,pending
+Tammy ALLISON,ACC-6243-77,c693ffc9,Roth IRA,Apple Inc.,aapl,634,17-Jul-2025,18-Jul-2025,3987.92usd,CAD,Completed,auto-invest
+EDWARD WASHINGTON,ACC-8660-68,3dd2d7b1,Custodial,netflix,nflx,598,3-Dec-2024,4-Dec-2024,N/A,USD,Completed,dividends reinvested
+Frank MORGAN,ACC-1723-94,9ed95260,401(k),"amazon.com, inc.",Amzn,234,6/28/2022,29-Jun-2022,4353.70,CAD,Completed,watchlist
+BRIAN GARCIA,ACC-3988-43,24a744df,Trust,NVIDIA CORPORATION,nvda,666,12/30/2024,,$4047.7,CAD,Pending,pending
+,ACC-3087-81,9597ef81,Custodial,Berkshire Hathaway,Brk.A,N/A,10/3/2024,10/4/2024,2843.47,USD,Completed,short-term
+sylvia mccoy,ACC-2107-50,191c8a89,401(k), alphabet inc. ,googl,159,11-Jul-2025,7/14/2025,3615.75,EUR,Completed,
+SPENCER CLARK,ACC-2289-36,3d561ff3,Joint,Apple Inc.,AAP,570,9/24/2021,9/27/2021,$510.30,CAD,Completed,dividends reinvested
+RONALD Sparks,ACC-8952-72,3e02e818,Trust,META PLATFORMS,META,882,23-May-2024,24-May-2024,"$4,800.16",USD,Completed,dividends reinvested
+shannon Costa,ACC-1513-23,2110ba53,Custodial,berkshire hathaway,brk.a,664,1-Feb-2022,2-Feb-2022,3508.30,USD,Completed,short-term
+tina Jones,,73985c2a,Roth IRA,microsoft corp,MSF,814,16-Oct-2023,17-Oct-2023,1486.78usd,CAD,Completed,short-term
+danielle Bell,,4d788786,Trust,Alphabet Inc.,GOOGL,440,12-Jan-2024,,1147.92,USD,Pending,pending
+leon DANIELS,ACC-0416-72,d6017dd0,Custodial,"Amazon.Com, Inc.",AMZ,914,1/17/2024,1/18/2024,"$1,208.63",USD,Completed,
+,ACC-4627-83,535a633d,401(k),"amazon.com, inc.",AMZN,116,1-Aug-2024,2-Aug-2024,"4,306.43 USD",USD,Completed,watchlist
+sharon ruiz,ACC-6066-04,dd068cc7,Roth IRA,MICROSOFT CORP,MSFT,947,30-Aug-2021,8/31/2021,870.44 USD,USD,Completed,dividends reinvested
+Ashley GALLEGOS,ACC-5934-64,b80f9689,401(k),Apple Inc.,AAPL,604,6/13/2025,6/16/2025,226.28usd,EUR,Completed,dividends reinvested
+SHARON RUIZ,ACC-6066-04,9318e3bb,Roth IRA,Meta Platforms,Meta,246,26-Apr-2023,27-Apr-2023,N/A,USD,Completed,auto-invest
+jamie gonzales,ACC-1903-05,98b38fb4,Brokerage,TESLA INC.,Tsla,898,13-Nov-2020,16-Nov-2020,N/A,USD,Completed,auto-invest
+gloria williams,ACC-9041-81,86cb46a4,Brokerage,BERKSHIRE HATHAWAY,BRK.A,N/A,9/24/2021,9/27/2021,$4676.70,USD,Completed,dividends reinvested
+Tara Mccoy,ACC-9847-12,6571a3e5,Roth IRA,ALPHABET INC.,googl,237,1/8/2025,1/9/2025,N/A,USD,Completed,
+,ACC-6243-77,12b0cac7,Roth IRA,Meta Platforms,Meta,302,14-May-2025,5/15/2025,406.90 USD,USD,Completed,dividends reinvested
+Jessica Arellano,ACC-5569-10,681f69c9,Roth IRA,Microsoft Corp,MSFT,426,3-Apr-2023,4-Apr-2023,$96.9,USD,Completed,
+Michael bentley,ACC-6420-70,b78ea995,Brokerage,META PLATFORMS,META,834,5/26/2023,30-May-2023,$2194.4,CAD,Completed,dividends reinvested
+Gary lynch,,54b56223,Custodial,microsoft corp,msft,701,8/21/2023,,$583.06,USD,Pending,pending
+BRITTANY roberts,ACC-0268-85,e9620268,Joint,alphabet inc.,googl,790,4/15/2025,16-Apr-2025,2477.08,CAD,Completed,auto-invest
+Christine Hanson,ACC-5932-72,5ad56a82,Brokerage,BERKSHIRE HATHAWAY,Brk.A,377,11/4/2024,11/5/2024,N/A,CAD,Completed,short-term
+ashlee bell,ACC-8139-72,dbffb6aa,Brokerage,Berkshire Hathaway,Brk.A,802,2/27/2024,2/28/2024,2386.89usd,USD,Completed,watchlist
+jamie GONZALES,ACC-1903-05,3cd8d3b7,Brokerage,"Amazon.Com, Inc.",AMZN,747,6-Aug-2024,7-Aug-2024,$1773.95,EUR,Completed,auto-invest
+mitchell Oconnor,ACC-4481-93,27c77eb3,401(k),ALPHABET INC.,GOOGL,326,4-May-2022,5/5/2022,4035.55usd,EUR,Completed,watchlist
+amy JOHNSON,ACC-7992-71,5ea12303,401(k),netflix,Nflx,596,23-May-2024,24-May-2024,1220.71,EUR,Completed,short-term
+anthony flynn,ACC-2193-22,46c8d7ef,401(k),"AMAZON.COM, INC.",AMZN,554,5-Jun-2025,6-Jun-2025,4860.86,CAD,Completed,watchlist
+carolyn mann,ACC-3614-35,a2c14d3f,401(k),meta platforms,META,997,3/8/2024,11-Mar-2024,"1,297.42 USD",USD,Completed,short-term
+Kyle miller,ACC-5203-81,0a38d316,Roth IRA,netflix,Nflx,213,11-Sep-2024,,$1177.1,CAD,Pending,pending
+samuel NEWTON,ACC-7806-33,da624137,Roth IRA,Alphabet Inc.,googl,969,5/21/2024,22-May-2024,N/A,CAD,Completed,watchlist
+Stephanie smith,ACC-6313-73,38a02de1,Trust,Nvidia Corporation,nvda,205,25-Oct-2024,10/28/2024,$996.91,USD,Completed,auto-invest
+Kenneth hartman,ACC-0980-93,ace90980,401(k), APPLE INC. ,AAPL,886,10/4/2024,10/7/2024,"$1,179.27",USD,Completed,dividends reinvested
+,ACC-7622-09,e64b14a2,Joint,Berkshire Hathaway,BRK.A,271,4-Jun-2025,5-Jun-2025,697.49 USD,USD,Completed,
+Rebecca Ward DVM,ACC-6634-62,8383c561,Brokerage,Netflix,Nflx,652,7/3/2024,,4012.28usd,EUR,Pending,pending
+ashley GALLEGOS,ACC-5934-64,87504f4c,401(k),NETFLIX,NFLX,N/A,3/7/2023,3/8/2023,$1413.2,CAD,Completed,short-term
+juan maddox,ACC-5352-08,7cee4582,Trust,BERKSHIRE HATHAWAY,Brk.A,687,30-Aug-2024,3-Sep-2024,"$4,103.58",USD,Completed,auto-invest
+MRS. Melissa MARTINEZ Md,ACC-9435-86,bd8fea45,Roth IRA,Berkshire Hathaway,BRK.A,508,5/4/2022,5-May-2022,1210.15,USD,Completed,watchlist
+Kevin wallace,ACC-1036-37,8f4a7453,Trust,ALPHABET INC.,googl,27,16-Dec-2024,,$689.26,USD,Pending,pending
+,ACC-3087-81,6ce8b5ee,Custodial,BERKSHIRE HATHAWAY,Brk.A,573,27-Mar-2025,3/28/2025,"3,371.76 USD",USD,Completed,dividends reinvested
+Glen thomas,ACC-0608-88,e8a1ed4c,Brokerage,Microsoft Corp,Msft,616,14-Feb-2025,2/18/2025,4915.55,USD,Completed,auto-invest
+tammy CAMPBELL,ACC-1374-21,bb6ca064,401(k),APPLE INC.,AAPL,967,3/3/2025,4-Mar-2025,"1,031.52 USD",CAD,Completed,dividends reinvested
+Donna smith,ACC-7622-09,c94052a5,Joint,Johnson & Johnson,jnj,856,27-May-2025,5/28/2025,"1,719.28 USD",EUR,Completed,auto-invest
+Danielle Pearson,ACC-0110-33,86523b92,Brokerage, Berkshire Hathaway ,brk.a,183,1/21/2022,24-Jan-2022,4274.97,CAD,Completed,dividends reinvested
+MARK BROWN,ACC-1558-54,78a94db8,Brokerage,"Amazon.Com, Inc.",AMZN,398,25-Jul-2023,,4700.15,CAD,Pending,pending
+THOMAS DOUGHERTY,ACC-7947-92,23234c90,401(k),META PLATFORMS,Meta,733,30-Jun-2023,3-Jul-2023,1026.22usd,USD,Completed,auto-invest
+Sean daniel,ACC-8266-21,ae06dc43,Custodial,TESLA INC.,tsla,522,5/19/2025,5/20/2025,$2115.55,CAD,Completed,
+MRS. melissa Martinez MD,ACC-9435-86,09fb59eb,Roth IRA,johnson & johnson,JNJ,ten,19-May-2023,5/22/2023,$1707.78,CAD,Completed,auto-invest
+GARY LYNCH,ACC-6213-57,8f2c05b2,Custodial,Johnson & Johnson,JNJ,ten,1-May-2025,2-May-2025,983.52,EUR,Completed,short-term
+KENNETH hartman,ACC-0980-93,37f6c52d,401(k),Netflix,Nflx,585,29-May-2025,5/30/2025,N/A,CAD,Completed,short-term
+FELICIA scott,ACC-4677-40,1377d7ca,Trust,JOHNSON & JOHNSON,Jnj,434,3/19/2025,3/20/2025,N/A,USD,Completed,
+Mark dean,ACC-6166-41,092adf62,Brokerage,Apple Inc.,Aapl,578,11-Apr-2025,4/14/2025,$618.4,USD,Completed,short-term
+casey MIDDLETON,ACC-1246-49,3f4380c6,401(k),Microsoft Corp,MSFT,ten,19-Dec-2024,12/20/2024,$4041.2,USD,Completed,dividends reinvested
+patrick HERNANDEZ,ACC-5412-61,daa15791,Brokerage,tesla inc.,TSLA,N/A,6-Oct-2022,7-Oct-2022,N/A,EUR,Completed,dividends reinvested
+MR. MICHAEL HAYNES,ACC-0390-03,05cc4153,Custodial,Alphabet Inc.,GOOGL,697,4/8/2025,4/9/2025,$1695.2,CAD,Completed,short-term
+REBECCA WARD Dvm,ACC-6634-62,ccbd5f8a,Brokerage,Apple Inc.,AAPL,500,5/1/2024,5/2/2024,N/A,CAD,Completed,short-term
+FRANK GALLOWAY,ACC-3250-12,3e1258ae,Joint,berkshire hathaway,brk.a,987,10/18/2023,,"2,556.47 USD",CAD,Pending,pending
+christine HANSON,ACC-5932-72,dc083ff8,Brokerage,META PLATFORMS,Meta,444,7/30/2024,31-Jul-2024,"3,003.31 USD",CAD,Completed,short-term
+Gloria WILLIAMS,ACC-9041-81,ee5ac271,Brokerage,"AMAZON.COM, INC.",amzn,ten,6-Aug-2021,8/9/2021,$4330.26,CAD,Completed,
+Robert hodges,ACC-2514-34,a0b3cd9b,Joint, berkshire hathaway ,Brk.A,630,12/31/2024,2-Jan-2025,N/A,CAD,Completed,
+marcus LIN,ACC-5147-16,eb83a929,Custodial,NVIDIA CORPORATION,nvda,N/A,2-Feb-2024,2/5/2024,2113.48,CAD,Completed,auto-invest
+KATHRYN Mccann,ACC-0455-31,5a089388,Joint,netflix,Nflx,774,6-Apr-2023,4/7/2023,N/A,CAD,Completed,
+MARIA gonzalez,ACC-4256-01,7258a895,Trust,APPLE INC.,AAPL,352,23-Jan-2025,1/24/2025,N/A,USD,Completed,watchlist
+Sharon stewart,ACC-4126-43,d40dd202,Trust,alphabet inc.,Googl,538,3/11/2025,,$40.08,CAD,Pending,pending
+LEAH Mendez,ACC-9233-51,5b4c0f1e,401(k),apple inc.,Aapl,N/A,6/24/2024,,3452.20usd,USD,Pending,pending
+AMANDA CARPENTER,ACC-1469-19,0087071d,Custodial,apple inc.,aapl,289,10-Oct-2023,10/11/2023,"1,289.04 USD",CAD,Completed,
+TAMMY allison,ACC-6243-77,58413c4e,Roth IRA,JOHNSON & JOHNSON,jnj,167,18-Jun-2025,6/20/2025,N/A,EUR,Completed,
+STEPHEN carter,ACC-6359-95,3ec81334,Trust,Tesla Inc.,Tsla,422,7/18/2025,18-Jul-2025,$1476.94,USD,Completed,short-term
+timothy chapman,ACC-0700-77,b83b7206,401(k),APPLE INC.,Aapl,697,10/6/2023,10-Oct-2023,N/A,CAD,Completed,auto-invest
+HEIDI COX,ACC-2714-27,8ef2700e,Roth IRA,Johnson & Johnson,Jnj,201,30-Mar-2022,3/31/2022,"$4,170.01",CAD,Completed,dividends reinvested
+edward medina,ACC-9962-17,0c952668,401(k),META PLATFORMS,meta,893,6/5/2025,6/6/2025,$4026.42,CAD,Completed,auto-invest
+JOHN Taylor,ACC-1996-88,c6ad17ad,Roth IRA,Alphabet Inc.,googl,166,4/3/2024,4/4/2024,4542.11,USD,Completed,watchlist
+maria REYNOLDS,ACC-9656-56,9e1d40a4,Joint,ALPHABET INC.,googl,908,6/27/2025,,N/A,CAD,Pending,pending
+deborah MOODY,ACC-4991-00,eed98c5c,Roth IRA,johnson & johnson,Jnj,922,3-Jul-2025,7-Jul-2025,N/A,CAD,Completed,watchlist
+BENJAMIN carrillo,ACC-6858-35,c86729a1,Brokerage,netflix,Nfl,256,2/14/2025,2/18/2025,$3049.48,EUR,Completed,dividends reinvested
+Mark BROWN,ACC-1558-54,693778e1,Brokerage, NETFLIX ,Nflx,858,14-Jul-2025,15-Jul-2025,"$2,025.68",CAD,Completed,auto-invest
+EMILY HART,ACC-7633-25,31c016e8,Roth IRA,berkshire hathaway,BRK.A,708,12-Jun-2023,13-Jun-2023,N/A,USD,Completed,auto-invest
+Michael Bentley,ACC-6420-70,27803213,Brokerage,Tesla Inc.,Tsla,657,8/16/2024,8/19/2024,2195.73usd,EUR,Completed,
+tammy CAMPBELL,ACC-1374-21,884eafe1,401(k),Tesla Inc.,TSLA,535,9-Aug-2024,8/12/2024,4236.01usd,CAD,Completed,
+Glen Thomas,ACC-0608-88,1890eae6,Brokerage,APPLE INC.,aap,682,5/22/2025,,"$3,050.93",EUR,Pending,pending
+SHARON stewart,ACC-4126-43,5a548f2b,Trust,johnson & johnson,Jnj,781,1/8/2024,9-Jan-2024,842.07usd,CAD,Completed,auto-invest
+Mitchell OCONNOR,ACC-4481-93,c101c59c,401(k),Berkshire Hathaway,brk.a,156,1/3/2023,4-Jan-2023,"$2,516.72",EUR,Completed,watchlist
+JAMES POOLE,ACC-6303-65,c4679254,Joint, Johnson & Johnson ,jnj,732,10-Jun-2025,6/11/2025,"$1,704.06",EUR,Completed,short-term
+mackenzie BARRETT,ACC-9031-08,c55efc05,Joint,BERKSHIRE HATHAWAY,brk.a,17,4/22/2025,4/23/2025,3584.24,CAD,Completed,
+alejandra jimenez,ACC-7815-65,b43d4efe,Brokerage,apple inc.,aapl,913,7/16/2025,7/17/2025,"1,010.84 USD",USD,Completed,watchlist
+Mr. John Sullivan,ACC-0938-29,48889f57,Roth IRA, apple inc. ,Aapl,538,3-Dec-2024,4-Dec-2024,2579.35usd,CAD,Completed,auto-invest
+Ashlee Bell,ACC-8139-72,7d2bbe47,Brokerage,Apple Inc.,aapl,186,11/17/2023,11/20/2023,2146.31usd,USD,Completed,auto-invest
+brittany ROBERTS,ACC-0268-85,9509a2b9,Joint,nvidia corporation,nvda,698,2/6/2025,7-Feb-2025,N/A,CAD,Completed,
+stephanie Bennett,ACC-4251-57,b9246161,Brokerage,Microsoft Corp,Msft,356,5/2/2025,5-May-2025,"$1,125.63",EUR,Completed,
+KATHRYN MCCANN,ACC-0455-31,7341c5b5,Joint,META PLATFORMS,Meta,823,6/27/2024,28-Jun-2024,N/A,EUR,Completed,auto-invest
+Aaron jones,ACC-2757-73,19192f52,Trust,berkshire hathaway,brk.a,213,6/7/2024,6/10/2024,907.50 USD,CAD,Completed,auto-invest
+WILLIAM Winters,ACC-1317-26,8b429d58,Roth IRA, TESLA INC. ,tsla,479,6-May-2025,7-May-2025,"$4,930.30",EUR,Completed,
+DEBORAH atkinson,ACC-9187-98,83580de3,Joint,MICROSOFT CORP,msft,784,7/1/2025,2-Jul-2025,N/A,EUR,Completed,auto-invest
+mark DEAN,ACC-6166-41,bf0d519d,Brokerage,BERKSHIRE HATHAWAY,Brk.A,11,11/29/2024,12/2/2024,$4790.9,USD,Completed,watchlist
+carlos ALEXANDER,ACC-6263-52,5ed83ba7,Roth IRA,TESLA INC.,TSLA,906,3/28/2023,3/29/2023,N/A,EUR,Completed,watchlist
+JORGE LANE,ACC-5906-61,d09036af,Roth IRA,Microsoft Corp,msft,283,9-May-2024,10-May-2024,N/A,USD,Completed,
+marcus lin,ACC-5147-16,cecd8353,Custodial,JOHNSON & JOHNSON,jnj,353,7/9/2021,7/12/2021,"$2,225.28",EUR,Completed,auto-invest
+KAREN shaffer,ACC-4827-00,2245b283,Brokerage,META PLATFORMS,Meta,252,17-Oct-2023,10/18/2023,"1,404.52 USD",EUR,Completed,
+Kenneth SCHULTZ,ACC-2070-05,d738382c,Brokerage,NVIDIA CORPORATION,Nvda,736,1/11/2024,12-Jan-2024,849.12usd,USD,Completed,watchlist
+ISAAC wood,ACC-4708-40,86051ac6,Trust, JOHNSON & JOHNSON ,jnj,944,6/24/2021,6/25/2021,759.79,USD,Completed,
+edward Washington,ACC-8660-68,f35cb4ee,Custodial,alphabet inc.,googl,590,4/10/2025,4/11/2025,4914.14usd,USD,Completed,
+samuel Newton,ACC-7806-33,60972934,Roth IRA,ALPHABET INC.,Googl,220,10/17/2024,,4926.93usd,EUR,Pending,pending
+THEODORE maldonado,ACC-5034-80,42a54231,Joint,tesla inc.,TSLA,36,3/4/2025,5-Mar-2025,$4407.5,USD,Completed,auto-invest
+,ACC-7883-59,f4f1b973,Trust, Apple Inc. ,Aapl,165,6-Mar-2025,3/7/2025,"$4,434.67",USD,Completed,auto-invest
+CAROLYN Mann,ACC-3614-35,fe044139,401(k),Berkshire Hathaway,Brk.A,ten,20-Sep-2024,9/23/2024,N/A,CAD,Completed,dividends reinvested
+DANIELLE PRICE,ACC-4627-83,08052617,401(k),Microsoft Corp,MSF,602,30-Apr-2024,1-May-2024,$2394.7,CAD,Completed,dividends reinvested
+KATHRYN mccann,ACC-0455-31,77bfb639,Joint,netflix,nflx,N/A,1-Dec-2022,12/2/2022,2976.86usd,USD,Completed,auto-invest
+Tina jones,ACC-5322-63,01c9c80d,Roth IRA,Netflix,Nflx,738,1-Apr-2025,4/2/2025,"2,431.64 USD",USD,Completed,auto-invest
+brandon MILLS,ACC-3659-34,6473ddfc,401(k),Alphabet Inc.,GOOGL,218,14-Jan-2025,15-Jan-2025,3338.41usd,CAD,Completed,short-term
+MARK dean,ACC-6166-41,70faa95b,Brokerage,apple inc.,AAPL,927,4/29/2025,30-Apr-2025,N/A,EUR,Completed,dividends reinvested
+Martha stuart,ACC-8191-06,561c7ab0,Custodial,NVIDIA CORPORATION,NVDA,ten,1/23/2025,,4058.68,CAD,Pending,pending
+,ACC-6745-42,5a40e1df,401(k), JOHNSON & JOHNSON ,jnj,13,7/29/2024,7/30/2024,$2086.79,CAD,Completed,
+aaron jones,ACC-2757-73,de9bef52,Trust,alphabet inc.,GOOGL,971,7/3/2025,7/7/2025,1605.41,CAD,Completed,short-term
+sylvia MCCOY,ACC-2107-50,085ced76,401(k),APPLE INC.,aapl,851,11-Jul-2025,14-Jul-2025,N/A,EUR,Completed,
+christopher Miller,ACC-7393-87,6764b1cf,Trust,Tesla Inc.,Tsla,915,1/26/2024,1/29/2024,N/A,CAD,Completed,short-term
+danielle PRICE,ACC-4627-83,1620f1a7,401(k),MICROSOFT CORP,MSFT,846,2/20/2025,2/21/2025,$919.5,CAD,Completed,short-term
+shawn drake,ACC-9933-80,78947d8e,Brokerage, JOHNSON & JOHNSON ,JNJ,150,8-Dec-2023,,$1663.0,CAD,Pending,pending
+tara Mccoy,ACC-9847-12,248405f9,Roth IRA,johnson & johnson,JN,N/A,4/21/2022,,$3001.98,CAD,Pending,pending
+,ACC-9435-86,7bded94d,Roth IRA,TESLA INC.,Tsla,688,6/1/2023,6/2/2023,N/A,CAD,Completed,auto-invest
+kenneth SCHULTZ,ACC-2070-05,a3250a33,Brokerage,"amazon.com, inc.",AMZN,195,24-Dec-2024,26-Dec-2024,2483.23usd,EUR,Completed,watchlist
+jorge LANE,ACC-5906-61,4cd04f3a,Roth IRA,Johnson & Johnson,JNJ,440,17-Jan-2024,18-Jan-2024,N/A,EUR,Completed,short-term
+jasmine RICHARD,ACC-1551-74,c0a5f5d3,Joint, BERKSHIRE HATHAWAY ,Brk.A,838,5/21/2025,22-May-2025,"1,028.86 USD",USD,Completed,
+Casey MIDDLETON,ACC-1246-49,ae5f3258,401(k),"AMAZON.COM, INC.",amzn,894,9/23/2022,9/26/2022,$426.26,USD,Completed,dividends reinvested
+CHRISTOPHER Miller,ACC-7393-87,94fcc20e,Trust,TESLA INC.,TSLA,91,3/18/2025,19-Mar-2025,N/A,EUR,Completed,
+CYNTHIA Mills,ACC-8689-39,9d307701,Custodial,apple inc.,AAPL,303,15-May-2025,5/16/2025,N/A,CAD,Completed,watchlist
+Jasmine Richard,ACC-1551-74,7f52e0fb,Joint, META PLATFORMS ,META,480,7/11/2022,7/12/2022,1599.83,CAD,Completed,watchlist
+Ashlee BELL,ACC-8139-72,d9edd56c,Brokerage,META PLATFORMS,META,301,30-Aug-2021,31-Aug-2021,$3121.5,CAD,Completed,
+mark Brown,ACC-1558-54,06e333a0,Brokerage,BERKSHIRE HATHAWAY,brk.a,654,8/10/2023,8/11/2023,3187.84,EUR,Completed,short-term
+ROBERT Hodges,ACC-2514-34,e190f73d,Joint,Apple Inc.,AAPL,66,4/23/2025,,$4039.22,CAD,Pending,pending
+rebecca Ward dvm,ACC-6634-62,e7ae4878,Brokerage,NETFLIX,NFLX,495,7/16/2025,,$4185.2,EUR,Pending,pending
+Lauren miranda,ACC-6696-75,9bfa1ed7,Roth IRA,alphabet inc.,GOOGL,955,12/12/2023,13-Dec-2023,1997.51,EUR,Completed,
+LESLIE Montoya,ACC-1613-88,a96a17b5,Roth IRA,Tesla Inc.,tsla,N/A,10/4/2024,10/7/2024,3683.98usd,USD,Completed,
+Stacy Lee,ACC-1001-75,19f58e18,Custodial,APPLE INC.,AAPL,209,6/24/2025,,416.16,CAD,Pending,pending
+drew salazar,ACC-1788-81,382eb6a2,Joint," Amazon.Com, Inc. ",Amzn,696,27-Jan-2023,1/30/2023,$2027.46,EUR,Completed,
+,ACC-4336-74,726975d5,401(k),berkshire hathaway,Brk.A,979,7-Nov-2023,11/8/2023,$678.35,CAD,Completed,
+Glen Thomas,ACC-0608-88,96f36809,Brokerage,"amazon.com, inc.",amzn,392,6/6/2025,,N/A,EUR,Pending,pending
+KENNETH Hartman,ACC-0980-93,1524f5ad,401(k),TESLA INC.,TSL,637,12/17/2024,12/18/2024,2934.91usd,USD,Completed,
+Gary lynch,ACC-6213-57,56881898,Custodial,Johnson & Johnson,Jnj,470,1-Sep-2023,9/5/2023,"$4,927.75",CAD,Completed,short-term
+LEON Daniels,ACC-0416-72,4b798e50,Custodial,tesla inc.,Tsla,N/A,12-Feb-2025,2/13/2025,$4022.6,CAD,Completed,auto-invest
+courtney dean,ACC-4954-88,b2176277,Brokerage,Meta Platforms,Meta,ten,1/21/2025,22-Jan-2025,"2,233.84 USD",EUR,Completed,
+rebecca WARD dvm,ACC-6634-62,06f00f5a,Brokerage,APPLE INC.,AAPL,131,24-Feb-2023,2/27/2023,$167.4,EUR,Completed,watchlist
+CHRISTOPHER Esparza,ACC-9384-53,c8840c85,Trust,Meta Platforms,META,ten,21-Nov-2024,,N/A,EUR,Pending,pending
+CHRISTOPHER Esparza,ACC-9384-53,c8840c85,Trust,Meta Platforms,META,ten,21-Nov-2024,,N/A,EUR,Pending,pending
+LEON Daniels,ACC-0416-72,b3291b06,Custodial,johnson & johnson,JNJ,202,5/2/2025,5/5/2025,"$3,296.16",USD,Completed,dividends reinvested
+LEON Daniels,ACC-0416-72,b3291b06,Custodial,johnson & johnson,JNJ,202,5/2/2025,5/5/2025,"$3,296.16",USD,Completed,dividends reinvested
+ROBERT Morrison,ACC-9277-26,31712c88,Trust,netflix,nflx,72,8-Feb-2024,,N/A,USD,Pending,pending
+ROBERT Morrison,ACC-9277-26,31712c88,Trust,netflix,nflx,72,8-Feb-2024,,N/A,USD,Pending,pending
+yvette WHITE,ACC-5871-08,6c7944e3,Custodial,Alphabet Inc.,Googl,218,5/8/2024,9-May-2024,669.37,CAD,Completed,watchlist
+yvette WHITE,ACC-5871-08,6c7944e3,Custodial,Alphabet Inc.,Googl,218,5/8/2024,9-May-2024,669.37,CAD,Completed,watchlist
+ronald Sparks,ACC-8952-72,4248c76b,Trust,Berkshire Hathaway,Brk.A,867,30-Jun-2025,1-Jul-2025,$271.59,CAD,Completed,dividends reinvested
+ronald Sparks,ACC-8952-72,4248c76b,Trust,Berkshire Hathaway,Brk.A,867,30-Jun-2025,1-Jul-2025,$271.59,CAD,Completed,dividends reinvested
+THOMAS Dougherty,ACC-7947-92,09764aff,401(k),ALPHABET INC.,Googl,117,3/2/2022,3/3/2022,N/A,EUR,Completed,dividends reinvested
+THOMAS Dougherty,ACC-7947-92,09764aff,401(k),ALPHABET INC.,Googl,117,3/2/2022,3/3/2022,N/A,EUR,Completed,dividends reinvested
+mrs. Melissa Martinez Md,ACC-9435-86,1391f0f5,Roth IRA,MICROSOFT CORP,Msft,ten,4/10/2025,4/11/2025,N/A,CAD,Completed,
+mrs. Melissa Martinez Md,ACC-9435-86,1391f0f5,Roth IRA,MICROSOFT CORP,Msft,ten,4/10/2025,4/11/2025,N/A,CAD,Completed,
+KAREN SHAFFER,ACC-4827-00,a067f35d,Brokerage, alphabet inc. ,Googl,43,1-Mar-2022,,"$3,764.24",CAD,Pending,pending
+KAREN SHAFFER,ACC-4827-00,a067f35d,Brokerage, alphabet inc. ,Googl,43,1-Mar-2022,,"$3,764.24",CAD,Pending,pending
+Terry NEWTON,ACC-7705-30,8393b232,401(k),"AMAZON.COM, INC.",AMZN,N/A,4/21/2025,,"4,954.17 USD",CAD,Pending,pending
+Terry NEWTON,ACC-7705-30,8393b232,401(k),"AMAZON.COM, INC.",AMZN,N/A,4/21/2025,,"4,954.17 USD",CAD,Pending,pending
+JESSICA arellano,ACC-5569-10,36642b4e,Roth IRA,Berkshire Hathaway,BRK.A,977,1/29/2025,,598.70,CAD,Pending,pending
+JESSICA arellano,ACC-5569-10,36642b4e,Roth IRA,Berkshire Hathaway,BRK.A,977,1/29/2025,,598.70,CAD,Pending,pending
+TOTAL,,,,,,,,,"$3,245,000",,,
+,,,,,,,,,,,,
+*,*,*,*,*,*,*,*,*,*,*,*,*

@@ -1,0 +1,151 @@
+Account ID,First Name,Last Name,SSN,Email,Phone,Date of Birth,Mailing Address,Account Type,Risk Tolerance,Income Bracket,Employment Status,Account Opened Date
+ACC-5892-09,Pamela,Jackson,064-97-5137,ericlam@example.org,(832)951-9497x17134,16-Dec-1987,"18268 Betty Street Suite 192, Rhodesfurt, CO 62481",401(k),High,50k-100k,Unemployed,22-Jul-2022
+ACC-6263-52,Carlos,Alexander,597-29-4123,smithnathan@example.net,(639)552-2275x2782,10-Oct-1967,"84071 Michael Roads, Davidton, NJ 05305",Roth IRA,Low,100k-250k,Unemployed,8/30/2020
+ACC-6420-70,Michael,Bentley,024-43-5953,maryowen@example.org,(344)579-5099x116,9/11/1949,"8510 Miller Ridge Suite 261, Howardfort, MP 00948",Brokerage,Low,250k+,Unemployed,5-Apr-2023
+ACC-1996-88,John,Taylor,865-73-7720,roberta03@example.net,858.790.5926,12/9/1980,"999 Brown Views Apt. 498, Whitehaven, NM 97937",Roth IRA,High,<50k,Retired,18-Jan-2024
+ACC-3802-06,Rachel,Richmond,286-19-7919,charlescox@example.com,001-884-603-3615,5/25/1951,"1151 Crystal Pines, North Johnview, CT 58214",Roth IRA,High,250k+,Retired,9/21/2021
+ACC-8248-29,Jennifer,Callahan,803-62-6159,,864-618-7743x4611,6/10/1950,"20343 Taylor Harbor Apt. 261, East Katherineport, NV 33423",401(k),Low,50k-100k,Employed,3/26/2024
+ACC-4336-74,Kimberly,Martin,844-14-5926,leachcourtney@example.org,298-984-4818,12/30/1953,"33889 Ryan Skyway, West Michellefurt, HI 98580",401(k),Medium,50k-100k,Self-employed,4/28/2023
+ACC-9574-77,Stephanie,Chang,792-09-7567,richmondmelissa@example.org,(303)460-3576x6855,11/17/1973,"33564 Mark Springs Suite 629, West Staceymouth, ND 93091",Custodial,Low,250k+,Retired,4/1/2022
+ACC-6745-42,Latasha,Smith,019-99-3255,torreskevin@example.com,322-525-7042x70153,28-Feb-1961,"295 Teresa Well, West Anthony, MP 92477",401(k),High,100k-250k,Student,11/7/2023
+ACC-5352-08,Juan,Maddox,281-31-2671,cpayne@example.org,001-916-887-7658x34690,1/22/1947,"98206 Davidson Harbors, Lake Natalieview, NH 65338",Trust,High,100k-250k,Retired,26-Nov-2022
+ACC-1451-14,Troy,Guzman,423-28-3349,rivasroy@example.org,609.928.6470x988,14-Mar-1985,"9292 Carl Rest, East Haroldhaven, IA 80036",Joint,Medium,250k+,Student,8-May-2021
+ACC-6546-74,Julie,Hernandez,226-61-1752,rbrady@example.com,+1-690-307-7030x444,23-Sep-1948,"491 Joshua Stream Apt. 441, Lake Kara, DC 25267",Joint,Low,100k-250k,Retired,1/31/2025
+ACC-5934-64,Ashley,Gallegos,388-69-2681,todd79@example.org,+1-754-383-5075,9/2/1983,"1223 Rhonda Highway Suite 714, Lesliemouth, CA 73603",401(k),Low,<50k,Unemployed,20-Jun-2022
+ACC-9656-56,Maria,Reynolds,864-07-6386,hwilliams@example.net,+1-928-939-7337x2381,11/13/1957,"044 Hernandez Court, Port Sarah, FL 34747",Joint,Medium,50k-100k,Self-employed,1/14/2025
+ACC-9187-98,Deborah,Atkinson,867-23-1046,lopezrebecca@example.com,+1-444-517-2107,10/27/1964,"5907 Joseph Harbors, West Vernon, WI 59422",Joint,Medium,250k+,Employed,23-Feb-2021
+ACC-1246-49,Casey,Middleton,323-41-0749,cherylbryant@example.org,776-527-2836x825,1/8/1957,"PSC 4877, Box 6832, APO AA 39445",401(k),High,250k+,Retired,7/5/2021
+ACC-5745-27,Larry,Berry,242-43-4692,jessica50@example.org,N/A,5/2/1954,"PSC 6307, Box 7717, APO AE 61478",Trust,High,50k-100k,Retired,11/15/2024
+ACC-1469-19,Amanda,Carpenter,625-54-4519,,9117516711,19-Nov-1984,"USNV James, FPO AP 60734",Custodial,High,250k+,Unemployed,24-Sep-2021
+ACC-0700-77,Timothy,Chapman,301-98-4585,nwatson@example.com,738.648.3805x567,17-Nov-1947,"02419 Hansen Drive Apt. 296, Port Williamchester, NJ 79226",401(k),Low,50k-100k,Employed,6/15/2021
+ACC-4466-77,Jennifer,Clarke,741-78-0543,jennifer81@example.com,(794)433-0181x08445,3/1/1983,"4491 Hayes Villages, Erinchester, NV 02861",Brokerage,Medium,<50k,Student,3/12/2023
+ACC-9586-98,Jonathan,Ramos,448-73-4061,hdavis@example.net,001-989-493-3919x382,4/13/1971,"416 Vanessa Drive Apt. 643, Jonathanshire, WV 33416",401(k),Medium,250k+,Student,8/26/2024
+ACC-1317-26,William,Winters,060-60-7146,vwilson@example.com,667-644-6844x864,16-May-1977,"502 Roy Field Apt. 186, West Lawrenceborough, MA 98854",Roth IRA,Medium,100k-250k,Employed,10/21/2023
+ACC-6303-65,James,Poole,711-69-3228,jackcameron@example.net,230.273.3366,16-Jun-1959,"PSC 2560, Box 7250, APO AA 54502",Joint,Medium,250k+,Retired,28-Dec-2023
+ACC-0599-67,April,Terry,863-96-7196,schneiderdaniel@example.com,001-730-345-3758,3/27/1942,"Unit 5201 Box 1854, DPO AP 75380",Brokerage,Low,100k-250k,Retired,1/11/2025
+ACC-7393-87,Christopher,Miller,501-32-1398,brooke74@example.com,5913811681,15-Sep-1978,"7220 Clinton Walks Apt. 712, East Angelatown, ME 60253",Trust,Low,100k-250k,Student,4-Jul-2023
+ACC-8266-21,Sean,Daniel,277-11-6559,danielortiz@example.net,202-835-8865,12-Aug-1998,"978 Jennifer Estates, Lake Markfort, AK 40664",Custodial,Medium,<50k,Unemployed,30-Apr-2025
+ACC-8660-68,Edward,Washington,350-45-7138,yolanda26@example.com,930-887-7949x47468,10/9/1979,"1333 Mark Point Apt. 075, Port Granthaven, NC 72915",Custodial,High,50k-100k,Unemployed,11/9/2024
+ACC-9078-56,John,Johnson,795-37-9057,ashley07@example.net,312-400-9132x027,29-Sep-2002,"2039 Fowler Hill, South Jenniferbury, DC 53724",Trust,Low,50k-100k,Retired,12/20/2024
+ACC-0606-25,Stephanie,Perry,343-86-8208,davisrachel@example.net,+1-254-538-6993x4069,6-Jun-1966,"Unit 7171 Box 3162, DPO AA 56057",Brokerage,High,100k-250k,Self-employed,7/14/2025
+ACC-7465-53,Dana,Bradley,178-03-5939,daniel56@example.net,607.368.3668,4/28/1942,"25764 Patrick Garden Apt. 835, Michaelmouth, PW 22464",Brokerage,Medium,100k-250k,Employed,1/21/2021
+ACC-9277-26,Robert,Morrison,782-57-0381,brandtwilliam@example.net,001-398-242-1378x73558,8-Feb-1991,"66060 Tamara Street, Lake Christopherland, VT 28213",Trust,Low,100k-250k,Self-employed,12/2/2023
+ACC-1513-23,Shannon,Costa,270-37-7472,longchristine@example.org,6543617234,11-Sep-1976,"778 Bethany Junctions, Michellefurt, AK 77437",Custodial,Medium,50k-100k,Self-employed,12/11/2021
+ACC-7947-92,Thomas,Dougherty,529-11-5167,ecobb@example.net,+1-985-976-8213x284,1/18/1943,"94319 Destiny Manors, Mooreland, ID 86700",401(k),Medium,50k-100k,Self-employed,10-May-2021
+ACC-0390-03,Mr.,Michael Haynes,779-25-5031,tony63@example.org,766-976-8714,6/19/1997,"598 Derek Canyon Suite 095, Lake Julieview, AS 06731",Custodial,Medium,<50k,Retired,28-May-2023
+ACC-2320-61,Francisco,Miller,109-75-5725,kellychurch@example.net,(527)657-1095x178,22-Aug-1993,"793 Pamela Stravenue, South Markville, MP 99150",Trust,Medium,250k+,Retired,8-Dec-2020
+ACC-5147-16,Marcus,Lin,182-84-5143,klyons@example.com,688-424-6632,5/12/1979,"82384 Cynthia Path, West Crystal, TN 77776",Custodial,High,50k-100k,Employed,9-Feb-2021
+ACC-7992-71,Amy,Johnson,206-41-3227,smithbrian@example.net,N/A,22-Sep-1979,"3448 Lauren Walks Apt. 562, Joshuahaven, FM 24746",401(k),Medium,<50k,Student,30-Oct-2022
+ACC-7953-52,Frank,Marshall,058-76-5264,anthonyvalenzuela@example.com,+1-252-989-3205x11002,9/15/1954,"91793 Mccarty Manors Suite 607, Jasminehaven, AR 41438",Roth IRA,Low,<50k,Unemployed,3/29/2024
+ACC-6696-75,Lauren,Miranda,685-60-9356,petersonerica@example.org,208.842.6172x762,26-Jan-2001,"83573 Griffith Island, West Shaunchester, LA 79282",Roth IRA,High,100k-250k,Employed,18-Dec-2021
+ACC-0721-36,Kayla,Stewart,694-18-1745,shane88@example.org,4946371895,29-Nov-1999,"PSC 1715, Box 4367, APO AA 59292",Roth IRA,Low,50k-100k,Unemployed,7/1/2025
+ACC-7394-49,Jessica,Jones,453-50-1898,torreslauren@example.org,(485)665-5327x96812,2-Jul-1980,"9063 Ronald Pines Apt. 390, Cookebury, NJ 77975",Brokerage,Low,100k-250k,Unemployed,14-Jul-2025
+ACC-4991-00,Deborah,Moody,831-57-0185,kylemorales@example.org,(821)422-0479x886,12/13/1949,"52441 Christopher Mountains Apt. 531, East Brianview, MA 30582",Roth IRA,Low,<50k,Student,24-May-2025
+ACC-2289-36,Spencer,Clark,265-02-9906,kruegerderrick@example.com,N/A,5/19/1982,"809 Hernandez Ferry Suite 485, Thompsonshire, PR 56459",Joint,Low,100k-250k,Self-employed,30-Mar-2021
+ACC-8976-23,Wendy,Gilmore,889-42-7740,inelson@example.net,001-936-580-7755x163,30-Sep-1939,"82135 Steven Valleys, Cassandrashire, DE 20044",Brokerage,Low,100k-250k,Unemployed,4-Jun-2022
+ACC-1903-05,Jamie,Gonzales,407-79-1952,gilmoredavid@example.com,+1-961-920-4826,29-Nov-1939,"150 Lisa Extension Apt. 159, South Collinbury, GA 22713",Brokerage,Low,100k-250k,Retired,7-Oct-2020
+ACC-1001-75,Stacy,Lee,775-52-9725,bgonzalez@example.com,N/A,4/16/1996,"953 Bennett Mill Apt. 163, Robertsville, RI 65483",Custodial,Medium,<50k,Retired,20-Aug-2024
+ACC-5932-72,Christine,Hanson,096-31-6733,susanhampton@example.org,+1-431-323-1164x72024,2/25/1958,"008 Reid Throughway Suite 971, New Jennifer, MS 36260",Brokerage,Medium,<50k,Unemployed,22-Dec-2023
+ACC-1788-81,Drew,Salazar,490-94-7280,lyonssamantha@example.org,957.814.9659x95324,1/14/2002,"505 Alexander Plains Suite 013, North Chelsea, MH 96982",Joint,Medium,<50k,Self-employed,8/1/2021
+ACC-7806-33,Samuel,Newton,500-38-9614,sarah13@example.org,305-986-2136x929,18-Nov-1964,"951 Delgado Unions, New Jonathanview, PA 94831",Roth IRA,Medium,100k-250k,Retired,19-Dec-2023
+ACC-1374-21,Tammy,Campbell,829-01-7756,danielbrown@example.org,001-346-213-0466x823,10/13/1979,"138 Kerry Prairie, New William, MS 05954",401(k),Low,50k-100k,Employed,3/21/2021
+ACC-6719-85,Katie,Kim,373-01-0259,,966-224-4074x228,7/31/1958,"077 Aaron Shoal, North Robert, IL 12990",Joint,Medium,250k+,Retired,2-Jul-2023
+ACC-7815-65,Alejandra,Jimenez,374-49-6352,ibrewer@example.org,+1-423-543-1035x05469,2/23/1976,"8530 Hughes Key Suite 576, Mooreview, SC 71164",Brokerage,High,<50k,Self-employed,12/22/2020
+ACC-1036-37,Kevin,Wallace,281-19-1943,hdavis@example.com,2532043198,3/5/1964,"243 Adams Squares, Lake Christine, FM 01513",Trust,High,50k-100k,Employed,21-Jul-2021
+ACC-2514-34,Robert,Hodges,143-71-8818,lmcdonald@example.net,+1-792-209-2280x9404,7/3/1986,"0162 Marcus Overpass, Dianefurt, WA 81308",Joint,Medium,100k-250k,Self-employed,12/26/2024
+ACC-2070-05,Kenneth,Schultz,022-50-5783,amber09@example.net,913-244-6046x5336,19-Sep-1969,"713 Misty Trail Apt. 528, Amystad, MP 39322",Brokerage,Low,100k-250k,Student,10-Oct-2021
+ACC-2107-50,Sylvia,Mccoy,190-29-2001,jaredthomas@example.com,001-698-523-6458x619,26-Apr-1977,"Unit 2388 Box 4587, DPO AE 52670",401(k),Medium,<50k,Retired,28-Jun-2025
+ACC-4481-93,Mitchell,Oconnor,753-19-7774,hparsons@example.org,001-398-998-4074x595,11/26/1955,"PSC 2695, Box 5194, APO AP 69682",401(k),High,50k-100k,Employed,12-Apr-2022
+ACC-9233-51,Leah,Mendez,346-57-1436,caleb69@example.org,001-361-344-8288x3313,2/27/1959,"0816 Davis Meadow, Jeffreyshire, MD 53133",401(k),Low,<50k,Student,5/17/2024
+ACC-5871-08,Yvette,White,101-95-9605,xjones@example.net,(686)699-9257x165,2-May-1958,"022 Hernandez Summit Suite 148, Tamarachester, NM 27437",Custodial,High,250k+,Unemployed,1-Dec-2022
+ACC-3087-81,Thomas,Jackson,819-19-6817,crosbysusan@example.com,001-452-386-3967x208,21-Jun-1970,"7026 Jamie Courts Apt. 791, Mannstad, PR 88517",Custodial,Medium,50k-100k,Employed,4/4/2024
+ACC-5906-61,Jorge,Lane,723-30-9932,maurice66@example.net,001-887-310-6207x969,5-Dec-1985,"91719 Villanueva Springs, Carrollberg, CT 07571",Roth IRA,Medium,<50k,Student,2-Sep-2023
+ACC-7869-96,David,Beasley,789-27-2765,natasharoach@example.org,(825)445-8567,1/13/1991,"PSC 5951, Box 5622, APO AP 68705",Roth IRA,High,250k+,Employed,22-Nov-2023
+ACC-7622-09,Donna,Smith,605-99-7894,joseph97@example.net,(765)275-3036x7566,24-Jul-2002,"437 Dwayne Cove, Lake Tanyaburgh, MD 82007",Joint,Medium,<50k,Employed,4/10/2024
+ACC-2714-27,Heidi,Cox,188-31-6194,jenkinslisa@example.com,001-725-700-5243x735,8/5/1939,"00779 Morris Crossroad, Burtonborough, NC 56606",Roth IRA,High,50k-100k,Self-employed,24-Apr-2021
+ACC-7883-59,Matthew,Lewis,607-11-8675,nrivera@example.org,001-368-840-7873x379,2/27/1977,"5054 Turner Courts Apt. 100, Kathleenhaven, NJ 23192",Trust,Low,250k+,Student,13-Nov-2024
+ACC-0455-31,Kathryn,Mccann,118-26-7104,vdodson@example.net,001-480-367-5516x1384,2-Dec-1940,"7584 James Rue, Drakeborough, AR 12308",Joint,Medium,250k+,Unemployed,3-Feb-2022
+ACC-5096-80,Sean,Daniel,655-72-0833,pnorman@example.com,001-738-540-8506x463,10-Jul-1989,"63472 Sandra Way Suite 807, New Christopherland, MT 96601",Custodial,Medium,100k-250k,Unemployed,2-Apr-2023
+ACC-8643-19,Jose,Thomas,847-92-1567,hansenbelinda@example.org,6482356314,6-Aug-1980,"9581 Lawrence Garden, New Heatherside, NC 16199",Roth IRA,Low,50k-100k,Retired,7/7/2024
+ACC-4251-57,Stephanie,Bennett,049-79-0618,asnow@example.com,001-976-608-2980x0987,7/21/1949,"003 Carr Underpass, East Gina, IN 88800",Brokerage,Medium,100k-250k,Unemployed,3/22/2024
+ACC-1594-91,Beth,King,717-99-5694,hhunter@example.com,001-534-233-5970,22-Feb-1990,"439 Williams Pass, Lake Richardbury, NV 96599",Trust,Low,<50k,Self-employed,29-May-2024
+ACC-1761-45,Joseph,Crawford,220-40-1941,ijackson@example.net,N/A,26-Feb-1997,"61100 Garcia Haven, North Joshua, OK 57824",Roth IRA,Medium,250k+,Employed,9/24/2021
+ACC-1613-88,Leslie,Montoya,636-48-6931,,001-986-962-5651,8/24/1975,"0058 Eric Centers, South Mariamouth, CA 99738",Roth IRA,High,100k-250k,Retired,16-Dec-2021
+ACC-4231-83,Hannah,Cantrell,577-12-0823,theresa08@example.org,409-480-3434x60049,9/9/1962,"60334 King Center, Colonchester, NJ 12303",Brokerage,Low,50k-100k,Employed,9/12/2021
+ACC-3988-43,Brian,Garcia,473-94-8487,carl24@example.org,761.536.5736x521,8/18/1954,"0065 Hood Mountain, Moralesport, OH 84970",Trust,Medium,250k+,Employed,7-Jun-2022
+ACC-6213-57,Gary,Lynch,760-83-8185,tammy32@example.net,+1-983-680-7644x382,3/27/1988,"2292 Odonnell Groves Apt. 121, East Rebeccaview, NH 51851",Custodial,Low,50k-100k,Employed,6/5/2023
+ACC-5203-81,Kyle,Miller,808-87-4379,vcervantes@example.net,+1-623-662-9937x247,2/14/1958,"3096 Shelton Mill Suite 959, Edwardstad, FL 04197",Roth IRA,Low,250k+,Student,12/15/2023
+ACC-4954-88,Courtney,Dean,187-21-1577,wallacelori@example.org,001-656-717-2236,24-Sep-1981,"6522 Perry Spur, Kellymouth, WV 24896",Brokerage,Medium,100k-250k,Self-employed,1/7/2025
+ACC-4708-40,Isaac,Wood,707-44-0741,kimberlyharris@example.com,771.910.1413x7059,27-Feb-1967,"6097 Williams Ports Apt. 675, South Ryan, DE 69246",Trust,Low,250k+,Self-employed,5-Dec-2020
+ACC-1558-54,Mark,Brown,285-09-6428,scottmueller@example.org,001-287-709-4685x4145,24-Nov-1970,"7922 Taylor Mills, Grahamville, MO 53593",Brokerage,Low,100k-250k,Retired,5-Jan-2023
+ACC-0938-29,Mr.,John Sullivan,233-58-7523,orowe@example.net,9315041760,7/23/2001,"8044 Newton Keys, East Cynthiafort, MP 77708",Roth IRA,High,<50k,Employed,10/31/2024
+ACC-6858-35,Benjamin,Carrillo,091-06-0822,kdean@example.net,+1-900-377-4229x74793,10/11/1954,"2862 Nelson Flat, East Daniel, AZ 64454",Brokerage,Medium,250k+,Student,1-Apr-2023
+ACC-5360-87,Jay,Nelson,581-93-3386,wangshirley@example.com,N/A,10/14/1984,"51978 Pitts Hollow, Eugenefort, AR 90390",Custodial,High,<50k,Self-employed,2/10/2021
+ACC-0934-49,Jeff,Morrow,899-57-4275,jmyers@example.net,001-682-387-9719,11/5/1939,"2492 Juarez Brooks, Lopezfurt, WA 11955",Joint,Medium,<50k,Employed,11/3/2020
+ACC-0980-93,Kenneth,Hartman,290-45-3714,gomezstephen@example.org,001-934-934-2586x263,29-Sep-1976,"89820 Kaiser Mall Apt. 611, Lorifort, SC 10547",401(k),High,50k-100k,Unemployed,9/17/2023
+ACC-3879-16,Donna,Smith,090-90-7578,leewalls@example.com,(365)393-2066,8-Sep-1981,"4292 Jeff Street Apt. 136, Barbaratown, MI 08329",Trust,Medium,100k-250k,Unemployed,25-Sep-2022
+ACC-9435-86,Mrs.,Melissa Martinez MD,326-52-4177,washingtonmeagan@example.org,574.282.2618x3622,6/28/1990,"38773 Ashley Parks Suite 668, New Brookemouth, OH 85419",Roth IRA,High,<50k,Self-employed,7/15/2021
+ACC-6934-80,James,Miller,013-31-3500,fryealbert@example.net,+1-972-693-9786x72721,31-Dec-1999,"9983 Michael Falls Apt. 771, Lake Brianfort, AK 79759",Trust,Low,50k-100k,Self-employed,13-Jan-2025
+ACC-1952-06,Brendan,Hale,391-92-5071,pburton@example.org,3943520251,4/6/1960,"4708 Bethany Mountains, New Kellytown, SC 13319",Trust,High,100k-250k,Unemployed,10/3/2020
+ACC-9155-79,Mr.,Logan Johnson,514-75-3499,oortega@example.com,231.811.6717x22284,13-Feb-1953,"5712 Lisa Loaf, Elaineport, NV 46237",Brokerage,High,100k-250k,Self-employed,6-Aug-2023
+ACC-9950-12,Michael,Collins,464-91-0094,lross@example.net,6789567896,9/20/1997,"03054 Robert Garden, Lake Spencertown, FM 87896",401(k),Medium,<50K,Self-employed,10/14/2024
+ACC-5752-39,Jeremy,Martin,457-68-5335,,(535)626-9248x7059,9/28/1956,"3867 Charles Island Apt. 708, Sarachester, LA 78408",401(k),High,50k-100k,Unemployed,12/23/2024
+ACC-9962-17,Edward,Medina,209-90-9393,hcook@example.com,597.602.8962x39026,5/26/1953,"86280 Ashley Plaza, Palmerburgh, FL 52380",401(k),Medium,250k+,Employed,4-Apr-2025
+ACC-6313-73,Stephanie,Smith,493-97-5249,kathleenmitchell@example.org,411.904.0920x971,10/27/1980,"943 Brennan Crossing Apt. 616, New Jenniferport, RI 98600",Trust,Medium,100k-250k,Unemployed,23-Sep-2024
+ACC-0280-08,Brittany,Smith,784-30-6741,arhodes@example.org,520-292-9105,8-Jun-1984,"3655 Lindsey Rapids, Hullfurt, NV 85325",Joint,High,<50k,Student,10/20/2024
+ACC-4827-00,Karen,Shaffer,766-27-4308,tbradley@example.net,468.977.9819x193,7/6/1988,"942 Hines Ramp, New Jennifer, MO 64800",Brokerage,Medium,50k-100k,Retired,2-Nov-2021
+ACC-4961-01,Mitchell,Massey,395-67-2334,ashlee74@example.net,5494924749,3/13/1996,"66940 Vicki Extensions Apt. 095, New Alexanderberg, MT 38856",Joint,Low,50k-100k,Retired,14-Nov-2023
+ACC-9041-81,Gloria,Williams,296-49-7825,robinsonjason@example.com,249-410-4795x929,30-Aug-1983,"81469 Haley Fords, East Nathan, AZ 79817",Brokerage,Medium,250k+,Student,10/14/2020
+ACC-5831-13,Anne,Martin,270-32-8392,johnmontes@example.com,001-779-923-6254,2/11/1968,"7968 Martinez Hollow, Simsville, IN 34601",Brokerage,High,50k-100k,Unemployed,8/15/2020
+ACC-4627-83,Danielle,Price,673-97-0039,fgraves@example.com,001-649-608-8200,4/19/2003,"869 Timothy Branch, Ericberg, NV 94423",401(k),Medium,100K-250K,Self-employed,11/11/2023
+ACC-7408-26,Richard,Miller,189-90-6390,vanglisa@example.com,(393)718-4324x13894,8/24/1947,"86280 Fuller Shoal, Lake Jessicaburgh, MI 69756",401(k),Low,100K-250K,Unemployed,5-May-2025
+ACC-4393-46,Christopher,Lowery,103-71-5525,rberger@example.com,253.762.6071,8-Jan-2002,"6165 Dustin Parkway, Rachelville, LA 14916",Roth IRA,Low,<50k,Unemployed,1/30/2021
+ACC-8689-39,Cynthia,Mills,505-14-8885,steintonya@example.com,(278)850-1552,3/1/2003,"1494 Kathy Courts Suite 889, Port David, DE 47010",Custodial,High,50k-100k,Student,2/22/2022
+ACC-7272-94,Kimberly,Williams,511-13-2388,pcollins@example.com,(315)521-2066,12/10/1940,"57889 Bryan Cape Apt. 807, Pooleville, MT 70650",Brokerage,Medium,50k-100k,Student,11/24/2022
+ACC-6132-88,Kenneth,Hartman,520-43-4353,edwardsjustin@example.com,6735989240,4/25/1989,"493 Miller Flats, Sydneyberg, OR 82998",Joint,Medium,<50k,Unemployed,6-Mar-2025
+ACC-7705-30,Terry,Newton,655-83-1001,bruce56@example.org,377.470.2432x5519,5/9/1952,"73050 Soto Unions Apt. 926, South Jasmineside, GA 32255",401(k),Medium,<50k,Unemployed,3/12/2024
+ACC-0608-88,Glen,Thomas,760-95-6542,ghale@example.com,N/A,23-Jan-1958,"472 Alexander Gateway, Joshuaton, OK 24967",Brokerage,High,250k+,Employed,17-Jun-2024
+ACC-8707-29,Sabrina,Bowen,301-06-8650,emelton@example.org,505.331.3474,28-Dec-1995,"422 Christopher Port Suite 544, Gonzaleztown, MS 18928",401(k),Low,100k-250k,Unemployed,9-Aug-2024
+ACC-5940-08,Benjamin,Wilson,191-54-4434,agutierrez@example.org,836.731.3051,11/3/1945,"738 James Turnpike Apt. 464, Port William, OR 63147",Trust,Medium,250k+,Retired,24-Apr-2023
+ACC-4126-43,Sharon,Stewart,724-81-5606,aimee92@example.com,886.203.1861x6123,22-Jan-1944,"022 Jose Road, Jameshaven, PR 97661",Trust,Medium,<50k,Employed,20-Nov-2020
+ACC-6243-77,Tammy,Allison,550-90-8732,kylieanderson@example.org,001-358-371-1101,6/2/1979,"14808 Juan Skyway, Port Ashleymouth, DC 46127",Roth IRA,Low,<50k,Employed,4/5/2025
+ACC-2193-22,Anthony,Flynn,039-45-9724,tylerolson@example.com,001-886-934-2691,3-Jan-1994,"528 Jennifer Courts Suite 412, Jonesburgh, ME 91350",401(k),Low,250K+,Unemployed,19-Jun-2024
+ACC-6762-48,Steven,Ortega,602-29-1826,slewis@example.org,759.592.7390x370,13-Feb-1964,"513 Michael Prairie Suite 558, East Jasonfort, ND 38541",Custodial,Low,100K-250K,Unemployed,2-Mar-2022
+ACC-0268-85,Brittany,Roberts,801-59-1619,lauramartinez@example.org,7277097906,12/23/1957,"0598 Ronald Groves, North Christianmouth, HI 03176",Joint,High,250k+,Student,9-Oct-2023
+ACC-8216-22,Mitchell,Ferguson,713-28-5107,ggarcia@example.org,458.596.2202,6/4/1973,"735 Raymond Village, East Thomas, ND 01226",Brokerage,Low,250k+,Retired,4/26/2024
+ACC-7024-51,Carolyn,Powell,622-17-7128,matthew51@example.com,689.432.9810,30-Jan-1987,"93551 Perez Causeway, Port Charles, WV 49704",Trust,Low,100k-250k,Unemployed,18-Jun-2023
+ACC-3614-35,Carolyn,Mann,523-61-6627,kingbrianna@example.net,+1-613-340-6258x418,8-Nov-1940,"3097 Catherine Glens Suite 721, Emmafurt, NJ 33650",401(k),Low,100k-250k,Retired,2/24/2024
+ACC-8602-19,Andrea,Dennis,021-66-5761,melaniefleming@example.com,334-482-8402x0102,5/31/1964,"3307 Steven Wall Apt. 386, Lake Victoria, HI 60934",401(k),Medium,50k-100k,Unemployed,1-Feb-2021
+ACC-3605-66,James,Ferguson,312-42-7076,heather11@example.org,+1-463-821-8408x60767,1/13/1985,"3081 Hooper Walk Apt. 378, South Albert, AZ 12573",Roth IRA,High,<50k,Unemployed,3/21/2025
+ACC-4148-02,Walter,Guzman,007-88-8784,tlee@example.net,001-726-856-6042x893,14-Aug-1979,"94930 Lamb Valley Apt. 088, Escobarland, AR 83736",401(k),Medium,100k-250k,Self-employed,3/24/2023
+ACC-9529-50,Tom,Patterson,056-03-1910,ryan55@example.com,001-707-957-7860x50642,6/23/1979,"45965 Glen Lane, West Sheilamouth, AR 47102",Joint,Medium,250k+,Unemployed,14-Jul-2023
+ACC-5048-12,Jennifer,King,514-11-1010,,(601)699-2618x545,28-Oct-1989,"08803 Harrison Isle Suite 425, New Stephanieside, HI 76430",Roth IRA,Medium,50k-100k,Retired,3/19/2022
+ACC-6066-04,Sharon,Ruiz,801-65-9903,,001-354-844-7130x9406,7/19/1961,"04681 Williams Stream Suite 066, East Patrickland, LA 25638",Roth IRA,Medium,50K-100K,Employed,14-Jun-2021
+ACC-9384-53,Christopher,Esparza,431-05-2310,scottvictor@example.org,681.355.2161x385,15-Nov-1999,"793 Green Glen, South Julia, UT 50079",Trust,Medium,<50k,Unemployed,2/18/2024
+ACC-2757-73,Aaron,Jones,293-33-2271,wfigueroa@example.net,785.761.2167x924,15-Feb-1983,"68244 Riley Manors, North Pamela, NC 72681",Trust,Low,50k-100k,Retired,6/2/2024
+ACC-9031-08,Mackenzie,Barrett,298-21-5633,kimberly85@example.com,+1-665-627-9614x035,21-Apr-1999,"77480 Heidi Mountain Suite 071, Hansenland, TN 02476",Joint,Medium,50k-100k,Self-employed,2/23/2025
+ACC-0586-00,Leah,Larsen,516-98-7133,rcooley@example.org,348-382-0234,3/11/1962,"4495 Robin Village Apt. 439, Port Meganton, PW 74229",Brokerage,High,<50k,Employed,2-Nov-2022
+ACC-8191-06,Martha,Stuart,078-24-6293,melanie91@example.com,+1-597-277-4925,6/3/1995,"37880 James Village Apt. 958, South Rachelton, OK 57952",Custodial,Low,<50k,Retired,27-Aug-2021
+ACC-6634-62,Rebecca,Ward DVM,245-28-4180,tarahayden@example.org,7116455256,6/13/1985,"182 Snow Underpass, Hopkinsburgh, VI 39878",Brokerage,Medium,250k+,Employed,9/1/2021
+ACC-8952-72,Ronald,Sparks,040-50-8195,lindsey52@example.org,+1-446-677-7918x4888,26-May-1987,"424 Thomas Rapid, Laurieberg, AR 52872",Trust,Medium,<50k,Student,3/29/2023
+ACC-6359-95,Stephen,Carter,585-65-8927,ashley93@example.com,N/A,6/11/1990,"825 Roberts Prairie, Andrewschester, MO 88408",Trust,Low,100k-250k,Employed,7/8/2025
+ACC-5034-80,Theodore,Maldonado,854-41-1918,destiny80@example.org,N/A,3-Jul-1990,"5024 Kevin Islands, West Carmenfurt, AR 80082",Joint,Medium,<50K,Self-employed,12/18/2024
+ACC-1723-94,Frank,Morgan,658-50-9715,michaelandrews@example.net,001-241-609-8917x75602,14-Mar-1947,"0851 Lane Extensions, Lake Staceyhaven, IL 61151",401(k),Medium,100k-250k,Unemployed,29-Sep-2020
+ACC-0416-72,Leon,Daniels,753-56-6687,carriemedina@example.net,521-680-0161x7640,9-Apr-1976,"5248 Jones Harbor, Jessicaview, VT 04869",Custodial,Medium,100k-250k,Student,24-Mar-2023
+ACC-6166-41,Mark,Dean,895-26-3932,janegill@example.com,310-275-9654x34248,6/25/1983,"0051 Ward Walks, Port Lisahaven, SD 13713",Brokerage,Low,250k+,Self-employed,2/10/2024
+ACC-5322-63,Tina,Jones,667-68-8171,velasquezchristy@example.com,N/A,27-Jun-2004,"582 Taylor Manor, South Linda, SD 73832",Roth IRA,High,<50K,Student,29-May-2023
+ACC-5550-88,Danielle,Bell,550-68-6893,psanchez@example.org,+1-845-903-4861x071,6/14/1971,"279 Moore Radial Suite 947, North Yvonne, MS 72250",Trust,High,250k+,Student,6/4/2021
+ACC-8897-53,Jeffrey,Ford,507-72-9763,pthomas@example.net,(761)558-7443,21-Apr-1963,"537 Farmer Canyon Suite 587, South Julie, PR 08788",401(k),Low,100k-250k,Retired,6/19/2022
+ACC-1551-74,Jasmine,Richard,521-10-1935,smithmatthew@example.net,5704058031,21-Mar-1952,"8856 Heather Stravenue Apt. 134, Ramosborough, UT 00643",Joint,Low,<50k,Student,6-Apr-2022
+ACC-8139-72,Ashlee,Bell,511-17-0412,ryanwilliams@example.net,565.678.4327,4/14/1973,"704 Ashley Heights, Stricklandhaven, AS 35111",Brokerage,Low,50k-100k,Self-employed,25-Jan-2021
+ACC-3250-12,Frank,Galloway,514-49-9723,william77@example.org,001-598-371-0221x812,10/15/1995,"08913 Jermaine Camp, Reginaside, MH 17813",Joint,High,<50k,Employed,8/25/2021
+ACC-6299-73,Emily,Ross,424-48-0126,stevenrussell@example.com,(270)955-5823x0356,24-Nov-1965,"74645 Duane Prairie Apt. 527, Heatherhaven, CT 45862",Joint,Low,250k+,Unemployed,14-Dec-2024
+ACC-5412-61,Patrick,Hernandez,200-56-1848,heathergriffin@example.org,(988)647-9233x834,16-Nov-1949,"530 Arnold Ville, Randallmouth, MO 40502",Brokerage,Low,100K-250K,Self-employed,26-Sep-2022
+ACC-3659-34,Brandon,Mills,107-51-9160,ghall@example.net,4482488748,9-Jul-2003,"1100 Kim Junctions Apt. 796, Johnhaven, AL 28967",401(k),Low,250k+,Self-employed,6/28/2022
+ACC-4256-01,Maria,Gonzalez,417-06-1026,wilsonjay@example.net,(243)744-6792,20-Oct-1976,"515 Salinas Highway Suite 863, West Gregory, TX 38114",Trust,Medium,<50k,Self-employed,19-Nov-2024
+ACC-9847-12,Tara,Mccoy,746-48-0749,thompsonvanessa@example.net,280.732.1946,8/14/1987,"594 Palmer Drive, Wesleytown, OR 31019",Roth IRA,High,100k-250k,Self-employed,27-Jan-2022
+ACC-7633-25,Emily,Hart,229-38-0638,dwayneschwartz@example.net,268.923.4818x09750,9/13/1992,"646 Heather Squares Suite 385, Sandovalbury, KS 85186",Roth IRA,Low,50k-100k,Student,12/22/2021
+ACC-5569-10,Jessica,Arellano,534-89-7717,farmernancy@example.net,611-715-4106,24-Mar-1995,"227 Herrera Plain, Cindyland, OH 80860",Roth IRA,Medium,250k+,Self-employed,26-Feb-2022
+ACC-9933-80,Shawn,Drake,349-42-2137,sarah36@example.org,774-738-3723,4-Feb-1991,"542 Miguel Avenue, New Royhaven, IL 27511",Brokerage,Medium,50k-100k,Employed,5-Aug-2022
+ACC-4677-40,Felicia,Scott,553-97-6731,bwalker@example.org,(959)618-4983x6082,10-Jul-1962,"14700 Stanley Ranch Apt. 644, Cynthiastad, SD 16777",Trust,High,50k-100k,Employed,10/31/2024
+ACC-0110-33,Danielle,Pearson,062-92-1847,mwells@example.com,684-723-1270x4781,3/1/1949,"61332 Jessica Rest, New Michael, AK 96421",Brokerage,High,250k+,Self-employed,21-Mar-2021
